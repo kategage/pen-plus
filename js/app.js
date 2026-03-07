@@ -206,8 +206,16 @@
         var resultsCount = document.getElementById("resultsCount");
         var loadingState = document.getElementById("loadingState");
         var resetSearch = document.getElementById("resetSearch");
+        var emptyState = document.getElementById("emptyState");
 
         if (!searchInput) return; // Not the browse page
+
+        // Show empty state if catalog has no resources
+        if (catalog.totalResources === 0) {
+            loadingState.hidden = true;
+            if (emptyState) emptyState.hidden = false;
+            return;
+        }
 
         function populateFilters() {
             catalog.categories.forEach(function (c) {
