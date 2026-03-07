@@ -16,7 +16,26 @@ import urllib.request
 from datetime import datetime
 
 API_KEY = os.environ.get("GOOGLE_API_KEY", "")
-ROOT_FOLDER_ID = os.environ.get("DRIVE_FOLDER_ID", "")
+_RAW_FOLDER = os.environ.get("DRIVE_FOLDER_ID", "")
+
+
+def extract_folder_id(raw):
+    """Extract a bare folder ID from a full Drive URL or return as-is."""
+    if not raw:
+        return ""
+    # Handle full URLs like https://drive.google.com/drive/folders/1ABC...
+    m = re.search(r"/folders/([A-Za-z0-9_-]+)", raw)
+    if m:
+        return m.group(1)
+    # Handle URLs with id= parameter
+    m = re.search(r"[?&]id=([A-Za-z0-9_-]+)", raw)
+    if m:
+        return m.group(1)
+    # Already a bare ID
+    return raw.strip()
+
+
+ROOT_FOLDER_ID = extract_folder_id(_RAW_FOLDER)
 DRIVE_API = "https://www.googleapis.com/drive/v3"
 
 # File type mappings
@@ -222,6 +241,8 @@ def main():
         print("Error: DRIVE_FOLDER_ID environment variable not set", file=sys.stderr)
         sys.exit(1)
 
+    if _RAW_FOLDER != ROOT_FOLDER_ID:
+        print(f"Extracted folder ID from URL: {ROOT_FOLDER_ID}")
     print(f"Starting sync from Drive folder: {ROOT_FOLDER_ID}")
     print(f"Timestamp: {datetime.utcnow().isoformat()}Z")
     print()

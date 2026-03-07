@@ -421,6 +421,20 @@ a:hover {
     font-size: 1.05rem;
 }
 
+.empty-state {
+    text-align: center;
+    padding: 48px 16px;
+    color: var(--color-text-light);
+}
+.empty-state h2 {
+    color: var(--color-text);
+    margin-bottom: 12px;
+}
+.empty-state p {
+    margin-bottom: 12px;
+    font-size: 1.05rem;
+}
+
 .loading-state {
     text-align: center;
     padding: 48px 16px;
