@@ -9,24 +9,47 @@
 <body>
     <header class="site-header">
         <div class="container">
-            <h1 class="site-title">PEN-Plus Clinical Resource Hub</h1>
-            <p class="site-subtitle">Clinical resources for severe non-communicable diseases in low-income settings</p>
+            <div class="header-content">
+                <h1 class="site-title">PEN-Plus Clinical Resource Hub</h1>
+                <p class="site-subtitle">Clinical tools and training materials for severe non-communicable disease care in low-resource settings</p>
+            </div>
             <nav class="site-nav">
-                <a href="index.html" class="nav-link">Browse Resources</a>
-                <a href="updates.html" class="nav-link active">Recent Updates</a>
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="resources.html" class="nav-link">All Resources</a>
+                <a href="updates.html" class="nav-link active">Updates</a>
+                <button id="darkModeToggle" class="dark-mode-toggle" aria-label="Toggle dark mode" aria-pressed="false" title="Toggle dark mode">
+                    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+                    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                </button>
             </nav>
         </div>
     </header>
 
-    <main class="container">
-        <section class="updates-header">
-            <h2>Recently Updated Resources</h2>
-            <p>Resources sorted by most recently modified. Showing the latest changes across all categories.</p>
+    <main class="container main-content">
+        <section class="page-heading">
+            <h2>Recent Updates</h2>
+            <p>Resources sorted by most recently modified, showing the latest changes across all categories</p>
+        </section>
+
+        <section class="updates-filter-bar">
+            <div class="filter-group">
+                <label for="updatesTimeFilter">Show</label>
+                <select id="updatesTimeFilter" class="filter-select">
+                    <option value="7">Last 7 days</option>
+                    <option value="30" selected>Last 30 days</option>
+                    <option value="90">Last 90 days</option>
+                    <option value="all">All time</option>
+                </select>
+            </div>
+            <span id="updatesCount" class="results-count"></span>
         </section>
 
         <section class="results-section">
             <div id="updatesList" class="updates-list">
                 <!-- Updates rendered here by JS -->
+            </div>
+            <div id="noUpdates" class="no-results" hidden>
+                <p>No resources were modified in this time period.</p>
             </div>
             <div id="loadingState" class="loading-state">
                 <div class="spinner"></div>
@@ -37,10 +60,11 @@
 
     <footer class="site-footer">
         <div class="container">
-            <p>PEN-Plus Clinical Resource Hub &mdash; Resources synced from
-                <a href="https://drive.google.com/drive/folders/1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ" target="_blank" rel="noopener">Google Drive</a>
-            </p>
-            <p class="footer-meta">Last synced: <span id="lastSynced">—</span> | Total resources: <span id="totalResources">—</span></p>
+            <div class="footer-content">
+                <p class="footer-brand">PEN-Plus Clinical Resource Hub</p>
+                <p class="footer-description">Resources synced from <a href="https://drive.google.com/drive/folders/1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ" target="_blank" rel="noopener">Google Drive</a></p>
+                <p class="footer-meta">Last synced: <span id="lastSynced">—</span> &middot; Total resources: <span id="totalResources">—</span></p>
+            </div>
         </div>
     </footer>
 

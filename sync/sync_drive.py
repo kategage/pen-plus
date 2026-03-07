@@ -174,6 +174,14 @@ def crawl_folder(folder_id, path_parts=None, depth=0):
             result = list_files(folder_id, page_token)
         except Exception as e:
             print(f"{indent}Error listing folder: {e}", file=sys.stderr)
+            if depth == 0 and page_num == 1:
+                # Root folder failed on first request — fatal error
+                print("\nFATAL: Cannot access the root Drive folder.", file=sys.stderr)
+                print("Check that:", file=sys.stderr)
+                print("  1. The Google Drive API is enabled in your Cloud project", file=sys.stderr)
+                print("  2. The API key is valid and unrestricted (or allows Drive API)", file=sys.stderr)
+                print("  3. The folder is shared as 'Anyone with the link'", file=sys.stderr)
+                sys.exit(1)
             break
 
         files = result.get("files", [])
@@ -249,6 +257,11 @@ def main():
 
     resources = crawl_folder(ROOT_FOLDER_ID)
     print(f"\nTotal resources found: {len(resources)}")
+
+    if len(resources) == 0:
+        print("\nWARNING: No resources found. The catalog will not be updated.", file=sys.stderr)
+        print("If the folder contains files, check API key permissions and folder sharing.", file=sys.stderr)
+        sys.exit(1)
 
     # Sort by modified time (newest first) as default
     resources.sort(key=lambda r: r.get("modifiedTime", ""), reverse=True)

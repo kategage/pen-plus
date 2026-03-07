@@ -9,89 +9,112 @@
 <body>
     <header class="site-header">
         <div class="container">
-            <h1 class="site-title">PEN-Plus Clinical Resource Hub</h1>
-            <p class="site-subtitle">Clinical resources for severe non-communicable diseases in low-income settings</p>
+            <div class="header-content">
+                <h1 class="site-title">PEN-Plus Clinical Resource Hub</h1>
+                <p class="site-subtitle">Clinical tools and training materials for severe non-communicable disease care in low-resource settings</p>
+            </div>
             <nav class="site-nav">
-                <a href="index.html" class="nav-link active">Browse Resources</a>
-                <a href="updates.html" class="nav-link">Recent Updates</a>
+                <a href="index.html" class="nav-link active">Home</a>
+                <a href="resources.html" class="nav-link">All Resources</a>
+                <a href="updates.html" class="nav-link">Updates</a>
+                <button id="darkModeToggle" class="dark-mode-toggle" aria-label="Toggle dark mode" aria-pressed="false" title="Toggle dark mode">
+                    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+                    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                </button>
             </nav>
         </div>
     </header>
 
-    <main class="container">
-        <section class="search-section">
-            <div class="search-bar">
-                <input
-                    type="text"
-                    id="searchInput"
-                    class="search-input"
-                    placeholder="Search resources by name or keyword..."
-                    autocomplete="off"
-                >
-                <span class="search-icon">&#128269;</span>
-            </div>
-        </section>
-
-        <section class="filters-section">
-            <div class="filter-group">
-                <label for="categoryFilter">Category</label>
-                <select id="categoryFilter" class="filter-select">
-                    <option value="">All Categories</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="typeFilter">File Type</label>
-                <select id="typeFilter" class="filter-select">
-                    <option value="">All Types</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="languageFilter">Language</label>
-                <select id="languageFilter" class="filter-select">
-                    <option value="">All Languages</option>
-                </select>
-            </div>
-            <button id="clearFilters" class="btn btn-secondary">Clear Filters</button>
-        </section>
-
-        <section class="results-section">
-            <div class="results-header">
-                <span id="resultsCount" class="results-count">Loading...</span>
-                <div class="sort-controls">
-                    <label for="sortSelect">Sort by:</label>
-                    <select id="sortSelect" class="filter-select sort-select">
-                        <option value="name-asc">Name (A-Z)</option>
-                        <option value="name-desc">Name (Z-A)</option>
-                        <option value="modified-desc" selected>Recently Modified</option>
-                        <option value="modified-asc">Oldest First</option>
-                    </select>
+    <main>
+        <!-- Hero search -->
+        <section class="hero-search">
+            <div class="container">
+                <h2 class="hero-heading">Find clinical resources</h2>
+                <p class="hero-text">Search across protocols, training guides, data tools, and more for PEN-Plus NCD programs</p>
+                <div class="search-bar search-bar-hero">
+                    <svg class="search-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                    <input
+                        type="text"
+                        id="heroSearch"
+                        class="search-input"
+                        placeholder="Search by name, category, or keyword..."
+                        autocomplete="off"
+                    >
+                    <button id="heroSearchClear" class="search-clear" hidden aria-label="Clear search">&times;</button>
+                </div>
+                <div id="heroSearchResults" class="hero-search-results" hidden>
+                    <div id="heroResultsList" class="hero-results-list"></div>
+                    <a href="resources.html" class="hero-results-link">View all resources &rarr;</a>
                 </div>
             </div>
-            <div id="resourcesList" class="resources-grid">
-                <!-- Resources rendered here by JS -->
+        </section>
+
+        <!-- Quick stats -->
+        <section class="stats-bar">
+            <div class="container">
+                <div class="stats-row">
+                    <div class="stat-item">
+                        <span class="stat-number" id="statTotal">—</span>
+                        <span class="stat-label">Resources</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number" id="statCategories">—</span>
+                        <span class="stat-label">Categories</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number" id="statLanguages">—</span>
+                        <span class="stat-label">Languages</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number" id="statTypes">—</span>
+                        <span class="stat-label">File Types</span>
+                    </div>
+                </div>
             </div>
-            <div id="noResults" class="no-results" hidden>
-                <p>No resources match your search criteria.</p>
-                <button id="resetSearch" class="btn btn-primary">Reset Search</button>
+        </section>
+
+        <!-- Category cards -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Browse by Category</h2>
+                    <a href="resources.html" class="section-link">View all &rarr;</a>
+                </div>
+                <div id="categoryCards" class="category-grid">
+                    <!-- Populated by JS -->
+                </div>
+                <div id="homepageLoading" class="loading-state">
+                    <div class="spinner"></div>
+                    <p>Loading resources...</p>
+                </div>
+                <div id="homepageEmpty" class="empty-state" hidden>
+                    <h3>No resources synced yet</h3>
+                    <p>The resource catalog is empty. Run the <strong>Sync Drive Resources</strong> workflow from the Actions tab to populate it.</p>
+                </div>
             </div>
-            <div id="emptyState" class="empty-state" hidden>
-                <h2>No resources synced yet</h2>
-                <p>The resource catalog is empty. This usually means the sync workflow hasn't run yet or the Google Drive folder is not accessible.</p>
-                <p>To populate resources, run the <strong>Sync Drive Resources</strong> workflow from the Actions tab.</p>
-            </div>
-            <div id="loadingState" class="loading-state">
-                <div class="spinner"></div>
-                <p>Loading resources...</p>
+        </section>
+
+        <!-- Recent updates -->
+        <section class="section section-alt">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Recently Updated</h2>
+                    <a href="updates.html" class="section-link">View all updates &rarr;</a>
+                </div>
+                <div id="recentUpdates" class="recent-updates-list">
+                    <!-- Populated by JS -->
+                </div>
             </div>
         </section>
     </main>
 
     <footer class="site-footer">
         <div class="container">
-            <p>PEN-Plus Clinical Resource Hub &mdash; Resources synced from
-                <a href="https://drive.google.com/drive/folders/1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ" target="_blank" rel="noopener">Google Drive</a>
-            </p>
-            <p class="footer-meta">Last synced: <span id="lastSynced">—</span> | Total resources: <span id="totalResources">—</span></p>
+            <div class="footer-content">
+                <p class="footer-brand">PEN-Plus Clinical Resource Hub</p>
+                <p class="footer-description">Resources synced from <a href="https://drive.google.com/drive/folders/1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ" target="_blank" rel="noopener">Google Drive</a></p>
+                <p class="footer-meta">Last synced: <span id="lastSynced">—</span> &middot; Total resources: <span id="totalResources">—</span></p>
+            </div>
         </div>
     </footer>
 
