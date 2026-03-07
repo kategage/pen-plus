@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PEN-Plus Clinical Resource Hub</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title">PEN-Plus Clinical Resource Hub</h1>
+            <p class="site-subtitle">Clinical resources for severe non-communicable diseases in low-income settings</p>
+            <nav class="site-nav">
+                <a href="index.html" class="nav-link active">Browse Resources</a>
+                <a href="updates.html" class="nav-link">Recent Updates</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="search-section">
+            <div class="search-bar">
+                <input
+                    type="text"
+                    id="searchInput"
+                    class="search-input"
+                    placeholder="Search resources by name or keyword..."
+                    autocomplete="off"
+                >
+                <span class="search-icon">&#128269;</span>
+            </div>
+        </section>
+
+        <section class="filters-section">
+            <div class="filter-group">
+                <label for="categoryFilter">Category</label>
+                <select id="categoryFilter" class="filter-select">
+                    <option value="">All Categories</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="typeFilter">File Type</label>
+                <select id="typeFilter" class="filter-select">
+                    <option value="">All Types</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="languageFilter">Language</label>
+                <select id="languageFilter" class="filter-select">
+                    <option value="">All Languages</option>
+                </select>
+            </div>
+            <button id="clearFilters" class="btn btn-secondary">Clear Filters</button>
+        </section>
+
+        <section class="results-section">
+            <div class="results-header">
+                <span id="resultsCount" class="results-count">Loading...</span>
+                <div class="sort-controls">
+                    <label for="sortSelect">Sort by:</label>
+                    <select id="sortSelect" class="filter-select sort-select">
+                        <option value="name-asc">Name (A-Z)</option>
+                        <option value="name-desc">Name (Z-A)</option>
+                        <option value="modified-desc" selected>Recently Modified</option>
+                        <option value="modified-asc">Oldest First</option>
+                    </select>
+                </div>
+            </div>
+            <div id="resourcesList" class="resources-grid">
+                <!-- Resources rendered here by JS -->
+            </div>
+            <div id="noResults" class="no-results" hidden>
+                <p>No resources match your search criteria.</p>
+                <button id="resetSearch" class="btn btn-primary">Reset Search</button>
+            </div>
+            <div id="loadingState" class="loading-state">
+                <div class="spinner"></div>
+                <p>Loading resources...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>PEN-Plus Clinical Resource Hub &mdash; Resources synced from
+                <a href="https://drive.google.com/drive/folders/1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ" target="_blank" rel="noopener">Google Drive</a>
+            </p>
+            <p class="footer-meta">Last synced: <span id="lastSynced">—</span> | Total resources: <span id="totalResources">—</span></p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
