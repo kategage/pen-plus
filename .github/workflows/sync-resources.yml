@@ -24,7 +24,7 @@ jobs:
       - name: Run Drive sync
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+          DRIVE_FOLDER_ID: ${{ secrets.PEN_REPO_DRIVE_LINK }}
         run: python clinical-resources/sync/sync_drive.py
 
       - name: Check for changes
