@@ -16,17 +16,15 @@ Resources are automatically synced from a shared [Google Drive folder](https://d
 ## Project Structure
 
 ```
-clinical-resources/
 ├── index.html              # Browse page with search + filters
 ├── updates.html            # Recent Updates page (sorted by modified date)
 ├── css/styles.css          # Responsive styles
 ├── js/app.js               # Client-side search, filter, and render logic
 ├── data/resources.json     # Auto-generated resource catalog
-└── sync/
-    └── sync_drive.py       # Python script — crawls Google Drive API v3
-
-.github/workflows/
-└── sync-resources.yml      # Weekly + manual workflow_dispatch
+├── sync/
+│   └── sync_drive.py       # Python script — crawls Google Drive API v3
+└── .github/workflows/
+    └── sync-resources.yml  # Weekly + manual workflow_dispatch
 ```
 
 ## Setup
@@ -43,8 +41,8 @@ Add these secrets in **Settings > Secrets and variables > Actions**:
 ### GitHub Pages
 
 1. Go to **Settings > Pages**
-2. Set source to the branch and `/clinical-resources` as the root (or use `docs/` if you prefer to rename)
-3. The site will be available at `https://<org>.github.io/pen-plus/`
+2. Set source to **Deploy from a branch**, branch `main`, folder `/ (root)`
+3. The site will be available at `https://kategage.github.io/pen-plus/`
 
 ### Running the Sync Manually
 
@@ -53,7 +51,7 @@ Add these secrets in **Settings > Secrets and variables > Actions**:
   ```bash
   export GOOGLE_API_KEY="your-api-key"
   export DRIVE_FOLDER_ID="1AJ596cpxzQDUo685nR7Q1pM2d6dcGGgQ"
-  python clinical-resources/sync/sync_drive.py
+  python sync/sync_drive.py
   ```
 
 ## How It Works
