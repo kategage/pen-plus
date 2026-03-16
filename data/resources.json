@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-09T06:54:45Z",
-  "totalResources": 1174,
+  "generatedAt": "2026-03-16T07:09:14Z",
+  "totalResources": 1176,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,66 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "18hLBrqeo5ddRR8bPimS3odBGj9mNOLKv0Gs4m8yLSn4",
+      "name": "Epilepsy_PENPlus_scaleup_2.3.2026",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Neurology",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
+      "link": "https://drive.google.com/file/d/18hLBrqeo5ddRR8bPimS3odBGj9mNOLKv0Gs4m8yLSn4/view",
+      "size": 25396,
+      "modifiedTime": "2026-03-13T18:44:18.566Z"
+    },
+    {
+      "id": "1zdICp6PEuQrlhzBgp0O6FuDkVKkUb46QcCLMdfwVC70",
+      "name": "SCD_PENPlus_scaleup_2.3.2026",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
+      "link": "https://drive.google.com/file/d/1zdICp6PEuQrlhzBgp0O6FuDkVKkUb46QcCLMdfwVC70/view",
+      "size": 27293,
+      "modifiedTime": "2026-03-13T15:09:26.033Z"
+    },
+    {
+      "id": "1w1kbgzzQQFBoNRp7Z5IH2lEFBSDX2F2-Z5fuNDaEPIA",
+      "name": "DM_PENPlus_scaleup_2.3.2026",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
+      "link": "https://drive.google.com/file/d/1w1kbgzzQQFBoNRp7Z5IH2lEFBSDX2F2-Z5fuNDaEPIA/view",
+      "size": 25797,
+      "modifiedTime": "2026-03-12T15:04:34.549Z"
+    },
+    {
+      "id": "1GpXCyHqJcAjMTZS5KdG6rZlQG_JZla6IfL_KHtKQUX0",
+      "name": "SCD Peer Ed Training Handbook",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/3. SCD training material",
+      "link": "https://drive.google.com/file/d/1GpXCyHqJcAjMTZS5KdG6rZlQG_JZla6IfL_KHtKQUX0/view",
+      "size": 69804,
+      "modifiedTime": "2026-03-09T18:12:01.130Z"
+    },
+    {
+      "id": "1bZvm9QNYDBTtHWsx0bHQV9xLYD4_-8tl",
+      "name": "SNF Camps Venue Assessment Checklist.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/1bZvm9QNYDBTtHWsx0bHQV9xLYD4_-8tl/view?usp=sharing",
+      "size": 30524,
+      "modifiedTime": "2026-03-09T12:05:05.000Z"
+    },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
@@ -190,18 +250,6 @@
       "modifiedTime": "2026-02-17T12:10:57.000Z"
     },
     {
-      "id": "1zdICp6PEuQrlhzBgp0O6FuDkVKkUb46QcCLMdfwVC70",
-      "name": "SCD_PENPlus_scaleup_2.3.2026",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "Forms & Templates",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
-      "link": "https://drive.google.com/file/d/1zdICp6PEuQrlhzBgp0O6FuDkVKkUb46QcCLMdfwVC70/view",
-      "size": 27293,
-      "modifiedTime": "2026-02-09T17:06:29.217Z"
-    },
-    {
       "id": "1pmkNBgRlpm27JQms6TQF8KFr78Sx3zvrsdgqSqawYNY",
       "name": "Respiratory_PENPlus_ scaleup_2.3.2026",
       "type": "Google Doc",
@@ -236,30 +284,6 @@
       "link": "https://drive.google.com/file/d/1VtLhcDcGXmxxtEVPlEdoLa9VKOXwgNuawaWrB60xXL0/view",
       "size": 22337,
       "modifiedTime": "2026-02-09T17:06:04.161Z"
-    },
-    {
-      "id": "18hLBrqeo5ddRR8bPimS3odBGj9mNOLKv0Gs4m8yLSn4",
-      "name": "Epilepsy_PENPlus_scaleup_2.3.2026",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "Neurology",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
-      "link": "https://drive.google.com/file/d/18hLBrqeo5ddRR8bPimS3odBGj9mNOLKv0Gs4m8yLSn4/view",
-      "size": 25396,
-      "modifiedTime": "2026-02-09T17:05:56.908Z"
-    },
-    {
-      "id": "1w1kbgzzQQFBoNRp7Z5IH2lEFBSDX2F2-Z5fuNDaEPIA",
-      "name": "DM_PENPlus_scaleup_2.3.2026",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "Forms & Templates",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus clinical forms/Current Clinical Forms/Current Clinical Short \"Scale up\" Forms",
-      "link": "https://drive.google.com/file/d/1w1kbgzzQQFBoNRp7Z5IH2lEFBSDX2F2-Z5fuNDaEPIA/view",
-      "size": 25797,
-      "modifiedTime": "2026-02-09T17:05:50.523Z"
     },
     {
       "id": "1U5ieMZ3Yi0dYvuwyZcxUZqtKkcAFfY9_",
