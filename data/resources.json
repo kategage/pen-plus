@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T07:02:56Z",
-  "totalResources": 1176,
+  "generatedAt": "2026-03-30T07:19:11Z",
+  "totalResources": 1177,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,66 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1x3I-UeRcm7MuJLNjZVzqYdCBhYnQu24y",
+      "name": "2. Insulin therapy for T1 diabetes_NCDIPN_2023.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Training modules",
+      "link": "https://drive.google.com/file/d/1x3I-UeRcm7MuJLNjZVzqYdCBhYnQu24y/view?usp=sharing",
+      "size": 12595007,
+      "modifiedTime": "2026-03-29T13:31:45.280Z"
+    },
+    {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 16751,
+      "modifiedTime": "2026-03-24T13:49:05.347Z"
+    },
+    {
+      "id": "1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY",
+      "name": "SCD Case Review #3 Nephropathy_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY/view?usp=sharing",
+      "size": 2021621,
+      "modifiedTime": "2026-03-24T13:48:05.991Z"
+    },
+    {
+      "id": "1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L",
+      "name": "SCD Case Review #2 Acute Chest Syndrome_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L/view?usp=sharing",
+      "size": 1766523,
+      "modifiedTime": "2026-03-24T13:47:30.031Z"
+    },
+    {
+      "id": "1A0hEHgjTb8pFfkpM5uF7G3ebz3bf6e_x",
+      "name": "Case Review #4 Hydroxyurea_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1A0hEHgjTb8pFfkpM5uF7G3ebz3bf6e_x/view?usp=sharing",
+      "size": 19016870,
+      "modifiedTime": "2026-03-24T13:46:47.692Z"
+    },
     {
       "id": "1VtLhcDcGXmxxtEVPlEdoLa9VKOXwgNuawaWrB60xXL0",
       "name": "Kidney_PENPlus_scaleup_2.3.2026",
@@ -176,18 +236,6 @@
       "link": "https://drive.google.com/file/d/1bZvm9QNYDBTtHWsx0bHQV9xLYD4_-8tl/view?usp=sharing",
       "size": 30524,
       "modifiedTime": "2026-03-09T12:05:05.000Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 16751,
-      "modifiedTime": "2026-03-05T16:02:00.637Z"
     },
     {
       "id": "1zZuZRSDp0kim2l7asNVPwiZxlvKcttQ8",
@@ -1484,30 +1532,6 @@
       "link": "https://drive.google.com/file/d/1BNC4ciD8vk2wQQdYwU2jLmEVzFadO3BB/view?usp=sharing",
       "size": 24510,
       "modifiedTime": "2025-10-21T18:06:23.274Z"
-    },
-    {
-      "id": "1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY",
-      "name": "SCD Case Review #3_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY/view?usp=sharing",
-      "size": 1930904,
-      "modifiedTime": "2025-10-20T18:39:06.017Z"
-    },
-    {
-      "id": "1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L",
-      "name": "SCD Case Review #2_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L/view?usp=sharing",
-      "size": 1766523,
-      "modifiedTime": "2025-10-09T13:36:29.552Z"
     },
     {
       "id": "1q83pUte3qXRLwAFKQiJ6jEejMmWSyIGu",
@@ -3236,18 +3260,6 @@
       "link": "https://drive.google.com/file/d/1K97Gjsmh1fIPTUrEH_1eeKdkvH0y-ZQr/view?usp=sharing",
       "size": 17501604,
       "modifiedTime": "2025-09-24T06:59:45.107Z"
-    },
-    {
-      "id": "1x3I-UeRcm7MuJLNjZVzqYdCBhYnQu24y",
-      "name": "2. Insulin therapy for T1 diabetes_NCDIPN_2023.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Endocrinology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Training modules",
-      "link": "https://drive.google.com/file/d/1x3I-UeRcm7MuJLNjZVzqYdCBhYnQu24y/view?usp=sharing",
-      "size": 12386366,
-      "modifiedTime": "2025-09-24T06:59:37.073Z"
     },
     {
       "id": "1QhCpZpUtDuky2wlWiIjuStH6-ng_b8Y8",
