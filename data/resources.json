@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T07:22:11Z",
-  "totalResources": 1191,
+  "generatedAt": "2026-04-13T07:52:52Z",
+  "totalResources": 1194,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,66 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1uvJib0Nitn4DchAFM51cq9pbFmk6WyCv",
+      "name": "2. Basic Knowledge Heart Failure_PEN-Plus 2023.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Modules Heart Failure",
+      "link": "https://drive.google.com/file/d/1uvJib0Nitn4DchAFM51cq9pbFmk6WyCv/view?usp=sharing",
+      "size": 8983608,
+      "modifiedTime": "2026-04-09T03:46:51.532Z"
+    },
+    {
+      "id": "1eRlMOWbqNCeDtkwXfvZRYayGYIgaGzIY",
+      "name": "1. Echocardiography for Heart Failure_NCDIPN_2022.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Modules Heart Failure",
+      "link": "https://drive.google.com/file/d/1eRlMOWbqNCeDtkwXfvZRYayGYIgaGzIY/view?usp=sharing",
+      "size": 13211744,
+      "modifiedTime": "2026-04-09T03:18:33.910Z"
+    },
+    {
+      "id": "14Ms5S7ULrO_2BL_GZU-E0BOpXoCOJEv6",
+      "name": "Copy of SCD Peer Ed training Facilitator guide.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/3. SCD training material",
+      "link": "https://drive.google.com/file/d/14Ms5S7ULrO_2BL_GZU-E0BOpXoCOJEv6/view?usp=sharing",
+      "size": 45735113,
+      "modifiedTime": "2026-04-08T14:04:24.963Z"
+    },
+    {
+      "id": "1XzQXjc0565qqb71q4j12DeEwB0e9kKCU",
+      "name": "HCPA results - Technical Session .pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/Training/Healthcare Provider Assessment Results",
+      "link": "https://drive.google.com/file/d/1XzQXjc0565qqb71q4j12DeEwB0e9kKCU/view?usp=sharing",
+      "size": 10088117,
+      "modifiedTime": "2026-04-08T09:33:03.458Z"
+    },
+    {
+      "id": "1UF1NvRGiIhE26zzViJKmrPDIC0gn1PW-",
+      "name": "video1537505272.mp4",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "Training",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/Training/Healthcare Provider Assessment Results",
+      "link": "https://drive.google.com/file/d/1UF1NvRGiIhE26zzViJKmrPDIC0gn1PW-/view?usp=sharing",
+      "size": 202258239,
+      "modifiedTime": "2026-04-07T14:30:28.000Z"
+    },
     {
       "id": "1AhVvYLckzfkZCmZkRCqx3EL_BABceobm",
       "name": "Liver_PENPlus_scaleup_2.3.2026.pdf",
@@ -6058,18 +6118,6 @@
       "modifiedTime": "2025-08-19T16:09:13.013Z"
     },
     {
-      "id": "1eRlMOWbqNCeDtkwXfvZRYayGYIgaGzIY",
-      "name": "1. Echocardiography for Heart Failure_NCDIPN_2022.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Modules Heart Failure",
-      "link": "https://drive.google.com/file/d/1eRlMOWbqNCeDtkwXfvZRYayGYIgaGzIY/view?usp=sharing",
-      "size": 13211715,
-      "modifiedTime": "2025-08-19T16:06:21.466Z"
-    },
-    {
       "id": "1_iG0sV3wnHfiHoMms42TgYsqQXgG5dcd",
       "name": "6. Atrial Fibrillation,Blood Clots & Anticoagulation_PEN-Plus 2023.pptx",
       "type": "PPTX",
@@ -6092,18 +6140,6 @@
       "link": "https://drive.google.com/file/d/1qM_aIrTX2w57XEgJT68xXeTf0o9PLpAZ/view?usp=sharing",
       "size": 1264343,
       "modifiedTime": "2025-08-18T19:19:38.437Z"
-    },
-    {
-      "id": "1uvJib0Nitn4DchAFM51cq9pbFmk6WyCv",
-      "name": "2. Basic Knowledge Heart Failure_PEN-Plus 2023.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Modules Heart Failure",
-      "link": "https://drive.google.com/file/d/1uvJib0Nitn4DchAFM51cq9pbFmk6WyCv/view?usp=sharing",
-      "size": 8982260,
-      "modifiedTime": "2025-08-18T19:04:36.420Z"
     },
     {
       "id": "1RG6eNSiG8kGVoeIEVgYkGxVYipVCaBtC",
