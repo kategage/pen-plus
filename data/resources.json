@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T07:52:52Z",
-  "totalResources": 1194,
+  "generatedAt": "2026-04-20T07:56:53Z",
+  "totalResources": 1198,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,102 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1Zcx_6pNdN3x_9v0bKrwAFEpmaxD1JhnP",
+      "name": "Team Building activities.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program",
+      "link": "https://drive.google.com/file/d/1Zcx_6pNdN3x_9v0bKrwAFEpmaxD1JhnP/view?usp=sharing",
+      "size": 70180,
+      "modifiedTime": "2026-04-17T09:53:25.761Z"
+    },
+    {
+      "id": "1Y8sUnor6kEnumV0BBx0LxYxScwr_Z8oX",
+      "name": "SNF Camp checklist.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/1Y8sUnor6kEnumV0BBx0LxYxScwr_Z8oX/view?usp=sharing",
+      "size": 489037,
+      "modifiedTime": "2026-04-17T09:47:49.000Z"
+    },
+    {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 16751,
+      "modifiedTime": "2026-04-15T13:11:34.441Z"
+    },
+    {
+      "id": "1Ag23ELapzEmmwOstdHPPYH7S2hI9Mmu1",
+      "name": "PEN-Plus Mentorship Tool. 2.0_April_ 2026.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tool new ",
+      "link": "https://drive.google.com/file/d/1Ag23ELapzEmmwOstdHPPYH7S2hI9Mmu1/view?usp=sharing",
+      "size": 578909,
+      "modifiedTime": "2026-04-15T13:07:01.000Z"
+    },
+    {
+      "id": "1BYUeUd5UX8t3_k44HO4GjkZkHeHQwvnb",
+      "name": "PEN-Plus Mentorship Tool. 2.0_NCDIPN_ 2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tool new ",
+      "link": "https://drive.google.com/file/d/1BYUeUd5UX8t3_k44HO4GjkZkHeHQwvnb/view?usp=sharing",
+      "size": 270970,
+      "modifiedTime": "2026-04-15T13:06:40.971Z"
+    },
+    {
+      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
+      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
+      "size": 11745585,
+      "modifiedTime": "2026-04-14T10:45:30.632Z"
+    },
+    {
+      "id": "1NMPlL5YT-NS22tfWPc6ArhZcx_o9Z9qe",
+      "name": "PEN-Plus Monitoring and Evaluation Toolkit.11-14-25.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "10_DataSystems",
+      "language": "English",
+      "path": "10_DataSystems",
+      "link": "https://drive.google.com/file/d/1NMPlL5YT-NS22tfWPc6ArhZcx_o9Z9qe/view?usp=sharing",
+      "size": 8546567,
+      "modifiedTime": "2026-04-13T18:07:49.000Z"
+    },
+    {
+      "id": "1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG",
+      "name": "Core + Priority Clinical Indicators_PEN-Plus 2024.11.15xlsx.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "10_DataSystems",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus indicators",
+      "link": "https://drive.google.com/file/d/1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG/view?usp=sharing",
+      "size": 60051,
+      "modifiedTime": "2026-04-13T18:04:46.362Z"
+    },
     {
       "id": "1uvJib0Nitn4DchAFM51cq9pbFmk6WyCv",
       "name": "2. Basic Knowledge Heart Failure_PEN-Plus 2023.pptx",
@@ -466,18 +562,6 @@
       "modifiedTime": "2026-03-29T13:31:45.280Z"
     },
     {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 16751,
-      "modifiedTime": "2026-03-24T13:49:05.347Z"
-    },
-    {
       "id": "1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY",
       "name": "SCD Case Review #3 Nephropathy_NCDIPN_2025.pptx",
       "type": "PPTX",
@@ -568,7 +652,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program",
       "link": "https://drive.google.com/file/d/1dfzSheJjp4LotnNtCOXJxxy9LdbKCAoW/view?usp=sharing",
       "size": 178113,
       "modifiedTime": "2026-02-27T20:34:47.416Z"
@@ -608,18 +692,6 @@
       "link": "https://drive.google.com/file/d/1Ua780gDr3Uc7pUx3tjvkkgzydeVnWcXL/view?usp=sharing",
       "size": 222653,
       "modifiedTime": "2026-02-27T13:21:02.000Z"
-    },
-    {
-      "id": "1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG",
-      "name": "Core + Priority Clinical Indicators_PEN-Plus 2024.11.15xlsx.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "10_DataSystems",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus indicators",
-      "link": "https://drive.google.com/file/d/1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG/view?usp=sharing",
-      "size": 60303,
-      "modifiedTime": "2026-02-27T00:27:42.072Z"
     },
     {
       "id": "1Edm2SChriLCiVQ_0DvSVun19qCHPbmNP",
@@ -728,18 +800,6 @@
       "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
       "size": 19449124,
       "modifiedTime": "2026-02-01T16:53:36.919Z"
-    },
-    {
-      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
-      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
-      "size": 11745548,
-      "modifiedTime": "2026-01-31T14:55:55.905Z"
     },
     {
       "id": "1VDhOu-p6YqQ-85Wo-GP9Bu3zRV4BiBKB",
@@ -3628,7 +3688,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tool new ",
+      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tools old",
       "link": "https://drive.google.com/file/d/1ob-CmYUnbmvfl_glctU9IWlaEG7rY9Pm/view?usp=sharing",
       "size": 309857,
       "modifiedTime": "2025-09-24T06:52:13.140Z"
@@ -3640,7 +3700,7 @@
       "mimeType": "application/pdf",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tool new ",
+      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists/Mentoring tools old",
       "link": "https://drive.google.com/file/d/1beQQcGwehQkMzRXP4qzXhtRDH2oR7Tm2/view?usp=sharing",
       "size": 815819,
       "modifiedTime": "2025-09-24T06:51:48.227Z"
@@ -6148,7 +6208,7 @@
       "mimeType": "application/pdf",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Advocacy session",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Advocacy session",
       "link": "https://drive.google.com/file/d/1RG6eNSiG8kGVoeIEVgYkGxVYipVCaBtC/view?usp=sharing",
       "size": 206837,
       "modifiedTime": "2025-08-16T19:37:08.000Z"
@@ -6160,7 +6220,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1-KZ4tbajAXWKIMH6gHq0DrmjBQF2FzH0/view?usp=sharing",
       "size": 4510778,
       "modifiedTime": "2025-08-15T13:49:49.000Z"
@@ -6172,7 +6232,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/12Gz1Zm_0uLm4Ct-QofGL8aSEnhLQrKbb/view?usp=sharing",
       "size": 9376757,
       "modifiedTime": "2025-08-15T13:49:48.000Z"
@@ -6184,7 +6244,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1P219Xn7pN_EnX6N67w9wOCRdnG9Ag01K/view?usp=sharing",
       "size": 8718372,
       "modifiedTime": "2025-08-15T13:49:45.000Z"
@@ -6196,7 +6256,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1i7TeEpxp3-2v6XiaAX_ZHPNBSVTd4nVJ/view?usp=sharing",
       "size": 9696697,
       "modifiedTime": "2025-08-15T13:49:41.000Z"
@@ -6208,7 +6268,7 @@
       "mimeType": "image/jpeg",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1eAXqGWd-R8yCvVDfAYhcoCCsGl6UR_Oe/view?usp=sharing",
       "size": 2981838,
       "modifiedTime": "2025-08-15T13:49:39.000Z"
@@ -6220,7 +6280,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1zgVyhXuxtSa3y9my5TEHDwTuRh9Kq43s/view?usp=sharing",
       "size": 9696697,
       "modifiedTime": "2025-08-15T13:49:37.000Z"
@@ -6232,7 +6292,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1T3NbwQwoY8mLZlZjyvhCkzt6_GBdvuK_/view?usp=sharing",
       "size": 4467441,
       "modifiedTime": "2025-08-15T13:49:33.000Z"
@@ -6244,7 +6304,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1vffo0lnYosQeQKF_SlxyJ-lLWY7sCjyH/view?usp=sharing",
       "size": 6991492,
       "modifiedTime": "2025-08-15T13:49:30.000Z"
@@ -6256,7 +6316,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1wQVAs3ou_41gir-soML2Da9UwTMTeCtp/view?usp=sharing",
       "size": 3689641,
       "modifiedTime": "2025-08-15T13:49:26.000Z"
@@ -6268,7 +6328,7 @@
       "mimeType": "application/pdf",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/SCD sessions",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/SCD sessions",
       "link": "https://drive.google.com/file/d/1GeTkZvJfdipXy9dkwXVr8TISpSwEUbGp/view?usp=sharing",
       "size": 6430352,
       "modifiedTime": "2025-08-15T13:49:25.000Z"
@@ -6388,7 +6448,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1QtR7OYNfltSf48Anmb2pPDz2qBFjIkAr/view?usp=sharing",
       "size": 1029586,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6400,7 +6460,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1bniFLK1D9ofm3XXGOTcX1fu3Oo_ZQjHO/view?usp=sharing",
       "size": 1123627,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6412,7 +6472,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1S8J-DZreHHTWv2UWtMnnLag4hFoK4yQn/view?usp=sharing",
       "size": 821409,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6424,7 +6484,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1GxRZR7xYnSS-yEGUznfDEOnXFdBQMawh/view?usp=sharing",
       "size": 1182906,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6436,7 +6496,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1X99icvNTUgTyZyi1RgziMJX7gQkCr73X/view?usp=sharing",
       "size": 993773,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6448,7 +6508,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1xRAb1wj75TdyxgCclXLax9y1-FFrp5dd/view?usp=sharing",
       "size": 1350544,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6460,7 +6520,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1pPbAT7zslACvO-PEmSjtQwbuyOcCfcNV/view?usp=sharing",
       "size": 489910,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6472,7 +6532,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1cR_OT0BOANeF8Twxle627sks9A-m5LlV/view?usp=sharing",
       "size": 899072,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6484,7 +6544,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1r2CEG-_7EXUYtXNENg7FKyaUlLwrELLN/view?usp=sharing",
       "size": 904129,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6496,7 +6556,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1MOIZhcWasjQkklIU8tZH58gzQvoMgVQP/view?usp=sharing",
       "size": 1712168,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6508,7 +6568,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Slides",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Slides",
       "link": "https://drive.google.com/file/d/1MHcvOyeGKePdHGJnMxG4UWObBC29jcIz/view?usp=sharing",
       "size": 3593532,
       "modifiedTime": "2025-06-11T11:40:20.000Z"
@@ -6520,7 +6580,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1xU30fi-JBby75L4IZPkaCKkcRHCKLlwd/view?usp=sharing",
       "size": 128476,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6532,7 +6592,7 @@
       "mimeType": "image/jpeg",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1C_UwrobIFlVqXZsTjZh6Egrm0fIpIXXv/view?usp=sharing",
       "size": 105367,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6544,7 +6604,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/18hY8c1o7opyGTKwhVT0POVTK8QJZC8qg/view?usp=sharing",
       "size": 228366,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6556,7 +6616,7 @@
       "mimeType": "image/jpeg",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1Mw8yRckY9WKtaWxTrFkFnyjK6O1xCqeX/view?usp=sharing",
       "size": 62916,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6568,7 +6628,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1c7Xvw7bmsa_IPz5gau0-Ys2QM8PLBfdq/view?usp=sharing",
       "size": 3284796,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6580,7 +6640,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1tbxlmiC11EijQCF1KIUo86TzCz8hd4fy/view?usp=sharing",
       "size": 3283932,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6592,7 +6652,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1Z9--cpyR0xlyhF4svtDDXleW-tbHtrDw/view?usp=sharing",
       "size": 291680,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6604,7 +6664,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/13qW7akPaneaSKfSbjGsCQkufhK9YX4Cl/view?usp=sharing",
       "size": 134816,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6616,7 +6676,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/11yybT7kIZnSydHSDxFCzbOdS6gOGD7V9/view?usp=sharing",
       "size": 222857,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6628,7 +6688,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/15rP6pJKDULFbwCGHW_BQIAZFTdhABdTP/view?usp=sharing",
       "size": 245911,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6640,7 +6700,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1miUbAMj6mIM-AGpjw3FLx0mm7Cv5G4S9/view?usp=sharing",
       "size": 216209,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6652,7 +6712,7 @@
       "mimeType": "application/pdf",
       "category": "Endocrinology",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Diabetes session/Handouts",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program/Diabetes session/Handouts",
       "link": "https://drive.google.com/file/d/1I8il7FsBZJwE01IMBIu0chhLh3qO-w4t/view?usp=sharing",
       "size": 1525520,
       "modifiedTime": "2025-06-11T11:37:33.000Z"
@@ -6944,18 +7004,6 @@
       "link": "https://drive.google.com/file/d/1ArV19r6qBX0u_xWvfB0eJmGgtJdEMxZdlf8YwT49oys/view",
       "size": 3454,
       "modifiedTime": "2025-02-04T17:59:29.434Z"
-    },
-    {
-      "id": "1r4jOCikeg9qSkxrYOsVIa_gpl-bOm0PA",
-      "name": "Safety considerations for Integrated camp_CP__23Jan 25.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
-      "link": "https://drive.google.com/file/d/1r4jOCikeg9qSkxrYOsVIa_gpl-bOm0PA/view?usp=sharing",
-      "size": 37486,
-      "modifiedTime": "2025-01-29T11:57:40.000Z"
     },
     {
       "id": "190nb55j69xNs0u4FbVNPpTKbzZNvjUsE",
