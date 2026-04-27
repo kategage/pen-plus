@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T07:56:53Z",
-  "totalResources": 1198,
+  "generatedAt": "2026-04-27T08:11:46Z",
+  "totalResources": 1200,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -58,6 +58,42 @@
   ],
   "resources": [
     {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 16751,
+      "modifiedTime": "2026-04-22T15:57:30.729Z"
+    },
+    {
+      "id": "1DShKvvA2b-lhRt1ep0HRG2DL0LOvSK34",
+      "name": "1. Echocardiography_Training_Preparation_Checklist.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Framework for Echocardiography ",
+      "link": "https://drive.google.com/file/d/1DShKvvA2b-lhRt1ep0HRG2DL0LOvSK34/view?usp=sharing",
+      "size": 20848,
+      "modifiedTime": "2026-04-21T11:53:16.000Z"
+    },
+    {
+      "id": "1Z9X9SXVP3obM5R28qZu5Hh6oYeriC6_a",
+      "name": "1. Echocardiography_Training_Preparation_Checklist.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Training Framework for Echocardiography ",
+      "link": "https://drive.google.com/file/d/1Z9X9SXVP3obM5R28qZu5Hh6oYeriC6_a/view?usp=sharing",
+      "size": 164076,
+      "modifiedTime": "2026-04-21T11:53:16.000Z"
+    },
+    {
       "id": "1Zcx_6pNdN3x_9v0bKrwAFEpmaxD1JhnP",
       "name": "Team Building activities.xlsx",
       "type": "XLSX",
@@ -80,18 +116,6 @@
       "link": "https://drive.google.com/file/d/1Y8sUnor6kEnumV0BBx0LxYxScwr_Z8oX/view?usp=sharing",
       "size": 489037,
       "modifiedTime": "2026-04-17T09:47:49.000Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 16751,
-      "modifiedTime": "2026-04-15T13:11:34.441Z"
     },
     {
       "id": "1Ag23ELapzEmmwOstdHPPYH7S2hI9Mmu1",
