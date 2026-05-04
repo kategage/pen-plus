@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T08:11:46Z",
-  "totalResources": 1200,
+  "generatedAt": "2026-05-04T08:22:12Z",
+  "totalResources": 1222,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -58,6 +58,18 @@
   ],
   "resources": [
     {
+      "id": "1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6",
+      "name": "6b. UPDATED_Acute Complications of SCD_Part 2_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
+      "size": 19449678,
+      "modifiedTime": "2026-05-01T12:43:32.681Z"
+    },
+    {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
       "type": "Google Doc",
@@ -66,8 +78,320 @@
       "language": "English",
       "path": "",
       "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 16751,
-      "modifiedTime": "2026-04-22T15:57:30.729Z"
+      "size": 17844,
+      "modifiedTime": "2026-04-30T16:45:52.786Z"
+    },
+    {
+      "id": "1AGmXbbLOaMc8kFCjt8pq9ekKivdWge6H",
+      "name": "SCD Case Review #5: Sepsis_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1AGmXbbLOaMc8kFCjt8pq9ekKivdWge6H/view?usp=sharing",
+      "size": 3678765,
+      "modifiedTime": "2026-04-30T16:45:40.900Z"
+    },
+    {
+      "id": "1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0",
+      "name": "Case study - Pre conception in Pregnancy_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "link": "https://drive.google.com/file/d/1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0/view?usp=sharing",
+      "size": 1469234,
+      "modifiedTime": "2026-04-30T16:37:25.967Z"
+    },
+    {
+      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
+      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
+      "size": 11745753,
+      "modifiedTime": "2026-04-30T10:55:47.485Z"
+    },
+    {
+      "id": "1U9Eb7CsY2woWb9-Sv9oc5SIayKRp2sUs",
+      "name": "Integrated Camp Tools & How-To_NCDIPN_2026.mp4",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "16_PEN-Plus Technical Sessions",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/Misc/Integrated Camps: Tools, How-to & Practical Lessons for Implementation",
+      "link": "https://drive.google.com/file/d/1U9Eb7CsY2woWb9-Sv9oc5SIayKRp2sUs/view?usp=sharing",
+      "size": 98636219,
+      "modifiedTime": "2026-04-29T13:43:23.424Z"
+    },
+    {
+      "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
+      "name": "5. UPDATED_ Routine Management SCD_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr/view?usp=sharing",
+      "size": 16549329,
+      "modifiedTime": "2026-04-29T12:23:57.852Z"
+    },
+    {
+      "id": "1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu",
+      "name": "2. UPDATED_Clinical presentation of SCD_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu/view?usp=sharing",
+      "size": 14887643,
+      "modifiedTime": "2026-04-29T12:21:04.946Z"
+    },
+    {
+      "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
+      "name": "3.UPDATED_Screening and Diagnosis_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ/view?usp=sharing",
+      "size": 15518623,
+      "modifiedTime": "2026-04-29T12:19:54.769Z"
+    },
+    {
+      "id": "1hOZ19NOFgnANJH_63CzrdeYjFaA4veCK",
+      "name": "NCDI Poverty Network Photo Release Form.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1hOZ19NOFgnANJH_63CzrdeYjFaA4veCK/view?usp=sharing",
+      "size": 92496,
+      "modifiedTime": "2026-04-29T10:52:34.000Z"
+    },
+    {
+      "id": "1kkdctRtxgit2J05bPrapCinxSEM5urDH",
+      "name": "A1. Warrior Knowledge Pre-Test (T1D).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1kkdctRtxgit2J05bPrapCinxSEM5urDH/view?usp=sharing",
+      "size": 167593,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W",
+      "name": "A2. Warrior Knowledge Post-Test (T1D).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W/view?usp=sharing",
+      "size": 169690,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1YvKTquvD01nQAKMWRjjqamAfGmLi5exb",
+      "name": "A3. Warrior Knowledge Pre -Test (SCD).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1YvKTquvD01nQAKMWRjjqamAfGmLi5exb/view?usp=sharing",
+      "size": 177686,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0",
+      "name": "A4. Warrior Knowledge Post-Test (SCD).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0/view?usp=sharing",
+      "size": 179679,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1qcoe7c1ZGgNr3e0iSbd-Ueu2jd26sgOL",
+      "name": "B. Mental Health Assessment PHQ-9A Form (BCH).pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Mental Health",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1qcoe7c1ZGgNr3e0iSbd-Ueu2jd26sgOL/view?usp=sharing",
+      "size": 25250,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1QEKJ9AeGVP8IYkhaBIIHyX8lJtYt_R0w",
+      "name": "D1. T1D Medical Form_.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1QEKJ9AeGVP8IYkhaBIIHyX8lJtYt_R0w/view?usp=sharing",
+      "size": 44381,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1ERa0feg5bD9RXOgPYnoeba9IuKOJZRxe",
+      "name": "D2. SCD Medical Form.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1ERa0feg5bD9RXOgPYnoeba9IuKOJZRxe/view?usp=sharing",
+      "size": 175198,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1lLb1PgIhQwpr84B9ISD1T6Fdk2gFPv-V",
+      "name": "D3. T1D Blood Sugar Record.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Hematology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1lLb1PgIhQwpr84B9ISD1T6Fdk2gFPv-V/view?usp=sharing",
+      "size": 40647,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1rpU72GyNhhhrtysslDdGhVPeHt8ZdK7O",
+      "name": "E. Warrior Camp Tullibonse Roll Call.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1rpU72GyNhhhrtysslDdGhVPeHt8ZdK7O/view?usp=sharing",
+      "size": 38970,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1jtQ-GtSAwsTMzbit0nQzj4EH40tLIN1w",
+      "name": "G1. Staff End-of-day feedback and debrief sessions.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1jtQ-GtSAwsTMzbit0nQzj4EH40tLIN1w/view?usp=sharing",
+      "size": 40497,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1qNwJdxZcvVzK0eLE8YjIES0u5fz116Ig",
+      "name": "G2. Incident Report_T1D.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1qNwJdxZcvVzK0eLE8YjIES0u5fz116Ig/view?usp=sharing",
+      "size": 48569,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1yvUEaG1_sTLRfxNtpR05ZErfUZsh3R8R",
+      "name": "G3. Incident Report_SCD.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1yvUEaG1_sTLRfxNtpR05ZErfUZsh3R8R/view?usp=sharing",
+      "size": 48414,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1YXrLz83xC37HTwL58vRmqIWCGTI6YZHW",
+      "name": "H. Staff Feedback Questionnaire_.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1YXrLz83xC37HTwL58vRmqIWCGTI6YZHW/view?usp=sharing",
+      "size": 41612,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1USOYxCp6_UFoFiQEP3uBj2qC9bytmwLa",
+      "name": "I. Parent, Guardian and Caretaker Questionnaire_.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1USOYxCp6_UFoFiQEP3uBj2qC9bytmwLa/view?usp=sharing",
+      "size": 75256,
+      "modifiedTime": "2026-04-28T14:27:35.000Z"
+    },
+    {
+      "id": "1VlFjHx8c7CXohJAtFjaCBMrjG9cpM6s1",
+      "name": "Butterfly Ultrasound Probe Orientation_NCDIPN_2026.mp4",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/Cardiac/Butterfly Orientation Echo_NCDIPN_2026",
+      "link": "https://drive.google.com/file/d/1VlFjHx8c7CXohJAtFjaCBMrjG9cpM6s1/view?usp=sharing",
+      "size": 902418827,
+      "modifiedTime": "2026-04-27T15:53:58.670Z"
+    },
+    {
+      "id": "1_iyaUEgSli-2syZYt1Yj-3JaaoG3G049",
+      "name": "Camp budget template.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Budget",
+      "link": "https://drive.google.com/file/d/1_iyaUEgSli-2syZYt1Yj-3JaaoG3G049/view?usp=sharing",
+      "size": 71643,
+      "modifiedTime": "2026-04-27T11:46:00.000Z"
+    },
+    {
+      "id": "1tW08rDkYxnMKJaasm8UCsOteeGMyhxIR",
+      "name": "List of medical supplies for 60 warriors.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
+      "link": "https://drive.google.com/file/d/1tW08rDkYxnMKJaasm8UCsOteeGMyhxIR/view?usp=sharing",
+      "size": 73593,
+      "modifiedTime": "2026-04-27T11:22:31.000Z"
+    },
+    {
+      "id": "1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9",
+      "name": "Integrated warrior camps_Guiding document.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9/view?usp=sharing",
+      "size": 221538,
+      "modifiedTime": "2026-04-27T11:14:58.102Z"
     },
     {
       "id": "1DShKvvA2b-lhRt1ep0HRG2DL0LOvSK34",
@@ -140,18 +464,6 @@
       "link": "https://drive.google.com/file/d/1BYUeUd5UX8t3_k44HO4GjkZkHeHQwvnb/view?usp=sharing",
       "size": 270970,
       "modifiedTime": "2026-04-15T13:06:40.971Z"
-    },
-    {
-      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
-      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
-      "size": 11745585,
-      "modifiedTime": "2026-04-14T10:45:30.632Z"
     },
     {
       "id": "1NMPlL5YT-NS22tfWPc6ArhZcx_o9Z9qe",
@@ -730,18 +1042,6 @@
       "modifiedTime": "2026-02-23T19:08:33.230Z"
     },
     {
-      "id": "1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9",
-      "name": "Integrated warrior camps_Guiding document.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
-      "link": "https://drive.google.com/file/d/1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9/view?usp=sharing",
-      "size": 210518,
-      "modifiedTime": "2026-02-17T12:10:57.000Z"
-    },
-    {
       "id": "1TZRVg6V7oLupQsZavTX3ZrkD001Kti2q",
       "name": "TOR Camp Counselor_NCDI.pdf",
       "type": "PDF",
@@ -812,18 +1112,6 @@
       "link": "https://drive.google.com/file/d/1rne-5E88CWTfyar_B8Fv5osg_2lvZe9K/view?usp=sharing",
       "size": 2128157,
       "modifiedTime": "2026-02-02T08:59:13.000Z"
-    },
-    {
-      "id": "1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6",
-      "name": "6b. UPDATED_Acute Complications of SCD_Part 2_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
-      "size": 19449124,
-      "modifiedTime": "2026-02-01T16:53:36.919Z"
     },
     {
       "id": "1VDhOu-p6YqQ-85Wo-GP9Bu3zRV4BiBKB",
@@ -2866,18 +3154,6 @@
       "modifiedTime": "2025-10-01T08:45:14.744Z"
     },
     {
-      "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
-      "name": "5. UPDATED_ Routine Management SCD_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr/view?usp=sharing",
-      "size": 12992168,
-      "modifiedTime": "2025-10-01T08:45:00.148Z"
-    },
-    {
       "id": "1m3HsJj0rieDvSQOxk893ZB7VXSN3Cfjz",
       "name": "Cosmas _ZIM_Cardiac_107_250929.pdf",
       "type": "PDF",
@@ -2960,30 +3236,6 @@
       "link": "https://drive.google.com/file/d/1pQ8tPMB-56IsgGbdzJUvX62-fWO2JT5m/view?usp=sharing",
       "size": 7976215,
       "modifiedTime": "2025-09-26T13:43:45.184Z"
-    },
-    {
-      "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
-      "name": "3.UPDATED_Screening and Diagnosis_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ/view?usp=sharing",
-      "size": 15943347,
-      "modifiedTime": "2025-09-26T13:42:21.596Z"
-    },
-    {
-      "id": "1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu",
-      "name": "2. UPDATED_Clinical presentation of SCD_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu/view?usp=sharing",
-      "size": 14862171,
-      "modifiedTime": "2025-09-26T13:42:15.733Z"
     },
     {
       "id": "1-hjKpmYApQ3grNqN25o1PFNTZlAGVHLe",
@@ -6968,6 +7220,18 @@
       "link": "https://drive.google.com/file/d/1Y7IAmj32gMXSSVKkv1flrGzvEV0pTwxv/view?usp=sharing",
       "size": 29876,
       "modifiedTime": "2025-05-13T16:04:51.000Z"
+    },
+    {
+      "id": "1D13EMMmRiQ1-nLcqCQjUbhdxRtllH9jw",
+      "name": "Camp Tullibonse_HbA1c registry.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1D13EMMmRiQ1-nLcqCQjUbhdxRtllH9jw/view?usp=sharing",
+      "size": 313262,
+      "modifiedTime": "2025-05-05T11:36:43.000Z"
     },
     {
       "id": "12UVxbRASKrbSfpkvGfnm8rfXWXKY7Okn",
