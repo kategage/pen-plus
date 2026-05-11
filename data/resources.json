@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-04T08:22:12Z",
-  "totalResources": 1222,
+  "generatedAt": "2026-05-11T09:29:30Z",
+  "totalResources": 1223,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,18 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL",
+      "name": "Case Study Exercise and Hypoglycemia_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "link": "https://drive.google.com/file/d/1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL/view?usp=sharing",
+      "size": 3991891,
+      "modifiedTime": "2026-05-04T18:42:06.994Z"
+    },
     {
       "id": "1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6",
       "name": "6b. UPDATED_Acute Complications of SCD_Part 2_NCDIPN_2025.pptx",
@@ -392,6 +404,18 @@
       "link": "https://drive.google.com/file/d/1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9/view?usp=sharing",
       "size": 221538,
       "modifiedTime": "2026-04-27T11:14:58.102Z"
+    },
+    {
+      "id": "1GYrtHqiZGdSSMgxCGGA8LSJa_eWnc-Cm",
+      "name": "Butterfly technical session.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/Cardiac/Butterfly Orientation Echo_NCDIPN_2026",
+      "link": "https://drive.google.com/file/d/1GYrtHqiZGdSSMgxCGGA8LSJa_eWnc-Cm/view?usp=sharing",
+      "size": 3027162,
+      "modifiedTime": "2026-04-22T15:30:57.000Z"
     },
     {
       "id": "1DShKvvA2b-lhRt1ep0HRG2DL0LOvSK34",
@@ -1352,18 +1376,6 @@
       "link": "https://drive.google.com/file/d/1XfYsCn82M3p7DjlBA16lfUzWQsKGTnFs/view?usp=sharing",
       "size": 6346509,
       "modifiedTime": "2025-11-27T16:43:46.211Z"
-    },
-    {
-      "id": "1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL",
-      "name": "Case Study Exercise and Hypoglycemia_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Endocrinology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
-      "link": "https://drive.google.com/file/d/1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL/view?usp=sharing",
-      "size": 3912994,
-      "modifiedTime": "2025-11-21T18:18:26.429Z"
     },
     {
       "id": "16gFwfZOEKkaUB-v4nHhe0mpgcLLplgs5",
