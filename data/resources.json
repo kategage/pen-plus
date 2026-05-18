@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-11T09:29:30Z",
-  "totalResources": 1223,
+  "generatedAt": "2026-05-18T09:46:16Z",
+  "totalResources": 1226,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -58,6 +58,114 @@
   ],
   "resources": [
     {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 17844,
+      "modifiedTime": "2026-05-13T18:29:51.247Z"
+    },
+    {
+      "id": "1NKnc8SqDjcYHOqn-QlI7hBjL2Nr2bqYR",
+      "name": "Protocol for Newly Diagnosed T1D Patients_NCDIPN_2026.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/Protocols, Flipcharts and logbooks",
+      "link": "https://drive.google.com/file/d/1NKnc8SqDjcYHOqn-QlI7hBjL2Nr2bqYR/view?usp=sharing",
+      "size": 165573,
+      "modifiedTime": "2026-05-13T18:22:44.000Z"
+    },
+    {
+      "id": "1Wy3dtZsN3w-viBgLXrbDw7jK4aXYVcMd",
+      "name": "UPDATED SCD Case Review #3- Nephropathy and Chronic complications_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1Wy3dtZsN3w-viBgLXrbDw7jK4aXYVcMd/view?usp=sharing",
+      "size": 2903733,
+      "modifiedTime": "2026-05-13T18:12:11.196Z"
+    },
+    {
+      "id": "1QzKaAbqf85GaLX7MPn_nwnp7SaZImxdT",
+      "name": "UPDATED SCD Case Review #5- Sepsis _NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1QzKaAbqf85GaLX7MPn_nwnp7SaZImxdT/view?usp=sharing",
+      "size": 3667705,
+      "modifiedTime": "2026-05-13T18:11:38.707Z"
+    },
+    {
+      "id": "1_7ALOnD3W0Lz_n8HO0jQ3PLQ55ZzMRa-",
+      "name": "UPDATED SCD Case Review #4 - Hydroxyurea_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1_7ALOnD3W0Lz_n8HO0jQ3PLQ55ZzMRa-/view?usp=sharing",
+      "size": 19513775,
+      "modifiedTime": "2026-05-13T18:10:51.246Z"
+    },
+    {
+      "id": "1cB3SrvWcPnRiZcdy_YfyU_6GDkrrv_40",
+      "name": "UPDATED SCD Case Review #2- Acute Chest Syndrome_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1cB3SrvWcPnRiZcdy_YfyU_6GDkrrv_40/view?usp=sharing",
+      "size": 2232251,
+      "modifiedTime": "2026-05-13T18:09:05.062Z"
+    },
+    {
+      "id": "1-itShdwKOkeCgdj_TnYv7x1fXFdzcu7B",
+      "name": "UPDATED SCD Case Review #1 - Chronic pain management_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1-itShdwKOkeCgdj_TnYv7x1fXFdzcu7B/view?usp=sharing",
+      "size": 30178307,
+      "modifiedTime": "2026-05-13T18:08:02.732Z"
+    },
+    {
+      "id": "1wzjeTzrCDQZDFSdZRC1c68HUgMs_bgxz",
+      "name": "12. Management of Thalaseemia_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1wzjeTzrCDQZDFSdZRC1c68HUgMs_bgxz/view?usp=sharing",
+      "size": 2757480,
+      "modifiedTime": "2026-05-13T17:32:20.172Z"
+    },
+    {
+      "id": "1AZSPUUrQjZgeyoHCsUe7U2U12LDaUdIr",
+      "name": "11. Intro to Thalassemia_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1AZSPUUrQjZgeyoHCsUe7U2U12LDaUdIr/view?usp=sharing",
+      "size": 69075835,
+      "modifiedTime": "2026-05-13T17:32:12.066Z"
+    },
+    {
       "id": "1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL",
       "name": "Case Study Exercise and Hypoglycemia_NCDIPN_2025.pptx",
       "type": "PPTX",
@@ -80,30 +188,6 @@
       "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
       "size": 19449678,
       "modifiedTime": "2026-05-01T12:43:32.681Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 17844,
-      "modifiedTime": "2026-04-30T16:45:52.786Z"
-    },
-    {
-      "id": "1AGmXbbLOaMc8kFCjt8pq9ekKivdWge6H",
-      "name": "SCD Case Review #5: Sepsis_NCDIPN_2026.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1AGmXbbLOaMc8kFCjt8pq9ekKivdWge6H/view?usp=sharing",
-      "size": 3678765,
-      "modifiedTime": "2026-04-30T16:45:40.900Z"
     },
     {
       "id": "1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0",
@@ -920,42 +1004,6 @@
       "link": "https://drive.google.com/file/d/1x3I-UeRcm7MuJLNjZVzqYdCBhYnQu24y/view?usp=sharing",
       "size": 12595007,
       "modifiedTime": "2026-03-29T13:31:45.280Z"
-    },
-    {
-      "id": "1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY",
-      "name": "SCD Case Review #3 Nephropathy_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1LeA0TjobX14rTDSWUf2niGW3p6rZjOHY/view?usp=sharing",
-      "size": 2021621,
-      "modifiedTime": "2026-03-24T13:48:05.991Z"
-    },
-    {
-      "id": "1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L",
-      "name": "SCD Case Review #2 Acute Chest Syndrome_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1vXo7xQU4IQHScM66gLenFDj7DMKOB-1L/view?usp=sharing",
-      "size": 1766523,
-      "modifiedTime": "2026-03-24T13:47:30.031Z"
-    },
-    {
-      "id": "1A0hEHgjTb8pFfkpM5uF7G3ebz3bf6e_x",
-      "name": "Case Review #4 Hydroxyurea_NCDIPN_2026.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1A0hEHgjTb8pFfkpM5uF7G3ebz3bf6e_x/view?usp=sharing",
-      "size": 19016870,
-      "modifiedTime": "2026-03-24T13:46:47.692Z"
     },
     {
       "id": "1oT0zeQCS70xaYpop9kPbgwvuAtKlYwXx",
@@ -2144,18 +2192,6 @@
       "link": "https://drive.google.com/file/d/1BNC4ciD8vk2wQQdYwU2jLmEVzFadO3BB/view?usp=sharing",
       "size": 24510,
       "modifiedTime": "2025-10-21T18:06:23.274Z"
-    },
-    {
-      "id": "1q83pUte3qXRLwAFKQiJ6jEejMmWSyIGu",
-      "name": "SCD Case Review #1: Pain management_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1q83pUte3qXRLwAFKQiJ6jEejMmWSyIGu/view?usp=sharing",
-      "size": 42342419,
-      "modifiedTime": "2025-10-09T13:36:20.946Z"
     },
     {
       "id": "1qlwBIne43uKwJJDs3Bv8PmeWtWBwI6rF",
