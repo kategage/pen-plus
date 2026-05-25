@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T09:46:16Z",
-  "totalResources": 1226,
+  "generatedAt": "2026-05-25T09:54:51Z",
+  "totalResources": 1231,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -58,6 +58,30 @@
   ],
   "resources": [
     {
+      "id": "14yLaa0uZhHLfZa7QrgG3Fc55hA3lCm3J",
+      "name": "Quarterly Report_Q1 2026_Template(Final).xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus Quarterly Report",
+      "link": "https://drive.google.com/file/d/14yLaa0uZhHLfZa7QrgG3Fc55hA3lCm3J/view?usp=sharing",
+      "size": 123676,
+      "modifiedTime": "2026-05-22T13:06:40.000Z"
+    },
+    {
+      "id": "1tJfjPkcq9NMK_CSum7PxFm3lWjQayzjI",
+      "name": "T1D Expert Group Correction Scales New T1D Diagnosis Algorithm_NCDIPN_2026.mp4",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "Guidelines",
+      "language": "English",
+      "path": "16_PEN-Plus Technical Sessions/T1D /T1D Expert Group Correction Scales & New T1D Diagnosis Algorithm",
+      "link": "https://drive.google.com/file/d/1tJfjPkcq9NMK_CSum7PxFm3lWjQayzjI/view?usp=sharing",
+      "size": 68900920,
+      "modifiedTime": "2026-05-20T16:56:46.981Z"
+    },
+    {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
       "type": "Google Doc",
@@ -67,7 +91,67 @@
       "path": "",
       "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
       "size": 17844,
-      "modifiedTime": "2026-05-13T18:29:51.247Z"
+      "modifiedTime": "2026-05-19T18:10:34.458Z"
+    },
+    {
+      "id": "1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9",
+      "name": "CHAI_Zim PEN Plus_NOP Final.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9/view?usp=sharing",
+      "size": 830880,
+      "modifiedTime": "2026-05-19T09:07:42.368Z"
+    },
+    {
+      "id": "1-n-h5fbTdBxJJeCi0_n2ZvEXL4Wh3VHt",
+      "name": "Kenya_PEN-Plus_NOP_Final_November 2025.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1-n-h5fbTdBxJJeCi0_n2ZvEXL4Wh3VHt/view?usp=sharing",
+      "size": 43231529,
+      "modifiedTime": "2026-05-19T09:06:28.000Z"
+    },
+    {
+      "id": "10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo",
+      "name": "Nepal Operational Plan for PEN-Plus_31st October, 2024.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo/view?usp=sharing",
+      "size": 2362437,
+      "modifiedTime": "2026-05-19T09:02:48.782Z"
+    },
+    {
+      "id": "1jYFf_v8dvPB475273i52w2tRMDE3OiJ9",
+      "name": "Malawi PEN-Plus Operational Plan_FINAL_23-June-2021.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1jYFf_v8dvPB475273i52w2tRMDE3OiJ9/view?usp=sharing",
+      "size": 10103641,
+      "modifiedTime": "2026-05-19T06:06:00.000Z"
+    },
+    {
+      "id": "1mVjLUxPyWGAwxQSOUKA7nVRaGqsknK3r",
+      "name": "Zambia PEN-Plus National Operational Plan_11Jul2025_FINAL.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1mVjLUxPyWGAwxQSOUKA7nVRaGqsknK3r/view?usp=sharing",
+      "size": 1357635,
+      "modifiedTime": "2026-05-19T06:06:00.000Z"
     },
     {
       "id": "1NKnc8SqDjcYHOqn-QlI7hBjL2Nr2bqYR",
@@ -1268,18 +1352,6 @@
       "link": "https://drive.google.com/file/d/1PFsw4DTMgEXZFul1bFpvTC8iRbXpWZjc/view?usp=sharing",
       "size": 8511563,
       "modifiedTime": "2026-01-26T05:07:03.000Z"
-    },
-    {
-      "id": "1zkcsdAN8J_8ZGeLnNsRII5gc1gA67GDM",
-      "name": "Quarterly Report_Q3 2025_Template.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "Forms & Templates",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus Quarterly Report",
-      "link": "https://drive.google.com/file/d/1zkcsdAN8J_8ZGeLnNsRII5gc1gA67GDM/view?usp=sharing",
-      "size": 118359,
-      "modifiedTime": "2026-01-23T12:34:17.000Z"
     },
     {
       "id": "12c0cSfBVqdJQpa-OmNC6XdJrp4FWZL5p",
@@ -7174,25 +7246,13 @@
       "modifiedTime": "2025-05-28T16:25:35.297Z"
     },
     {
-      "id": "1O-5bWIlHXJ9y3onPG477LVo9Kc0YflxA",
-      "name": "Malawi PEN-Plus Operational Plan_2021.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "13_National Operational Planning",
-      "language": "English",
-      "path": "13_National Operational Planning/NOP Examples",
-      "link": "https://drive.google.com/file/d/1O-5bWIlHXJ9y3onPG477LVo9Kc0YflxA/view?usp=sharing",
-      "size": 10104977,
-      "modifiedTime": "2025-05-28T16:22:08.102Z"
-    },
-    {
       "id": "1muijAaLLrqllD185WXEIlfpFyJEZkp4j",
       "name": "PEN Plus operational planning in Malawi_2023.pptx",
       "type": "PPTX",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "13_National Operational Planning",
+      "category": "Forms & Templates",
       "language": "English",
-      "path": "13_National Operational Planning/NOP Examples",
+      "path": "13_National Operational Planning/Background Information/Guidance on NOP",
       "link": "https://drive.google.com/file/d/1muijAaLLrqllD185WXEIlfpFyJEZkp4j/view?usp=sharing",
       "size": 1656219,
       "modifiedTime": "2025-05-28T16:21:33.771Z"
