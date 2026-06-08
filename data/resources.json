@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:15:30Z",
+  "generatedAt": "2026-06-08T10:23:27Z",
   "totalResources": 1232,
   "categories": [
     "10_DataSystems",
@@ -57,6 +57,42 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "183Npg8etaaivzxQebGAri6uC-mJjPfYz",
+      "name": "Approaches to case finding for PEN-Plus_NCDIPN_2024.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "7_Case Finding/Care Pathways for PEN-Plus ",
+      "language": "English",
+      "path": "7_Case Finding/Care Pathways for PEN-Plus /Case finding for PEN-Plus conditions",
+      "link": "https://drive.google.com/file/d/183Npg8etaaivzxQebGAri6uC-mJjPfYz/view?usp=sharing",
+      "size": 633991,
+      "modifiedTime": "2026-06-03T15:39:20.651Z"
+    },
+    {
+      "id": "1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA",
+      "name": " 1. Training Guide_NCDIPN_2022.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/0_Training Framework",
+      "link": "https://drive.google.com/file/d/1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA/view?usp=sharing",
+      "size": 702883,
+      "modifiedTime": "2026-06-03T11:55:15.259Z"
+    },
+    {
+      "id": "1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu",
+      "name": "2. UPDATED_Clinical presentation of SCD_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu/view?usp=sharing",
+      "size": 14887935,
+      "modifiedTime": "2026-06-02T16:22:17.690Z"
+    },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
@@ -356,18 +392,6 @@
       "link": "https://drive.google.com/file/d/1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr/view?usp=sharing",
       "size": 16549329,
       "modifiedTime": "2026-04-29T12:23:57.852Z"
-    },
-    {
-      "id": "1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu",
-      "name": "2. UPDATED_Clinical presentation of SCD_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu/view?usp=sharing",
-      "size": 14887643,
-      "modifiedTime": "2026-04-29T12:21:04.946Z"
     },
     {
       "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
@@ -4426,18 +4450,6 @@
       "modifiedTime": "2025-09-23T19:44:29.403Z"
     },
     {
-      "id": "183Npg8etaaivzxQebGAri6uC-mJjPfYz",
-      "name": "Approaches to case finding for PEN-Plus_NCDIPN_2024.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "7_Case Finding/Care Pathways for PEN-Plus ",
-      "language": "English",
-      "path": "7_Case Finding/Care Pathways for PEN-Plus /Case finding for PEN-Plus conditions",
-      "link": "https://drive.google.com/file/d/183Npg8etaaivzxQebGAri6uC-mJjPfYz/view?usp=sharing",
-      "size": 243915,
-      "modifiedTime": "2025-09-23T19:44:13.195Z"
-    },
-    {
       "id": "1_cUlHHRJ8JAowF9LwCbOYlEudrWrZeK1",
       "name": "5. Social Support_Kroenke et al_2021.pdf",
       "type": "PDF",
@@ -5240,18 +5252,6 @@
       "link": "https://drive.google.com/file/d/1D8R3zuyRyndhVvGXI5AvmuZ8B0TOPVUK/view?usp=sharing",
       "size": 75742,
       "modifiedTime": "2025-09-23T19:25:59.806Z"
-    },
-    {
-      "id": "1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA",
-      "name": " 1. Training Guide_NCDIPN_2022.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/0_Training Framework",
-      "link": "https://drive.google.com/file/d/1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA/view?usp=sharing",
-      "size": 702750,
-      "modifiedTime": "2025-09-23T19:25:37.605Z"
     },
     {
       "id": "1Gmy1asCwuxME2pmXrCkqk9JIcUMDPzud",
