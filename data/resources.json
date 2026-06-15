@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T10:23:27Z",
-  "totalResources": 1232,
+  "generatedAt": "2026-06-15T11:51:45Z",
+  "totalResources": 1235,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -57,6 +57,102 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1bs7AFeVLlg7m6MASezZi4QNFABCFxyiR",
+      "name": "1. START HERE Integ camps Impl guide_12 June 2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/1bs7AFeVLlg7m6MASezZi4QNFABCFxyiR/view?usp=sharing",
+      "size": 13403074,
+      "modifiedTime": "2026-06-13T20:04:47.646Z"
+    },
+    {
+      "id": "1gtDT5ZgnDqYCPmS1bnNw60rbugCzS50N",
+      "name": "Invitation and consent to Camp WanWod_August 2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1gtDT5ZgnDqYCPmS1bnNw60rbugCzS50N/view?usp=sharing",
+      "size": 3609664,
+      "modifiedTime": "2026-06-13T20:00:29.000Z"
+    },
+    {
+      "id": "1un4KHMzfBkST6DdxIP-KLgYQvXDr_UTa",
+      "name": "Medical Team Orientation Protocol_Integrated camps 13 June 2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Guidelines",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
+      "link": "https://drive.google.com/file/d/1un4KHMzfBkST6DdxIP-KLgYQvXDr_UTa/view?usp=sharing",
+      "size": 1126680,
+      "modifiedTime": "2026-06-13T19:46:01.000Z"
+    },
+    {
+      "id": "13gRim3-Zhc3L46KnOEmkWma6EfwPJN0f",
+      "name": "Fit for camp assessment- Integrated camps_13June2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
+      "link": "https://drive.google.com/file/d/13gRim3-Zhc3L46KnOEmkWma6EfwPJN0f/view?usp=sharing",
+      "size": 1111285,
+      "modifiedTime": "2026-06-13T19:45:26.000Z"
+    },
+    {
+      "id": "10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo",
+      "name": "Nepal National Operational Plan for PEN-Plus_31st October, 2024.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo/view?usp=sharing",
+      "size": 2362437,
+      "modifiedTime": "2026-06-09T12:09:49.698Z"
+    },
+    {
+      "id": "1jYFf_v8dvPB475273i52w2tRMDE3OiJ9",
+      "name": "Malawi PEN-Plus National Operational Plan_FINAL_23-June-2021.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1jYFf_v8dvPB475273i52w2tRMDE3OiJ9/view?usp=sharing",
+      "size": 10103641,
+      "modifiedTime": "2026-06-09T12:09:38.225Z"
+    },
+    {
+      "id": "1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9",
+      "name": "Zimbabwe PEN Plus_National Implementation Plan_ Final.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9/view?usp=sharing",
+      "size": 830880,
+      "modifiedTime": "2026-06-09T12:09:22.132Z"
+    },
+    {
+      "id": "1VOedUfUNb30capRUfIUkQ2x2vIFaWU8y",
+      "name": "Ethiopia_PEN-Plus_NOP_Final_January 2026.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/NOP Examples",
+      "link": "https://drive.google.com/file/d/1VOedUfUNb30capRUfIUkQ2x2vIFaWU8y/view?usp=sharing",
+      "size": 154673275,
+      "modifiedTime": "2026-06-09T12:04:09.000Z"
+    },
     {
       "id": "183Npg8etaaivzxQebGAri6uC-mJjPfYz",
       "name": "Approaches to case finding for PEN-Plus_NCDIPN_2024.pptx",
@@ -154,18 +250,6 @@
       "modifiedTime": "2026-05-20T16:56:46.981Z"
     },
     {
-      "id": "1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9",
-      "name": "CHAI_Zim PEN Plus_NOP Final.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "13_National Operational Planning",
-      "language": "English",
-      "path": "13_National Operational Planning/NOP Examples",
-      "link": "https://drive.google.com/file/d/1i2M0IlJnX3KJv97jaCu2hETHUJ4QBju9/view?usp=sharing",
-      "size": 830880,
-      "modifiedTime": "2026-05-19T09:07:42.368Z"
-    },
-    {
       "id": "1-n-h5fbTdBxJJeCi0_n2ZvEXL4Wh3VHt",
       "name": "Kenya_PEN-Plus_NOP_Final_November 2025.pdf",
       "type": "PDF",
@@ -176,30 +260,6 @@
       "link": "https://drive.google.com/file/d/1-n-h5fbTdBxJJeCi0_n2ZvEXL4Wh3VHt/view?usp=sharing",
       "size": 43231529,
       "modifiedTime": "2026-05-19T09:06:28.000Z"
-    },
-    {
-      "id": "10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo",
-      "name": "Nepal Operational Plan for PEN-Plus_31st October, 2024.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "13_National Operational Planning",
-      "language": "English",
-      "path": "13_National Operational Planning/NOP Examples",
-      "link": "https://drive.google.com/file/d/10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo/view?usp=sharing",
-      "size": 2362437,
-      "modifiedTime": "2026-05-19T09:02:48.782Z"
-    },
-    {
-      "id": "1jYFf_v8dvPB475273i52w2tRMDE3OiJ9",
-      "name": "Malawi PEN-Plus Operational Plan_FINAL_23-June-2021.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "13_National Operational Planning",
-      "language": "English",
-      "path": "13_National Operational Planning/NOP Examples",
-      "link": "https://drive.google.com/file/d/1jYFf_v8dvPB475273i52w2tRMDE3OiJ9/view?usp=sharing",
-      "size": 10103641,
-      "modifiedTime": "2026-05-19T06:06:00.000Z"
     },
     {
       "id": "1mVjLUxPyWGAwxQSOUKA7nVRaGqsknK3r",
@@ -1412,18 +1472,6 @@
       "link": "https://drive.google.com/file/d/1RiA7IRGx934X5-o1t-JdTg1u3EAc5GcJ/view?usp=sharing",
       "size": 25162840,
       "modifiedTime": "2026-01-21T16:41:42.292Z"
-    },
-    {
-      "id": "1jpvGitqWUWJhVKnAlA_DoJDmFjjS-qg5",
-      "name": "Medical Team Orientation Protocol_SCD and Cardiac.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
-      "link": "https://drive.google.com/file/d/1jpvGitqWUWJhVKnAlA_DoJDmFjjS-qg5/view?usp=sharing",
-      "size": 36586,
-      "modifiedTime": "2026-01-21T09:47:13.000Z"
     },
     {
       "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
@@ -7412,18 +7460,6 @@
       "link": "https://drive.google.com/file/d/1ArV19r6qBX0u_xWvfB0eJmGgtJdEMxZdlf8YwT49oys/view",
       "size": 3454,
       "modifiedTime": "2025-02-04T17:59:29.434Z"
-    },
-    {
-      "id": "190nb55j69xNs0u4FbVNPpTKbzZNvjUsE",
-      "name": "Medical Team Orientation Protocol_SNF Camps.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "Guidelines",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Medical safety",
-      "link": "https://drive.google.com/file/d/190nb55j69xNs0u4FbVNPpTKbzZNvjUsE/view?usp=sharing",
-      "size": 519656,
-      "modifiedTime": "2025-01-29T11:43:38.000Z"
     },
     {
       "id": "1sBHOOTVEakH1JirYkJpBJvZbTgFKtt4a",
