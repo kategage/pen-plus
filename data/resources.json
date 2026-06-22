@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:51:45Z",
+  "generatedAt": "2026-06-22T11:40:15Z",
   "totalResources": 1235,
   "categories": [
     "10_DataSystems",
@@ -57,6 +57,66 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
+      "name": "5. UPDATED_ Routine Management SCD_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr/view?usp=sharing",
+      "size": 16492591,
+      "modifiedTime": "2026-06-19T15:39:05.734Z"
+    },
+    {
+      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
+      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
+      "size": 10209626,
+      "modifiedTime": "2026-06-19T13:48:28.468Z"
+    },
+    {
+      "id": "1HY09-qNnpq5sn0SBd32pDUBcq-jCdj0x",
+      "name": "Data Dictionary_PEN-Plus_2025.6.16.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Forms & Templates",
+      "language": "English",
+      "path": "10_DataSystems/PEN-Plus Data Dictionary (for clinical form design)",
+      "link": "https://drive.google.com/file/d/1HY09-qNnpq5sn0SBd32pDUBcq-jCdj0x/view?usp=sharing",
+      "size": 427618,
+      "modifiedTime": "2026-06-18T18:08:29.802Z"
+    },
+    {
+      "id": "19E27_zeIJhyMqVkdtS0CXfC7sQ1-G9y-",
+      "name": "Copy of T1DM Peer Ed training handbook.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/2. T1DM training material",
+      "link": "https://drive.google.com/file/d/19E27_zeIJhyMqVkdtS0CXfC7sQ1-G9y-/view?usp=sharing",
+      "size": 10119584,
+      "modifiedTime": "2026-06-18T14:24:23.145Z"
+    },
+    {
+      "id": "1bzsfUDqqBLHQ_gHt81LQx7MAPmkyPrxz",
+      "name": "Peer Educator Tracker (Paper).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "10_DataSystems",
+      "language": "English",
+      "path": "10_DataSystems/Other trackers and resources",
+      "link": "https://drive.google.com/file/d/1bzsfUDqqBLHQ_gHt81LQx7MAPmkyPrxz/view?usp=sharing",
+      "size": 27962,
+      "modifiedTime": "2026-06-18T13:46:18.134Z"
+    },
     {
       "id": "1bs7AFeVLlg7m6MASezZi4QNFABCFxyiR",
       "name": "1. START HERE Integ camps Impl guide_12 June 2026.docx",
@@ -418,18 +478,6 @@
       "modifiedTime": "2026-04-30T16:37:25.967Z"
     },
     {
-      "id": "1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak",
-      "name": "4. UPDATED_SCD_Hydroxyurea management_NCDIPN_ 2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1o1DwKI6pLbgBZEdNt1PWak7X1p81H0ak/view?usp=sharing",
-      "size": 11745753,
-      "modifiedTime": "2026-04-30T10:55:47.485Z"
-    },
-    {
       "id": "1U9Eb7CsY2woWb9-Sv9oc5SIayKRp2sUs",
       "name": "Integrated Camp Tools & How-To_NCDIPN_2026.mp4",
       "type": "MP4",
@@ -440,18 +488,6 @@
       "link": "https://drive.google.com/file/d/1U9Eb7CsY2woWb9-Sv9oc5SIayKRp2sUs/view?usp=sharing",
       "size": 98636219,
       "modifiedTime": "2026-04-29T13:43:23.424Z"
-    },
-    {
-      "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
-      "name": "5. UPDATED_ Routine Management SCD_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr/view?usp=sharing",
-      "size": 16549329,
-      "modifiedTime": "2026-04-29T12:23:57.852Z"
     },
     {
       "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
@@ -800,18 +836,6 @@
       "link": "https://drive.google.com/file/d/1eRlMOWbqNCeDtkwXfvZRYayGYIgaGzIY/view?usp=sharing",
       "size": 13211744,
       "modifiedTime": "2026-04-09T03:18:33.910Z"
-    },
-    {
-      "id": "14Ms5S7ULrO_2BL_GZU-E0BOpXoCOJEv6",
-      "name": "Copy of SCD Peer Ed training Facilitator guide.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "Training",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/3. SCD training material",
-      "link": "https://drive.google.com/file/d/14Ms5S7ULrO_2BL_GZU-E0BOpXoCOJEv6/view?usp=sharing",
-      "size": 45735113,
-      "modifiedTime": "2026-04-08T14:04:24.963Z"
     },
     {
       "id": "1XzQXjc0565qqb71q4j12DeEwB0e9kKCU",
@@ -1198,18 +1222,6 @@
       "modifiedTime": "2026-03-18T10:32:59.139Z"
     },
     {
-      "id": "1GpXCyHqJcAjMTZS5KdG6rZlQG_JZla6IfL_KHtKQUX0",
-      "name": "SCD Peer Ed Training Handbook",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "Training",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/3. SCD training material",
-      "link": "https://drive.google.com/file/d/1GpXCyHqJcAjMTZS5KdG6rZlQG_JZla6IfL_KHtKQUX0/view",
-      "size": 69804,
-      "modifiedTime": "2026-03-09T18:12:01.130Z"
-    },
-    {
       "id": "1bZvm9QNYDBTtHWsx0bHQV9xLYD4_-8tl",
       "name": "SNF Camps Venue Assessment Checklist.xlsx",
       "type": "XLSX",
@@ -1340,18 +1352,6 @@
       "link": "https://drive.google.com/file/d/1o2d204hsK3k0oMgrhfqYKwvX6-Ek1YmN/view?usp=sharing",
       "size": 8086471,
       "modifiedTime": "2026-02-03T16:10:30.999Z"
-    },
-    {
-      "id": "1HY09-qNnpq5sn0SBd32pDUBcq-jCdj0x",
-      "name": "Data Dictionary_PEN-Plus_2025.6.16.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "Forms & Templates",
-      "language": "English",
-      "path": "10_DataSystems/PEN-Plus Data Dictionary (for clinical form design)",
-      "link": "https://drive.google.com/file/d/1HY09-qNnpq5sn0SBd32pDUBcq-jCdj0x/view?usp=sharing",
-      "size": 427621,
-      "modifiedTime": "2026-02-02T15:58:56.900Z"
     },
     {
       "id": "1rne-5E88CWTfyar_B8Fv5osg_2lvZe9K",
