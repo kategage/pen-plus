@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T08:54:51Z",
-  "totalResources": 620,
+  "generatedAt": "2026-07-20T08:45:23Z",
+  "totalResources": 626,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -53,6 +53,138 @@
   ],
   "resources": [
     {
+      "id": "1-9kgOspQlNUZFfsuy66QtK66Z9jS2cuE",
+      "name": "Start here_Integ camps Impl guide_16 July 2026.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/1-9kgOspQlNUZFfsuy66QtK66Z9jS2cuE/view?usp=sharing",
+      "size": 839454,
+      "modifiedTime": "2026-07-16T10:23:40.000Z"
+    },
+    {
+      "id": "1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR",
+      "name": "Cardiac peer educator material 9 Jul 26",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
+      "link": "https://drive.google.com/file/d/1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR/view?usp=sharing",
+      "size": 8827587,
+      "modifiedTime": "2026-07-16T10:18:59.917Z"
+    },
+    {
+      "id": "12ywZsNTMv36jW81sR5dvHS1bqlnoos-E",
+      "name": "AdvocacySessions_IntegratedCamps_16Jul26.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/12ywZsNTMv36jW81sR5dvHS1bqlnoos-E/view?usp=sharing",
+      "size": 645912,
+      "modifiedTime": "2026-07-16T10:11:49.000Z"
+    },
+    {
+      "id": "11gQwSBA4l5V-ubMjUxIjSwNgH96FSP2q",
+      "name": "AdvocacySessions_IntegratedCamps_16Jul26.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Advocacy session",
+      "link": "https://drive.google.com/file/d/11gQwSBA4l5V-ubMjUxIjSwNgH96FSP2q/view?usp=sharing",
+      "size": 645912,
+      "modifiedTime": "2026-07-16T10:11:49.000Z"
+    },
+    {
+      "id": "1C-BB_q9XmFhsDQJlWBEFm8HjMvm3hXN7",
+      "name": "PEN-Plus meds diagnostics equipment specifications.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "4_Medications, Labs, & Equipment",
+      "language": "English",
+      "path": "4_Medications, Labs, & Equipment",
+      "link": "https://drive.google.com/file/d/1C-BB_q9XmFhsDQJlWBEFm8HjMvm3hXN7/view?usp=sharing",
+      "size": 27680,
+      "modifiedTime": "2026-07-14T13:03:41.000Z"
+    },
+    {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 17844,
+      "modifiedTime": "2026-07-13T15:43:51.533Z"
+    },
+    {
+      "id": "1fIPnaMZuGwQU6MdYojf0LY6wc2nEEdHK",
+      "name": "NEW_14. Chronic pain_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1fIPnaMZuGwQU6MdYojf0LY6wc2nEEdHK/view?usp=sharing",
+      "size": 3116565,
+      "modifiedTime": "2026-07-13T15:40:41.573Z"
+    },
+    {
+      "id": "1C33Pp-BXDXbdyn9MDi8iayN9ZtWcIl7m",
+      "name": "NEW_13. Intro to pain management_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1C33Pp-BXDXbdyn9MDi8iayN9ZtWcIl7m/view?usp=sharing",
+      "size": 2434838,
+      "modifiedTime": "2026-07-13T15:40:36.428Z"
+    },
+    {
+      "id": "1Ef97bsMVDCM6azdFif99cXBsm7XsG_eL",
+      "name": "NEW_Pain Management protocol_NCDIPN_2026.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Protocols SCD",
+      "link": "https://drive.google.com/file/d/1Ef97bsMVDCM6azdFif99cXBsm7XsG_eL/view?usp=sharing",
+      "size": 388934,
+      "modifiedTime": "2026-07-13T15:39:43.868Z"
+    },
+    {
+      "id": "1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_",
+      "name": "NEW_SCD Case Review #7- Pediatric Acute Pain_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_/view?usp=sharing",
+      "size": 4545411,
+      "modifiedTime": "2026-07-13T15:37:02.747Z"
+    },
+    {
+      "id": "1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib",
+      "name": "NEW_ SCD Case Review #6- Adult Acute Pain_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib/view?usp=sharing",
+      "size": 5115463,
+      "modifiedTime": "2026-07-13T15:36:04.349Z"
+    },
+    {
       "id": "1rl7l7xP9FwA05dbkb2UKwtaTRBikaqLi",
       "name": "3. Practical Mentorship Models PEN-Plus_NCDIPN_2022.PPT ",
       "type": "PPTX",
@@ -87,18 +219,6 @@
       "link": "https://drive.google.com/file/d/1KAeMENNVfcuMyR7GaxMNZgjWv5bdaZ6X/view?usp=sharing",
       "size": 20940037,
       "modifiedTime": "2026-07-08T13:32:45.000Z"
-    },
-    {
-      "id": "1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR",
-      "name": "Cardiac Training Content Peer to Peer.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
-      "link": "https://drive.google.com/file/d/1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR/view?usp=sharing",
-      "size": 8827587,
-      "modifiedTime": "2026-06-21T14:01:06.000Z"
     },
     {
       "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
@@ -159,18 +279,6 @@
       "link": "https://drive.google.com/file/d/1bzsfUDqqBLHQ_gHt81LQx7MAPmkyPrxz/view?usp=sharing",
       "size": 27962,
       "modifiedTime": "2026-06-18T13:46:18.134Z"
-    },
-    {
-      "id": "1bs7AFeVLlg7m6MASezZi4QNFABCFxyiR",
-      "name": "1. START HERE Integ camps Impl guide_12 June 2026.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
-      "link": "https://drive.google.com/file/d/1bs7AFeVLlg7m6MASezZi4QNFABCFxyiR/view?usp=sharing",
-      "size": 13403074,
-      "modifiedTime": "2026-06-13T20:04:47.646Z"
     },
     {
       "id": "1gtDT5ZgnDqYCPmS1bnNw60rbugCzS50N",
@@ -291,18 +399,6 @@
       "link": "https://drive.google.com/file/d/1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu/view?usp=sharing",
       "size": 14887935,
       "modifiedTime": "2026-06-02T16:22:17.690Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 17844,
-      "modifiedTime": "2026-05-29T01:49:10.547Z"
     },
     {
       "id": "1TgI1oaX_JYQ-ZY3Sj2bbXWdlbAUdoA-W",
@@ -767,7 +863,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Addtional useful SNF material",
       "link": "https://drive.google.com/file/d/1lpiL9N_6RnXy2Gy59MN2i8YpbhXF-Nu9/view?usp=sharing",
       "size": 221538,
       "modifiedTime": "2026-04-27T11:14:58.102Z"
@@ -4673,18 +4769,6 @@
       "modifiedTime": "2025-08-18T19:19:38.437Z"
     },
     {
-      "id": "1RG6eNSiG8kGVoeIEVgYkGxVYipVCaBtC",
-      "name": "CAMP TULI BONSE 2025 Advocacy Session_FINAL DRAFT_7.25.25.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Advocacy session",
-      "link": "https://drive.google.com/file/d/1RG6eNSiG8kGVoeIEVgYkGxVYipVCaBtC/view?usp=sharing",
-      "size": 206837,
-      "modifiedTime": "2025-08-16T19:37:08.000Z"
-    },
-    {
       "id": "1-KZ4tbajAXWKIMH6gHq0DrmjBQF2FzH0",
       "name": "Transtioning.pptx",
       "type": "PPTX",
@@ -4719,18 +4803,6 @@
       "link": "https://drive.google.com/file/d/1P219Xn7pN_EnX6N67w9wOCRdnG9Ag01K/view?usp=sharing",
       "size": 8718372,
       "modifiedTime": "2025-08-15T13:49:45.000Z"
-    },
-    {
-      "id": "1i7TeEpxp3-2v6XiaAX_ZHPNBSVTd4nVJ",
-      "name": "Introduction (1).pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/SCD sessions",
-      "link": "https://drive.google.com/file/d/1i7TeEpxp3-2v6XiaAX_ZHPNBSVTd4nVJ/view?usp=sharing",
-      "size": 9696697,
-      "modifiedTime": "2025-08-15T13:49:41.000Z"
     },
     {
       "id": "1eAXqGWd-R8yCvVDfAYhcoCCsGl6UR_Oe",
@@ -5651,7 +5723,7 @@
       "mimeType": "application/pdf",
       "category": "8_Integrated Camp Resources & Peer Support",
       "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Addtional useful SNF material",
       "link": "https://drive.google.com/file/d/1mVF9AUs0mnojl0MVjo2cnGkZ9_ZE2YIr/view?usp=sharing",
       "size": 1887780,
       "modifiedTime": "2023-05-29T04:50:05.000Z"
