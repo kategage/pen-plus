@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T09:36:42Z",
-  "totalResources": 626,
+  "generatedAt": "2026-08-03T09:29:59Z",
+  "totalResources": 629,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -53,6 +53,66 @@
   ],
   "resources": [
     {
+      "id": "16eQ6SDx7aUfhehDe-ZVm2t7w38nuAdGE",
+      "name": "Cardiac peer educator material - 31 Jul 26 Final Copy.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
+      "link": "https://drive.google.com/file/d/16eQ6SDx7aUfhehDe-ZVm2t7w38nuAdGE/view?usp=sharing",
+      "size": 8286850,
+      "modifiedTime": "2026-07-31T08:14:21.000Z"
+    },
+    {
+      "id": "1xxt9-qFtM97ZmPldZnbrpL3BWRqM_erK",
+      "name": "Cardiac peer educator material - 31 Jul 26 Final Copy.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/4. Cardiac Training Material",
+      "link": "https://drive.google.com/file/d/1xxt9-qFtM97ZmPldZnbrpL3BWRqM_erK/view?usp=sharing",
+      "size": 8286850,
+      "modifiedTime": "2026-07-31T08:14:21.000Z"
+    },
+    {
+      "id": "1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU",
+      "name": "T1DM Presentation - Zim July 2026-MP comments.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Presented by sites",
+      "link": "https://drive.google.com/file/d/1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU/view?usp=sharing",
+      "size": 129581,
+      "modifiedTime": "2026-07-30T15:10:27.000Z"
+    },
+    {
+      "id": "1nZEQIecBrYsA9pbdCpZxZvFhvwEAOfXY",
+      "name": "Cardiac peer educator material - 31 Jul 26.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
+      "link": "https://drive.google.com/file/d/1nZEQIecBrYsA9pbdCpZxZvFhvwEAOfXY/view?usp=sharing",
+      "size": 17957008,
+      "modifiedTime": "2026-07-30T13:36:47.000Z"
+    },
+    {
+      "id": "1b5q2ZjVHKEcr0waKlYp4xWcnzUP1WPFe",
+      "name": "Cardiac peer educator material - 31 Jul 26.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/4. Cardiac Training Material",
+      "link": "https://drive.google.com/file/d/1b5q2ZjVHKEcr0waKlYp4xWcnzUP1WPFe/view?usp=sharing",
+      "size": 17957008,
+      "modifiedTime": "2026-07-30T13:36:47.000Z"
+    },
+    {
       "id": "14yLaa0uZhHLfZa7QrgG3Fc55hA3lCm3J",
       "name": "Quarterly Report_Q1 2026_Template(Final).xlsx",
       "type": "XLSX",
@@ -61,8 +121,8 @@
       "language": "English",
       "path": "10_DataSystems/PEN-Plus Quarterly Report",
       "link": "https://drive.google.com/file/d/14yLaa0uZhHLfZa7QrgG3Fc55hA3lCm3J/view?usp=sharing",
-      "size": 304279,
-      "modifiedTime": "2026-07-21T12:13:23.033Z"
+      "size": 302410,
+      "modifiedTime": "2026-07-27T14:39:23.760Z"
     },
     {
       "id": "1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG",
@@ -87,18 +147,6 @@
       "link": "https://drive.google.com/file/d/1-9kgOspQlNUZFfsuy66QtK66Z9jS2cuE/view?usp=sharing",
       "size": 839454,
       "modifiedTime": "2026-07-16T10:23:40.000Z"
-    },
-    {
-      "id": "1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR",
-      "name": "Cardiac peer educator material 9 Jul 26",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
-      "link": "https://drive.google.com/file/d/1j3k6eBxNlKKiv01Vhwbyy8jUVXU8tmSR/view?usp=sharing",
-      "size": 8827587,
-      "modifiedTime": "2026-07-16T10:18:59.917Z"
     },
     {
       "id": "12ywZsNTMv36jW81sR5dvHS1bqlnoos-E",
@@ -231,18 +279,6 @@
       "link": "https://drive.google.com/file/d/1e3PL0Y1gAA6TaEutlHw5i0noDetgqEjC/view?usp=sharing",
       "size": 75967,
       "modifiedTime": "2026-07-10T09:28:12.981Z"
-    },
-    {
-      "id": "1KAeMENNVfcuMyR7GaxMNZgjWv5bdaZ6X",
-      "name": "Cardiac peer educator material - 9 Jul 26.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Cardiology",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content/Cardiac session",
-      "link": "https://drive.google.com/file/d/1KAeMENNVfcuMyR7GaxMNZgjWv5bdaZ6X/view?usp=sharing",
-      "size": 20940037,
-      "modifiedTime": "2026-07-08T13:32:45.000Z"
     },
     {
       "id": "1jpQpUWX4U6-mdHzCkWbpVvXlTjNXSYDr",
@@ -599,7 +635,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1h9SkodYdfA5SiTnsL-m1ebP_dwhcdIFL/view?usp=sharing",
       "size": 3991891,
       "modifiedTime": "2026-05-04T18:42:06.994Z"
@@ -623,7 +659,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0/view?usp=sharing",
       "size": 1469234,
       "modifiedTime": "2026-04-30T16:37:25.967Z"
@@ -1439,7 +1475,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1Edm2SChriLCiVQ_0DvSVun19qCHPbmNP/view?usp=sharing",
       "size": 1512086,
       "modifiedTime": "2026-02-23T19:08:33.230Z"
@@ -1607,7 +1643,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1RiA7IRGx934X5-o1t-JdTg1u3EAc5GcJ/view?usp=sharing",
       "size": 25162840,
       "modifiedTime": "2026-01-21T16:41:42.292Z"
@@ -1775,7 +1811,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1ly2tx3Y1s47TkAN2bnPUBxJHReFzcUHf/view?usp=sharing",
       "size": 1206836,
       "modifiedTime": "2025-11-04T14:47:09.350Z"
@@ -3347,7 +3383,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1QhCpZpUtDuky2wlWiIjuStH6-ng_b8Y8/view?usp=sharing",
       "size": 966589,
       "modifiedTime": "2025-09-24T06:59:16.803Z"
@@ -3359,7 +3395,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1Zdke5I7N6Yf_MW27lQ8MoqvE_FCYl28P/view?usp=sharing",
       "size": 1555127,
       "modifiedTime": "2025-09-24T06:59:03.260Z"
@@ -3371,7 +3407,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Prepared by CIS",
       "link": "https://drive.google.com/file/d/1V4zJSxuWLAsw5122IIxl1ighadHxKNQ2/view?usp=sharing",
       "size": 978575,
       "modifiedTime": "2025-09-24T06:58:57.818Z"
