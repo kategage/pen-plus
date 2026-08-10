@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T09:29:59Z",
-  "totalResources": 629,
+  "generatedAt": "2026-08-10T07:16:38Z",
+  "totalResources": 630,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1P6kPG5MQENthEG_1V1GetQfu-sEu4g1i",
+      "name": "New Framework (2026) PEN-Plus education & training program_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/0_Training Framework",
+      "link": "https://drive.google.com/file/d/1P6kPG5MQENthEG_1V1GetQfu-sEu4g1i/view?usp=sharing",
+      "size": 240971,
+      "modifiedTime": "2026-08-06T15:37:52.959Z"
+    },
+    {
+      "id": "1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA",
+      "name": " First (2022)Training Guide_NCDIPN_2022.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/0_Training Framework",
+      "link": "https://drive.google.com/file/d/1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA/view?usp=sharing",
+      "size": 702883,
+      "modifiedTime": "2026-08-06T15:37:03.873Z"
+    },
     {
       "id": "16eQ6SDx7aUfhehDe-ZVm2t7w38nuAdGE",
       "name": "Cardiac peer educator material - 31 Jul 26 Final Copy.pdf",
@@ -435,18 +459,6 @@
       "link": "https://drive.google.com/file/d/183Npg8etaaivzxQebGAri6uC-mJjPfYz/view?usp=sharing",
       "size": 633991,
       "modifiedTime": "2026-06-03T15:39:20.651Z"
-    },
-    {
-      "id": "1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA",
-      "name": " 1. Training Guide_NCDIPN_2022.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/0_Training Framework",
-      "link": "https://drive.google.com/file/d/1k3FW5oWe6tqoOjGnO1KI2m0xDYtI8mhA/view?usp=sharing",
-      "size": 702883,
-      "modifiedTime": "2026-06-03T11:55:15.259Z"
     },
     {
       "id": "1N7mO5-GpyPhNBYsu3xMS7s_wvgWVraCu",
