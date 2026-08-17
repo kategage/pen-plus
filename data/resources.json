@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T07:16:38Z",
-  "totalResources": 630,
+  "generatedAt": "2026-08-17T06:38:48Z",
+  "totalResources": 632,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,66 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 18876,
+      "modifiedTime": "2026-08-12T13:16:12.657Z"
+    },
+    {
+      "id": "1s8Z1J7Ym6FaSlsnjfb5rZ1IBf80i83WG",
+      "name": "NEW_SCD Case Review #9- Stroke_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1s8Z1J7Ym6FaSlsnjfb5rZ1IBf80i83WG/view?usp=sharing",
+      "size": 2509594,
+      "modifiedTime": "2026-08-12T13:15:03.660Z"
+    },
+    {
+      "id": "1v153koXd59Wd6ueknnSDbYvwTqkhbERZ",
+      "name": "NEW_SCD Case Review #8- Pregnancy_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1v153koXd59Wd6ueknnSDbYvwTqkhbERZ/view?usp=sharing",
+      "size": 13087384,
+      "modifiedTime": "2026-08-12T13:14:57.851Z"
+    },
+    {
+      "id": "1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_",
+      "name": "SCD Case Review #7- Pediatric Acute Pain_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_/view?usp=sharing",
+      "size": 4545411,
+      "modifiedTime": "2026-08-12T13:14:53.149Z"
+    },
+    {
+      "id": "1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib",
+      "name": "SCD Case Review #6- Adult Acute Pain_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
+      "link": "https://drive.google.com/file/d/1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib/view?usp=sharing",
+      "size": 5115463,
+      "modifiedTime": "2026-08-12T13:14:48.606Z"
+    },
     {
       "id": "1P6kPG5MQENthEG_1V1GetQfu-sEu4g1i",
       "name": "New Framework (2026) PEN-Plus education & training program_2026.docx",
@@ -209,18 +269,6 @@
       "modifiedTime": "2026-07-14T13:03:41.000Z"
     },
     {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 17844,
-      "modifiedTime": "2026-07-13T15:43:51.533Z"
-    },
-    {
       "id": "1fIPnaMZuGwQU6MdYojf0LY6wc2nEEdHK",
       "name": "NEW_14. Chronic pain_NCDIPN_2026.pptx",
       "type": "PPTX",
@@ -255,30 +303,6 @@
       "link": "https://drive.google.com/file/d/1Ef97bsMVDCM6azdFif99cXBsm7XsG_eL/view?usp=sharing",
       "size": 388934,
       "modifiedTime": "2026-07-13T15:39:43.868Z"
-    },
-    {
-      "id": "1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_",
-      "name": "NEW_SCD Case Review #7- Pediatric Acute Pain_NCDIPN_2026.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1k2XZxcUnmW3TVoiyLurrgDkuSNSboUm_/view?usp=sharing",
-      "size": 4545411,
-      "modifiedTime": "2026-07-13T15:37:02.747Z"
-    },
-    {
-      "id": "1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib",
-      "name": "NEW_ SCD Case Review #6- Adult Acute Pain_NCDIPN_2026.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/SCD Case Review Bank",
-      "link": "https://drive.google.com/file/d/1N-zrbUrhcGF-nqjImROmLENUwh-ar8Ib/view?usp=sharing",
-      "size": 5115463,
-      "modifiedTime": "2026-07-13T15:36:04.349Z"
     },
     {
       "id": "1rl7l7xP9FwA05dbkb2UKwtaTRBikaqLi",
