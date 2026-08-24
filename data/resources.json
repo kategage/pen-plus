@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T06:38:48Z",
-  "totalResources": 632,
+  "generatedAt": "2026-08-24T06:41:53Z",
+  "totalResources": 634,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1bWpEQyHzbHX42YWihY0MO5N6P_xU6Q71",
+      "name": "Ideas for sports day for PEN-Plus camps.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content",
+      "link": "https://drive.google.com/file/d/1bWpEQyHzbHX42YWihY0MO5N6P_xU6Q71/view?usp=sharing",
+      "size": 28966,
+      "modifiedTime": "2026-08-21T09:31:56.000Z"
+    },
+    {
+      "id": "1p7Ipp8WfDVZrjU6S3i1IxWmCw3vv6zJr",
+      "name": "Cardiac Surgery Capacity",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "15_PEN-Plus Technical Sessions/Cardiac/Cardiac Surgery Capacity in Sub Saharan Africa",
+      "link": "https://drive.google.com/file/d/1p7Ipp8WfDVZrjU6S3i1IxWmCw3vv6zJr/view?usp=sharing",
+      "size": 219494941,
+      "modifiedTime": "2026-08-19T16:26:42.052Z"
+    },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
