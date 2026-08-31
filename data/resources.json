@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T06:41:53Z",
-  "totalResources": 634,
+  "generatedAt": "2026-08-31T12:21:01Z",
+  "totalResources": 656,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -53,6 +53,102 @@
   ],
   "resources": [
     {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 18876,
+      "modifiedTime": "2026-08-28T16:31:47.806Z"
+    },
+    {
+      "id": "1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU",
+      "name": "T1DM Presentation - Zim_NCDIPN 2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Presented by sites",
+      "link": "https://drive.google.com/file/d/1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU/view?usp=sharing",
+      "size": 129581,
+      "modifiedTime": "2026-08-28T16:01:09.223Z"
+    },
+    {
+      "id": "1ckezyxCq1WgUoiiWKrCDezR28GkNkdhK",
+      "name": "T1DM Presentation Zambia_NCDIPN_ 2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Presented by sites",
+      "link": "https://drive.google.com/file/d/1ckezyxCq1WgUoiiWKrCDezR28GkNkdhK/view?usp=sharing",
+      "size": 655388,
+      "modifiedTime": "2026-08-28T16:00:54.879Z"
+    },
+    {
+      "id": "1CbDr57JzYhDiD2nY7ewun76_qmFizdVu",
+      "name": "English_correction_ PEN-Plus OSCEs compiled_Answers for correction (1).docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
+      "link": "https://drive.google.com/file/d/1CbDr57JzYhDiD2nY7ewun76_qmFizdVu/view?usp=sharing",
+      "size": 54247,
+      "modifiedTime": "2026-08-24T17:17:31.000Z"
+    },
+    {
+      "id": "1bUFO9C4xyrApaMGn9uWCoutAasmq17Si",
+      "name": "Final_HCP assessment_MCQ answers.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
+      "link": "https://drive.google.com/file/d/1bUFO9C4xyrApaMGn9uWCoutAasmq17Si/view?usp=sharing",
+      "size": 26767,
+      "modifiedTime": "2026-08-24T17:17:28.000Z"
+    },
+    {
+      "id": "1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu",
+      "name": "English_OSCEs_No answers_HCP ass_Reviewed.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
+      "link": "https://drive.google.com/file/d/1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu/view?usp=sharing",
+      "size": 42819,
+      "modifiedTime": "2026-08-24T17:17:14.000Z"
+    },
+    {
+      "id": "1zRrpchxG_8Arb72-FTDSCafdOzF34RYn",
+      "name": "English_PEN-Plus MCQs compiled_Reviewed.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
+      "link": "https://drive.google.com/file/d/1zRrpchxG_8Arb72-FTDSCafdOzF34RYn/view?usp=sharing",
+      "size": 69041,
+      "modifiedTime": "2026-08-24T17:17:11.000Z"
+    },
+    {
+      "id": "12_7ZCPvCbngpYQO2CEX-IQFi5miL62HBX83u8m-f_qw",
+      "name": "EXAMPLE OF CURRICULUM FOR GENERAL OPD/PRIMARY HEALTH",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/2_Evaluation and Mentorship - Competencies & Checklists",
+      "link": "https://drive.google.com/file/d/12_7ZCPvCbngpYQO2CEX-IQFi5miL62HBX83u8m-f_qw/view",
+      "size": 3643,
+      "modifiedTime": "2026-08-24T16:55:05.301Z"
+    },
+    {
       "id": "1bWpEQyHzbHX42YWihY0MO5N6P_xU6Q71",
       "name": "Ideas for sports day for PEN-Plus camps.docx",
       "type": "DOCX",
@@ -75,18 +171,6 @@
       "link": "https://drive.google.com/file/d/1p7Ipp8WfDVZrjU6S3i1IxWmCw3vv6zJr/view?usp=sharing",
       "size": 219494941,
       "modifiedTime": "2026-08-19T16:26:42.052Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 18876,
-      "modifiedTime": "2026-08-12T13:16:12.657Z"
     },
     {
       "id": "1s8Z1J7Ym6FaSlsnjfb5rZ1IBf80i83WG",
@@ -183,18 +267,6 @@
       "link": "https://drive.google.com/file/d/1xxt9-qFtM97ZmPldZnbrpL3BWRqM_erK/view?usp=sharing",
       "size": 8286850,
       "modifiedTime": "2026-07-31T08:14:21.000Z"
-    },
-    {
-      "id": "1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU",
-      "name": "T1DM Presentation - Zim July 2026-MP comments.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Endocrinology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Case Review Bank/Cases Presented by sites",
-      "link": "https://drive.google.com/file/d/1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU/view?usp=sharing",
-      "size": 129581,
-      "modifiedTime": "2026-07-30T15:10:27.000Z"
     },
     {
       "id": "1nZEQIecBrYsA9pbdCpZxZvFhvwEAOfXY",
@@ -701,6 +773,30 @@
       "modifiedTime": "2026-05-04T18:42:06.994Z"
     },
     {
+      "id": "1rMn6KSW6hvY2REOlzSB9etL0Iv8ZhWZb",
+      "name": "Lecture 5_Mentorship_Feed-back together_Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1rMn6KSW6hvY2REOlzSB9etL0Iv8ZhWZb/view?usp=sharing",
+      "size": 4362714,
+      "modifiedTime": "2026-05-04T15:51:45.000Z"
+    },
+    {
+      "id": "1-KxwJMnM3Aa99Zhxn32eUWiHcQOOZ15j",
+      "name": "Lecture 1_Master Trainers Training_Reflection on learning and barriers to learn_NCDIPN_2025 - 8 days.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1-KxwJMnM3Aa99Zhxn32eUWiHcQOOZ15j/view?usp=sharing",
+      "size": 2352758,
+      "modifiedTime": "2026-05-03T09:03:30.000Z"
+    },
+    {
       "id": "1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6",
       "name": "6b. UPDATED_Acute Complications of SCD_Part 2_NCDIPN_2025.pptx",
       "type": "PPTX",
@@ -711,6 +807,42 @@
       "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
       "size": 19449678,
       "modifiedTime": "2026-05-01T12:43:32.681Z"
+    },
+    {
+      "id": "1glN08IsC6bOBa-gUbSmSu8ZMdCs_TuL3",
+      "name": "Lecture 7. Competency based curriculum_ Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1glN08IsC6bOBa-gUbSmSu8ZMdCs_TuL3/view?usp=sharing",
+      "size": 1731523,
+      "modifiedTime": "2026-05-01T06:06:02.000Z"
+    },
+    {
+      "id": "1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz",
+      "name": "Full handbook for Master Trainers_final.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training ",
+      "link": "https://drive.google.com/file/d/1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz/view?usp=sharing",
+      "size": 133199,
+      "modifiedTime": "2026-05-01T05:27:54.000Z"
+    },
+    {
+      "id": "1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK",
+      "name": "Teacher´s Materials for MTT_Final.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training ",
+      "link": "https://drive.google.com/file/d/1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK/view?usp=sharing",
+      "size": 120259,
+      "modifiedTime": "2026-05-01T05:24:15.000Z"
     },
     {
       "id": "1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0",
@@ -1013,6 +1145,30 @@
       "modifiedTime": "2026-04-21T11:53:16.000Z"
     },
     {
+      "id": "1PiyVbNQ92ct-IC-5atSJsa7GuCiPjVF1",
+      "name": "Lecture 4_Master Trainers Training. Teaching delivery methods_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1PiyVbNQ92ct-IC-5atSJsa7GuCiPjVF1/view?usp=sharing",
+      "size": 3735804,
+      "modifiedTime": "2026-04-19T10:47:44.000Z"
+    },
+    {
+      "id": "1MjUvZhh4-XRTn2Qdxbg1r_wGfHdCyKDq",
+      "name": "Lecture 6_ How to give feedback_Master Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1MjUvZhh4-XRTn2Qdxbg1r_wGfHdCyKDq/view?usp=sharing",
+      "size": 1770329,
+      "modifiedTime": "2026-04-19T10:47:19.000Z"
+    },
+    {
       "id": "1Zcx_6pNdN3x_9v0bKrwAFEpmaxD1JhnP",
       "name": "Team Building activities.xlsx",
       "type": "XLSX",
@@ -1095,6 +1251,18 @@
       "link": "https://drive.google.com/file/d/1UF1NvRGiIhE26zzViJKmrPDIC0gn1PW-/view?usp=sharing",
       "size": 202258239,
       "modifiedTime": "2026-04-07T14:30:28.000Z"
+    },
+    {
+      "id": "1gHO0TGATvXdzoIXqn5eSSiZhQ_nLTSaa",
+      "name": "Lecture 8. Master Trainers Training_Assessment methodology_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1gHO0TGATvXdzoIXqn5eSSiZhQ_nLTSaa/view?usp=sharing",
+      "size": 1916434,
+      "modifiedTime": "2026-04-06T16:29:03.000Z"
     },
     {
       "id": "1AhVvYLckzfkZCmZkRCqx3EL_BABceobm",
@@ -1601,6 +1769,18 @@
       "modifiedTime": "2026-02-02T08:59:13.000Z"
     },
     {
+      "id": "11sa8FZIk-hzBI5FdfrEuYb8zzN9iYhKD",
+      "name": "Lecture 9. Combined Curriculum-Assessment-Flow_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/11sa8FZIk-hzBI5FdfrEuYb8zzN9iYhKD/view?usp=sharing",
+      "size": 1747202,
+      "modifiedTime": "2026-02-01T06:40:23.000Z"
+    },
+    {
       "id": "1VDhOu-p6YqQ-85Wo-GP9Bu3zRV4BiBKB",
       "name": "Integrated Peer Educator Training Technical Session_NCDIPN_2026.pptx",
       "type": "PPTX",
@@ -1709,6 +1889,66 @@
       "modifiedTime": "2026-01-21T16:41:42.292Z"
     },
     {
+      "id": "1xMc9icN0mMfP-Y1EIsQMNId-GHJZ7XCD",
+      "name": "Lecture 5_Mentorship_Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1xMc9icN0mMfP-Y1EIsQMNId-GHJZ7XCD/view?usp=sharing",
+      "size": 3234092,
+      "modifiedTime": "2026-01-20T10:30:24.000Z"
+    },
+    {
+      "id": "1LBW_RWLGzXT3g3z-skEeup1g-JCuZoVk",
+      "name": "Lecture 1_Master Trainers Training_Reflection on learning and barriers to learn_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1LBW_RWLGzXT3g3z-skEeup1g-JCuZoVk/view?usp=sharing",
+      "size": 2307715,
+      "modifiedTime": "2026-01-19T11:49:44.000Z"
+    },
+    {
+      "id": "1Z1_u11IWckhK8mrZwHBaFm-WK4FKF33C",
+      "name": "Lecture 4_Master Trainers Training. Teaching delivery methods_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1Z1_u11IWckhK8mrZwHBaFm-WK4FKF33C/view?usp=sharing",
+      "size": 3109416,
+      "modifiedTime": "2026-01-19T11:13:59.000Z"
+    },
+    {
+      "id": "1FTRqW6c8fX_cJ3SsGo6t-AipvEqPnKzj",
+      "name": "Lecture 2_Adult Learning _ Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1FTRqW6c8fX_cJ3SsGo6t-AipvEqPnKzj/view?usp=sharing",
+      "size": 5649409,
+      "modifiedTime": "2026-01-19T10:44:47.000Z"
+    },
+    {
+      "id": "1SpFwQisZA9BFFa3Zj4XT9MV7gSeeP1I5",
+      "name": "Lecture 6_ How to give feedback_Master Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1SpFwQisZA9BFFa3Zj4XT9MV7gSeeP1I5/view?usp=sharing",
+      "size": 2097989,
+      "modifiedTime": "2026-01-15T16:41:10.000Z"
+    },
+    {
       "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
       "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
       "type": "XLSX",
@@ -1769,6 +2009,18 @@
       "modifiedTime": "2025-12-19T16:50:05.270Z"
     },
     {
+      "id": "1h9cQz1X11B9BRx-_Xs5YU5EhRxBB5AIP",
+      "name": "Lecture 9. Combined Curriculum-Assessment-Flow_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1h9cQz1X11B9BRx-_Xs5YU5EhRxBB5AIP/view?usp=sharing",
+      "size": 1898047,
+      "modifiedTime": "2025-12-11T00:07:15.000Z"
+    },
+    {
       "id": "1bYTqZNuIFGAv6Yk91MF527SpIWTS7ix1",
       "name": "Phase 0 Data Elements for Newly Initiating PEN-Plus Clinics_2025.xlsx",
       "type": "XLSX",
@@ -1791,6 +2043,42 @@
       "link": "https://drive.google.com/file/d/1XfYsCn82M3p7DjlBA16lfUzWQsKGTnFs/view?usp=sharing",
       "size": 6346509,
       "modifiedTime": "2025-11-27T16:43:46.211Z"
+    },
+    {
+      "id": "1baYzsddbT2-gisWzOIujalFtWT8wDMC6",
+      "name": "Lecture 3_Characteristics of an effective Master Trainer_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1baYzsddbT2-gisWzOIujalFtWT8wDMC6/view?usp=sharing",
+      "size": 2873725,
+      "modifiedTime": "2025-11-26T13:37:31.000Z"
+    },
+    {
+      "id": "1jIlNuDIpu6h1CaPC_6-Iwuzaid46LpYj",
+      "name": "Lecture 3_Characteristics of an effective Master Trainer_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "link": "https://drive.google.com/file/d/1jIlNuDIpu6h1CaPC_6-Iwuzaid46LpYj/view?usp=sharing",
+      "size": 2873725,
+      "modifiedTime": "2025-11-26T13:37:31.000Z"
+    },
+    {
+      "id": "1-P0ujkNf-0sncUmpOfjUUJLXk8-Z4ks4",
+      "name": "Lecture 2_Adult Learning _ Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "link": "https://drive.google.com/file/d/1-P0ujkNf-0sncUmpOfjUUJLXk8-Z4ks4/view?usp=sharing",
+      "size": 5651577,
+      "modifiedTime": "2025-11-23T13:19:26.000Z"
     },
     {
       "id": "1ifeSfGXD1XCGBklDk3vCEpZRHc4Nc5WB",
@@ -4623,30 +4911,6 @@
       "link": "https://drive.google.com/file/d/1QwPBXf6pah-BcjDcCrNozdEJrjeZI8r2/view?usp=sharing",
       "size": 3237667,
       "modifiedTime": "2025-09-23T19:28:55.384Z"
-    },
-    {
-      "id": "1yaBFo6BFglLrNxTrXy5bVFn8NkJAJbZU",
-      "name": "Recommendations & Specifications: PEN-Plus Medications & Equipment_NCDIPN_2024.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "4_Medications, Labs, & Equipment",
-      "language": "English",
-      "path": "4_Medications, Labs, & Equipment",
-      "link": "https://drive.google.com/file/d/1yaBFo6BFglLrNxTrXy5bVFn8NkJAJbZU/view?usp=sharing",
-      "size": 247706,
-      "modifiedTime": "2025-09-23T19:28:19.744Z"
-    },
-    {
-      "id": "1Q3LKlK7s7_ty3NtfcyUEg1szz9UaoKVa",
-      "name": "PEN-Plus Medications & Equipment List_NCDIPN_2024.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "4_Medications, Labs, & Equipment",
-      "language": "English",
-      "path": "4_Medications, Labs, & Equipment",
-      "link": "https://drive.google.com/file/d/1Q3LKlK7s7_ty3NtfcyUEg1szz9UaoKVa/view?usp=sharing",
-      "size": 134278,
-      "modifiedTime": "2025-09-23T19:28:11.239Z"
     },
     {
       "id": "1TT1-lH3G9-EA5ENoSlBrPuEhGpach1Rw",
