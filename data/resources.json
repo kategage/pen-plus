@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T12:21:01Z",
-  "totalResources": 656,
+  "generatedAt": "2026-09-07T11:14:23Z",
+  "totalResources": 660,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,138 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1girb_aKTZiCAyWZdliuVluZHpqTmhYsP",
+      "name": "9. Reproductive Health, Family Planning and Pregnancy_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/1girb_aKTZiCAyWZdliuVluZHpqTmhYsP/view?usp=sharing",
+      "size": 17704543,
+      "modifiedTime": "2026-09-04T13:24:15.654Z"
+    },
+    {
+      "id": "18OfR-iaBo_Nsw_d2boI_KWDkFgYWaAhk",
+      "name": "Start here_Integ camps Impl guide_2 Sep 2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
+      "link": "https://drive.google.com/file/d/18OfR-iaBo_Nsw_d2boI_KWDkFgYWaAhk/view?usp=sharing",
+      "size": 13408895,
+      "modifiedTime": "2026-09-02T13:53:43.000Z"
+    },
+    {
+      "id": "1d-1W51suUMeJYAN5JBA49pNiQ--UQKby",
+      "name": "Role plays for mental health session",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Mental Health",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content",
+      "link": "https://drive.google.com/file/d/1d-1W51suUMeJYAN5JBA49pNiQ--UQKby/view?usp=sharing",
+      "size": 35680,
+      "modifiedTime": "2026-09-02T12:59:21.759Z"
+    },
+    {
+      "id": "1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W",
+      "name": "A1. Warrior Knowledge Post-Test (T1D) all in 1 day",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W/view?usp=sharing",
+      "size": 169690,
+      "modifiedTime": "2026-09-02T12:55:37.164Z"
+    },
+    {
+      "id": "10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0",
+      "name": "A2. Warrior Knowledge Post-Test (SCD) all in 1 day",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0/view?usp=sharing",
+      "size": 179679,
+      "modifiedTime": "2026-09-02T12:55:20.653Z"
+    },
+    {
+      "id": "1YvKTquvD01nQAKMWRjjqamAfGmLi5exb",
+      "name": "A2. Warrior Knowledge Pre -Test (SCD) all in 1 day",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1YvKTquvD01nQAKMWRjjqamAfGmLi5exb/view?usp=sharing",
+      "size": 177686,
+      "modifiedTime": "2026-09-02T12:54:40.972Z"
+    },
+    {
+      "id": "1m5tamqeV7ECtbN-NsOy_CejX7FzugTPV",
+      "name": "D3. Cardiac Medical Form.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1m5tamqeV7ECtbN-NsOy_CejX7FzugTPV/view?usp=sharing",
+      "size": 166694,
+      "modifiedTime": "2026-09-02T12:48:15.000Z"
+    },
+    {
+      "id": "1n3OR5aSG0POhHkqB0-44AMTeOqyr-Q9r",
+      "name": "A3. Warrior Knowledge Test (Cardiac) over 3 days.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1n3OR5aSG0POhHkqB0-44AMTeOqyr-Q9r/view?usp=sharing",
+      "size": 60284,
+      "modifiedTime": "2026-09-02T12:47:49.000Z"
+    },
+    {
+      "id": "1kkdctRtxgit2J05bPrapCinxSEM5urDH",
+      "name": "A1. Warrior Knowledge Pre-Test (T1D) all in 1 day",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1kkdctRtxgit2J05bPrapCinxSEM5urDH/view?usp=sharing",
+      "size": 167593,
+      "modifiedTime": "2026-09-01T07:30:51.006Z"
+    },
+    {
+      "id": "1WBZGyZnkEtkj76qPMfaWBloWjoANwa9x",
+      "name": "A2. Warrior Knowledge Test (SCD) over 3 days",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1WBZGyZnkEtkj76qPMfaWBloWjoANwa9x/view?usp=sharing",
+      "size": 79095,
+      "modifiedTime": "2026-09-01T07:30:33.000Z"
+    },
+    {
+      "id": "1yvSUYJiiBnw_xgO9C3-sjGZSDW33y9D5",
+      "name": "A1. Warrior Knowledge Test (T1D) over 3 days",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "8_Integrated Camp Resources & Peer Support",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
+      "link": "https://drive.google.com/file/d/1yvSUYJiiBnw_xgO9C3-sjGZSDW33y9D5/view?usp=sharing",
+      "size": 83943,
+      "modifiedTime": "2026-09-01T07:30:29.000Z"
+    },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
@@ -147,6 +279,18 @@
       "link": "https://drive.google.com/file/d/12_7ZCPvCbngpYQO2CEX-IQFi5miL62HBX83u8m-f_qw/view",
       "size": 3643,
       "modifiedTime": "2026-08-24T16:55:05.301Z"
+    },
+    {
+      "id": "1w5t_SiOwHBdxAXnye2vBUp-SPZJBvcD7",
+      "name": "Integrated Camp programme. T1DM, SCD, cardiac_21 Aug 2026.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content",
+      "link": "https://drive.google.com/file/d/1w5t_SiOwHBdxAXnye2vBUp-SPZJBvcD7/view?usp=sharing",
+      "size": 178276,
+      "modifiedTime": "2026-08-21T14:47:39.000Z"
     },
     {
       "id": "1bWpEQyHzbHX42YWihY0MO5N6P_xU6Q71",
@@ -315,30 +459,6 @@
       "link": "https://drive.google.com/file/d/1FvV8mRik2XGGmDTHPOAXCLLRIaU3oqIG/view?usp=sharing",
       "size": 60201,
       "modifiedTime": "2026-07-21T00:48:25.854Z"
-    },
-    {
-      "id": "1-9kgOspQlNUZFfsuy66QtK66Z9jS2cuE",
-      "name": "Start here_Integ camps Impl guide_16 July 2026.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
-      "link": "https://drive.google.com/file/d/1-9kgOspQlNUZFfsuy66QtK66Z9jS2cuE/view?usp=sharing",
-      "size": 839454,
-      "modifiedTime": "2026-07-16T10:23:40.000Z"
-    },
-    {
-      "id": "12ywZsNTMv36jW81sR5dvHS1bqlnoos-E",
-      "name": "AdvocacySessions_IntegratedCamps_16Jul26.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps",
-      "link": "https://drive.google.com/file/d/12ywZsNTMv36jW81sR5dvHS1bqlnoos-E/view?usp=sharing",
-      "size": 645912,
-      "modifiedTime": "2026-07-16T10:11:49.000Z"
     },
     {
       "id": "11gQwSBA4l5V-ubMjUxIjSwNgH96FSP2q",
@@ -891,54 +1011,6 @@
       "link": "https://drive.google.com/file/d/1hOZ19NOFgnANJH_63CzrdeYjFaA4veCK/view?usp=sharing",
       "size": 92496,
       "modifiedTime": "2026-04-29T10:52:34.000Z"
-    },
-    {
-      "id": "1kkdctRtxgit2J05bPrapCinxSEM5urDH",
-      "name": "A1. Warrior Knowledge Pre-Test (T1D).docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
-      "link": "https://drive.google.com/file/d/1kkdctRtxgit2J05bPrapCinxSEM5urDH/view?usp=sharing",
-      "size": 167593,
-      "modifiedTime": "2026-04-28T14:27:35.000Z"
-    },
-    {
-      "id": "1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W",
-      "name": "A2. Warrior Knowledge Post-Test (T1D).docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
-      "link": "https://drive.google.com/file/d/1KvCmLtFa2Ue7Yu3oedQLX1TGxlSTJm5W/view?usp=sharing",
-      "size": 169690,
-      "modifiedTime": "2026-04-28T14:27:35.000Z"
-    },
-    {
-      "id": "1YvKTquvD01nQAKMWRjjqamAfGmLi5exb",
-      "name": "A3. Warrior Knowledge Pre -Test (SCD).docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
-      "link": "https://drive.google.com/file/d/1YvKTquvD01nQAKMWRjjqamAfGmLi5exb/view?usp=sharing",
-      "size": 177686,
-      "modifiedTime": "2026-04-28T14:27:35.000Z"
-    },
-    {
-      "id": "10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0",
-      "name": "A4. Warrior Knowledge Post-Test (SCD).docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/M and E  and other documentation",
-      "link": "https://drive.google.com/file/d/10y2TOLTLUVOWNeR0lb3FuFTBBpnr8di0/view?usp=sharing",
-      "size": 179679,
-      "modifiedTime": "2026-04-28T14:27:35.000Z"
     },
     {
       "id": "1qcoe7c1ZGgNr3e0iSbd-Ueu2jd26sgOL",
@@ -1649,18 +1721,6 @@
       "modifiedTime": "2026-03-05T16:01:23.184Z"
     },
     {
-      "id": "1dfzSheJjp4LotnNtCOXJxxy9LdbKCAoW",
-      "name": "Integrated Camp programme. T1DM and SCD xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "8_Integrated Camp Resources & Peer Support",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated camps/Camp program and session content",
-      "link": "https://drive.google.com/file/d/1dfzSheJjp4LotnNtCOXJxxy9LdbKCAoW/view?usp=sharing",
-      "size": 178113,
-      "modifiedTime": "2026-02-27T20:34:47.416Z"
-    },
-    {
       "id": "1qMDgU1KqYDgqKrSKghqDS9Vi1_sx39E4",
       "name": "SME Mentor Observation Checklist_NCDIPN_2026.docx",
       "type": "DOCX",
@@ -1983,18 +2043,6 @@
       "link": "https://drive.google.com/file/d/1cjZlQH3IkoYnjJxFQXRuE8hCbIURo7k1/view?usp=sharing",
       "size": 54644683,
       "modifiedTime": "2026-01-15T07:49:30.000Z"
-    },
-    {
-      "id": "1girb_aKTZiCAyWZdliuVluZHpqTmhYsP",
-      "name": "9. Reproductive Health, Family Planning and Pregnancy_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/1girb_aKTZiCAyWZdliuVluZHpqTmhYsP/view?usp=sharing",
-      "size": 17707501,
-      "modifiedTime": "2026-01-05T16:27:35.204Z"
     },
     {
       "id": "1nsReu1vx9nFMHduxbsvHJSKJU-qZiIaU",
