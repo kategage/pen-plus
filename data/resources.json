@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:14:23Z",
+  "generatedAt": "2026-09-14T11:24:22Z",
   "totalResources": 660,
   "categories": [
     "10_DataSystems",
@@ -52,6 +52,18 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
+      "name": "3.UPDATED_Screening and Diagnosis_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ/view?usp=sharing",
+      "size": 15413533,
+      "modifiedTime": "2026-09-07T16:15:21.296Z"
+    },
     {
       "id": "1girb_aKTZiCAyWZdliuVluZHpqTmhYsP",
       "name": "9. Reproductive Health, Family Planning and Pregnancy_NCDIPN_2025.pptx",
@@ -311,7 +323,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "15_PEN-Plus Technical Sessions/Cardiac/Cardiac Surgery Capacity in Sub Saharan Africa",
+      "path": "15_PEN-Plus Technical Sessions/Cardiac/Cardiac Surgery Expert Group Aug 2026_ Capacity in Sub Saharan Africa",
       "link": "https://drive.google.com/file/d/1p7Ipp8WfDVZrjU6S3i1IxWmCw3vv6zJr/view?usp=sharing",
       "size": 219494941,
       "modifiedTime": "2026-08-19T16:26:42.052Z"
@@ -987,18 +999,6 @@
       "link": "https://drive.google.com/file/d/1U9Eb7CsY2woWb9-Sv9oc5SIayKRp2sUs/view?usp=sharing",
       "size": 98636219,
       "modifiedTime": "2026-04-29T13:43:23.424Z"
-    },
-    {
-      "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
-      "name": "3.UPDATED_Screening and Diagnosis_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ/view?usp=sharing",
-      "size": 15518623,
-      "modifiedTime": "2026-04-29T12:19:54.769Z"
     },
     {
       "id": "1hOZ19NOFgnANJH_63CzrdeYjFaA4veCK",
