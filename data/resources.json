@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T11:24:22Z",
-  "totalResources": 660,
+  "generatedAt": "2026-09-21T11:38:46Z",
+  "totalResources": 661,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
+      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "General",
+      "language": "English",
+      "path": "",
+      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
+      "size": 18876,
+      "modifiedTime": "2026-09-16T17:42:20.313Z"
+    },
+    {
+      "id": "10CMckd5zbD-feQIHAec61Cbu52LDOUTi",
+      "name": "12. Pregnancy in Diabetes_NCDIPN_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Endocrinology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/2. Diabetes Didactic and Protocols/T1D Training modules",
+      "link": "https://drive.google.com/file/d/10CMckd5zbD-feQIHAec61Cbu52LDOUTi/view?usp=sharing",
+      "size": 5314990,
+      "modifiedTime": "2026-09-16T15:22:02.000Z"
+    },
     {
       "id": "10WqP4MTbBQTCXDQ9KqnoquAtRUTtyvQQ",
       "name": "3.UPDATED_Screening and Diagnosis_NCDIPN_2025.pptx",
@@ -195,18 +219,6 @@
       "link": "https://drive.google.com/file/d/1yvSUYJiiBnw_xgO9C3-sjGZSDW33y9D5/view?usp=sharing",
       "size": 83943,
       "modifiedTime": "2026-09-01T07:30:29.000Z"
-    },
-    {
-      "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
-      "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
-      "type": "Google Doc",
-      "mimeType": "application/vnd.google-apps.document",
-      "category": "General",
-      "language": "English",
-      "path": "",
-      "link": "https://drive.google.com/file/d/1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0/view",
-      "size": 18876,
-      "modifiedTime": "2026-08-28T16:31:47.806Z"
     },
     {
       "id": "1AJmFPjOJYsHPM99yVM3xq0-C2ev9uvIU",
