@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:38:46Z",
+  "generatedAt": "2026-09-28T12:33:57Z",
   "totalResources": 661,
   "categories": [
     "10_DataSystems",
@@ -52,6 +52,18 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
+      "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Research",
+      "language": "English",
+      "path": "11_Evaluation: Facility Assessments and Chart Review Tools",
+      "link": "https://drive.google.com/file/d/1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9/view?usp=sharing",
+      "size": 48155,
+      "modifiedTime": "2026-09-23T18:35:34.486Z"
+    },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
       "name": "PEN-Plus Technical Materials: Table Of Contents_NCDIPN_2025",
@@ -2019,18 +2031,6 @@
       "link": "https://drive.google.com/file/d/1SpFwQisZA9BFFa3Zj4XT9MV7gSeeP1I5/view?usp=sharing",
       "size": 2097989,
       "modifiedTime": "2026-01-15T16:41:10.000Z"
-    },
-    {
-      "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
-      "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "Research",
-      "language": "English",
-      "path": "11_Evaluation: Facility Assessments and Chart Review Tools",
-      "link": "https://drive.google.com/file/d/1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9/view?usp=sharing",
-      "size": 47907,
-      "modifiedTime": "2026-01-15T16:02:39.424Z"
     },
     {
       "id": "1vU8s8BbGgEb2oyHUNlSXiRAWXDdbOjaj",
