@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:33:57Z",
-  "totalResources": 661,
+  "generatedAt": "2026-10-05T13:14:12Z",
+  "totalResources": 663,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,18 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6",
+      "name": "7a. UPDATED_Chronic complications on SCD_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
+      "link": "https://drive.google.com/file/d/13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6/view?usp=sharing",
+      "size": 20570842,
+      "modifiedTime": "2026-10-05T08:20:59.267Z"
+    },
     {
       "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
       "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
@@ -639,6 +651,30 @@
       "link": "https://drive.google.com/file/d/1bzsfUDqqBLHQ_gHt81LQx7MAPmkyPrxz/view?usp=sharing",
       "size": 27962,
       "modifiedTime": "2026-06-18T13:46:18.134Z"
+    },
+    {
+      "id": "1NtHnb9zz3f-AGgmvUNgK1p_hMLsOmWTx",
+      "name": "DM follow up exercises_compressed.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/7. Follow up cases after training/T1DM cases for follow up supervision",
+      "link": "https://drive.google.com/file/d/1NtHnb9zz3f-AGgmvUNgK1p_hMLsOmWTx/view?usp=sharing",
+      "size": 21430418,
+      "modifiedTime": "2026-06-16T15:08:29.514Z"
+    },
+    {
+      "id": "1FMJsIcU_-cPo4X8m7-00oqnp4LyEyW5V",
+      "name": "SCD cases follow up.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/7. Follow up cases after training/SCD cases for follow up supervision",
+      "link": "https://drive.google.com/file/d/1FMJsIcU_-cPo4X8m7-00oqnp4LyEyW5V/view?usp=sharing",
+      "size": 4542738,
+      "modifiedTime": "2026-06-15T09:50:34.586Z"
     },
     {
       "id": "1gtDT5ZgnDqYCPmS1bnNw60rbugCzS50N",
@@ -3207,18 +3243,6 @@
       "link": "https://drive.google.com/file/d/1PhgZ20h26wbydne9d7JZw8W3TtUMRrfv/view?usp=sharing",
       "size": 13849858,
       "modifiedTime": "2025-10-01T08:46:25.067Z"
-    },
-    {
-      "id": "13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6",
-      "name": "7a. UPDATED_Chronic complications on SCD_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Hematology",
-      "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
-      "link": "https://drive.google.com/file/d/13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6/view?usp=sharing",
-      "size": 17337380,
-      "modifiedTime": "2025-10-01T08:46:06.024Z"
     },
     {
       "id": "17DKzm2BMr1ENZFrjAnnkWGRUUS7_v8q_",
