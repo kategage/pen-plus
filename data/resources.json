@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T13:14:12Z",
-  "totalResources": 663,
+  "generatedAt": "2026-10-12T14:04:34Z",
+  "totalResources": 665,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -53,6 +53,42 @@
   ],
   "resources": [
     {
+      "id": "1yab7BqnrBka-0U4cqqszDiK8rcqzblpI",
+      "name": "T1D Expert group: Mortality Reviews Oct 2026.mp4",
+      "type": "MP4",
+      "mimeType": "video/mp4",
+      "category": "15_PEN-Plus Technical Sessions",
+      "language": "English",
+      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Groups/T1D Expert Group: Mortality Reviews Oct 2026",
+      "link": "https://drive.google.com/file/d/1yab7BqnrBka-0U4cqqszDiK8rcqzblpI/view?usp=sharing",
+      "size": 185484213,
+      "modifiedTime": "2026-10-07T15:44:09.219Z"
+    },
+    {
+      "id": "1qs7Yg61xY8nlFAwXF1nI6Fk4EiUE5OHe",
+      "name": "T1D Mortality Review_Technical Session 6.Oct.2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "15_PEN-Plus Technical Sessions",
+      "language": "English",
+      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Groups/T1D Expert Group: Mortality Reviews Oct 2026",
+      "link": "https://drive.google.com/file/d/1qs7Yg61xY8nlFAwXF1nI6Fk4EiUE5OHe/view?usp=sharing",
+      "size": 7792277,
+      "modifiedTime": "2026-10-07T13:37:22.423Z"
+    },
+    {
+      "id": "1M1QMBdn0GEMBm5407t5hgRvJ6T_2pMXJ",
+      "name": "DM_follow_up_exercises_5MB.pdf",
+      "type": "PDF",
+      "mimeType": "application/pdf",
+      "category": "Training",
+      "language": "English",
+      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/7. Follow up cases after training/T1DM cases for follow up supervision",
+      "link": "https://drive.google.com/file/d/1M1QMBdn0GEMBm5407t5hgRvJ6T_2pMXJ/view?usp=sharing",
+      "size": 4319165,
+      "modifiedTime": "2026-10-06T08:33:05.513Z"
+    },
+    {
       "id": "13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6",
       "name": "7a. UPDATED_Chronic complications on SCD_NCDIPN_2025.pptx",
       "type": "PPTX",
@@ -61,8 +97,8 @@
       "language": "English",
       "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training modules SCD",
       "link": "https://drive.google.com/file/d/13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6/view?usp=sharing",
-      "size": 20570842,
-      "modifiedTime": "2026-10-05T08:20:59.267Z"
+      "size": 20576128,
+      "modifiedTime": "2026-10-05T14:42:54.613Z"
     },
     {
       "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
@@ -653,18 +689,6 @@
       "modifiedTime": "2026-06-18T13:46:18.134Z"
     },
     {
-      "id": "1NtHnb9zz3f-AGgmvUNgK1p_hMLsOmWTx",
-      "name": "DM follow up exercises_compressed.pdf",
-      "type": "PDF",
-      "mimeType": "application/pdf",
-      "category": "Training",
-      "language": "English",
-      "path": "8_Integrated Camp Resources & Peer Support/Integrated peer educator training/7. Follow up cases after training/T1DM cases for follow up supervision",
-      "link": "https://drive.google.com/file/d/1NtHnb9zz3f-AGgmvUNgK1p_hMLsOmWTx/view?usp=sharing",
-      "size": 21430418,
-      "modifiedTime": "2026-06-16T15:08:29.514Z"
-    },
-    {
       "id": "1FMJsIcU_-cPo4X8m7-00oqnp4LyEyW5V",
       "name": "SCD cases follow up.pdf",
       "type": "PDF",
@@ -815,7 +839,7 @@
       "mimeType": "video/mp4",
       "category": "Guidelines",
       "language": "English",
-      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Group Correction Scales & New T1D Diagnosis Algorithm",
+      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Groups/T1D Expert Group: Correction Scales May 2026",
       "link": "https://drive.google.com/file/d/1tJfjPkcq9NMK_CSum7PxFm3lWjQayzjI/view?usp=sharing",
       "size": 68900920,
       "modifiedTime": "2026-05-20T16:56:46.981Z"
@@ -947,7 +971,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Endocrinology",
       "language": "English",
-      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Group Correction Scales & New T1D Diagnosis Algorithm",
+      "path": "15_PEN-Plus Technical Sessions/T1D /T1D Expert Groups/T1D Expert Group: Correction Scales May 2026",
       "link": "https://drive.google.com/file/d/163-b5Ngs4stfTJqYsKROOgd5qa75Gbkg/view?usp=sharing",
       "size": 552041,
       "modifiedTime": "2026-05-13T11:16:22.000Z"
