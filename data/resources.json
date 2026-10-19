@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T14:04:34Z",
-  "totalResources": 665,
+  "generatedAt": "2026-10-19T11:45:11Z",
+  "totalResources": 666,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1m50IdIAjmWpgphwQROMm8f7e4uja58gp",
+      "name": "RHD_Case_Finding_Care_PEN-Plus-in_Ethiopia, Final.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "15_PEN-Plus Technical Sessions/Cardiac/Expert Groups 2026/Cardiac Expert Group Oct 2026_RHD Finding in Ethiopia",
+      "link": "https://drive.google.com/file/d/1m50IdIAjmWpgphwQROMm8f7e4uja58gp/view?usp=sharing",
+      "size": 24323041,
+      "modifiedTime": "2026-10-16T11:53:23.220Z"
+    },
+    {
+      "id": "1k5YFaRwuWI_-FA9vEqyNsZ19uSkK1sXg",
+      "name": "PEN-Plus NOP Resource Estimator_2025.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "13_National Operational Planning",
+      "language": "English",
+      "path": "13_National Operational Planning/Costing Tool",
+      "link": "https://drive.google.com/file/d/1k5YFaRwuWI_-FA9vEqyNsZ19uSkK1sXg/view?usp=sharing",
+      "size": 119957,
+      "modifiedTime": "2026-10-16T08:10:32.579Z"
+    },
     {
       "id": "1yab7BqnrBka-0U4cqqszDiK8rcqzblpI",
       "name": "T1D Expert group: Mortality Reviews Oct 2026.mp4",
@@ -395,7 +419,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "15_PEN-Plus Technical Sessions/Cardiac/Cardiac Surgery Expert Group Aug 2026_ Capacity in Sub Saharan Africa",
+      "path": "15_PEN-Plus Technical Sessions/Cardiac/Expert Groups 2026/Cardiac Surgery Expert Group Aug 2026_ Capacity in Sub Saharan Africa",
       "link": "https://drive.google.com/file/d/1p7Ipp8WfDVZrjU6S3i1IxWmCw3vv6zJr/view?usp=sharing",
       "size": 219494941,
       "modifiedTime": "2026-08-19T16:26:42.052Z"
@@ -1967,7 +1991,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Cardiology",
       "language": "English",
-      "path": "15_PEN-Plus Technical Sessions/Cardiac/Cardiac Surgery Expert Group Jan 2026",
+      "path": "15_PEN-Plus Technical Sessions/Cardiac/Expert Groups 2026/Cardiac Surgery Expert Group Jan 2026",
       "link": "https://drive.google.com/file/d/14wIn5w2mGqOxNiIIpJ-iIvOznS-ZaK_D/view?usp=sharing",
       "size": 84015596,
       "modifiedTime": "2026-01-29T11:00:00.000Z"
@@ -5835,18 +5859,6 @@
       "link": "https://drive.google.com/file/d/1tlKJHmanGY6ZJageXmjq3mTr_e_Zi3Kq/view?usp=sharing",
       "size": 4756402,
       "modifiedTime": "2025-05-28T19:28:33.424Z"
-    },
-    {
-      "id": "1k5YFaRwuWI_-FA9vEqyNsZ19uSkK1sXg",
-      "name": "PEN-Plus NOP Resource Estimator_2025.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "13_National Operational Planning",
-      "language": "English",
-      "path": "13_National Operational Planning/Costing Tool",
-      "link": "https://drive.google.com/file/d/1k5YFaRwuWI_-FA9vEqyNsZ19uSkK1sXg/view?usp=sharing",
-      "size": 159868,
-      "modifiedTime": "2025-05-28T16:51:00.196Z"
     },
     {
       "id": "13cl7_3aM5IfzaOpSe1H6WNtc1vbbSoR6",
