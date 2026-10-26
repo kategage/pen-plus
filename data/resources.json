@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:45:11Z",
+  "generatedAt": "2026-10-26T12:01:15Z",
   "totalResources": 666,
   "categories": [
     "10_DataSystems",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz",
+      "name": "Full handbook for Master Trainers Training_NCDIPN_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training ",
+      "link": "https://drive.google.com/file/d/1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz/view?usp=sharing",
+      "size": 133199,
+      "modifiedTime": "2026-10-23T12:51:15.306Z"
+    },
+    {
+      "id": "1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK",
+      "name": "Teacher's Materials for Master Trainer's Training_NCDIPN_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers´ training ",
+      "link": "https://drive.google.com/file/d/1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK/view?usp=sharing",
+      "size": 120259,
+      "modifiedTime": "2026-10-23T12:51:06.702Z"
+    },
     {
       "id": "1m50IdIAjmWpgphwQROMm8f7e4uja58gp",
       "name": "RHD_Case_Finding_Care_PEN-Plus-in_Ethiopia, Final.pptx",
@@ -1019,7 +1043,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1rMn6KSW6hvY2REOlzSB9etL0Iv8ZhWZb/view?usp=sharing",
       "size": 4362714,
       "modifiedTime": "2026-05-04T15:51:45.000Z"
@@ -1031,7 +1055,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1-KxwJMnM3Aa99Zhxn32eUWiHcQOOZ15j/view?usp=sharing",
       "size": 2352758,
       "modifiedTime": "2026-05-03T09:03:30.000Z"
@@ -1055,34 +1079,10 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1glN08IsC6bOBa-gUbSmSu8ZMdCs_TuL3/view?usp=sharing",
       "size": 1731523,
       "modifiedTime": "2026-05-01T06:06:02.000Z"
-    },
-    {
-      "id": "1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz",
-      "name": "Full handbook for Master Trainers_final.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training ",
-      "link": "https://drive.google.com/file/d/1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz/view?usp=sharing",
-      "size": 133199,
-      "modifiedTime": "2026-05-01T05:27:54.000Z"
-    },
-    {
-      "id": "1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK",
-      "name": "Teacher´s Materials for MTT_Final.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training ",
-      "link": "https://drive.google.com/file/d/1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK/view?usp=sharing",
-      "size": 120259,
-      "modifiedTime": "2026-05-01T05:24:15.000Z"
     },
     {
       "id": "1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0",
@@ -1331,7 +1331,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1PiyVbNQ92ct-IC-5atSJsa7GuCiPjVF1/view?usp=sharing",
       "size": 3735804,
       "modifiedTime": "2026-04-19T10:47:44.000Z"
@@ -1343,7 +1343,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1MjUvZhh4-XRTn2Qdxbg1r_wGfHdCyKDq/view?usp=sharing",
       "size": 1770329,
       "modifiedTime": "2026-04-19T10:47:19.000Z"
@@ -1439,7 +1439,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1gHO0TGATvXdzoIXqn5eSSiZhQ_nLTSaa/view?usp=sharing",
       "size": 1916434,
       "modifiedTime": "2026-04-06T16:29:03.000Z"
@@ -1943,7 +1943,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/11sa8FZIk-hzBI5FdfrEuYb8zzN9iYhKD/view?usp=sharing",
       "size": 1747202,
       "modifiedTime": "2026-02-01T06:40:23.000Z"
@@ -2063,7 +2063,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1xMc9icN0mMfP-Y1EIsQMNId-GHJZ7XCD/view?usp=sharing",
       "size": 3234092,
       "modifiedTime": "2026-01-20T10:30:24.000Z"
@@ -2075,7 +2075,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1LBW_RWLGzXT3g3z-skEeup1g-JCuZoVk/view?usp=sharing",
       "size": 2307715,
       "modifiedTime": "2026-01-19T11:49:44.000Z"
@@ -2087,7 +2087,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1Z1_u11IWckhK8mrZwHBaFm-WK4FKF33C/view?usp=sharing",
       "size": 3109416,
       "modifiedTime": "2026-01-19T11:13:59.000Z"
@@ -2099,7 +2099,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1FTRqW6c8fX_cJ3SsGo6t-AipvEqPnKzj/view?usp=sharing",
       "size": 5649409,
       "modifiedTime": "2026-01-19T10:44:47.000Z"
@@ -2111,7 +2111,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1SpFwQisZA9BFFa3Zj4XT9MV7gSeeP1I5/view?usp=sharing",
       "size": 2097989,
       "modifiedTime": "2026-01-15T16:41:10.000Z"
@@ -2159,7 +2159,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1h9cQz1X11B9BRx-_Xs5YU5EhRxBB5AIP/view?usp=sharing",
       "size": 1898047,
       "modifiedTime": "2025-12-11T00:07:15.000Z"
@@ -2195,7 +2195,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1baYzsddbT2-gisWzOIujalFtWT8wDMC6/view?usp=sharing",
       "size": 2873725,
       "modifiedTime": "2025-11-26T13:37:31.000Z"
@@ -2207,7 +2207,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2. 6 Days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1jIlNuDIpu6h1CaPC_6-Iwuzaid46LpYj/view?usp=sharing",
       "size": 2873725,
       "modifiedTime": "2025-11-26T13:37:31.000Z"
@@ -2219,7 +2219,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1. 8 days training",
+      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
       "link": "https://drive.google.com/file/d/1-P0ujkNf-0sncUmpOfjUUJLXk8-Z4ks4/view?usp=sharing",
       "size": 5651577,
       "modifiedTime": "2025-11-23T13:19:26.000Z"
