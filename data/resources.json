@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T12:01:15Z",
-  "totalResources": 666,
+  "generatedAt": "2026-11-02T14:25:16Z",
+  "totalResources": 672,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -53,13 +53,169 @@
   ],
   "resources": [
     {
+      "id": "1g8IwMZAo-iiJ7Trs0JnGg1kUvcogsWQA",
+      "name": "Cardiac_Cases_Review Management_2026.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /New cardiac cases_2026",
+      "link": "https://drive.google.com/file/d/1g8IwMZAo-iiJ7Trs0JnGg1kUvcogsWQA/view?usp=sharing",
+      "size": 1514369,
+      "modifiedTime": "2026-11-02T12:08:54.355Z"
+    },
+    {
+      "id": "1CbDr57JzYhDiD2nY7ewun76_qmFizdVu",
+      "name": "3. PEN-Plus OSCEs w/Answers_NCDIPN_2025.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/6_PEN-Plus Assessments/Health Care Provider Assessment (2025)",
+      "link": "https://drive.google.com/file/d/1CbDr57JzYhDiD2nY7ewun76_qmFizdVu/view?usp=sharing",
+      "size": 54247,
+      "modifiedTime": "2026-10-28T14:40:55.750Z"
+    },
+    {
+      "id": "1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu",
+      "name": "2. PEN-Plus OSCEs for the HCPA_NCIPN_2025.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/6_PEN-Plus Assessments/Health Care Provider Assessment (2025)",
+      "link": "https://drive.google.com/file/d/1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu/view?usp=sharing",
+      "size": 42819,
+      "modifiedTime": "2026-10-28T14:40:37.059Z"
+    },
+    {
+      "id": "1zRrpchxG_8Arb72-FTDSCafdOzF34RYn",
+      "name": "1. Multiple Choice Questionnaire (MCQs) for the Healthcare Provider Assessment_NCDIPN_2025.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/6_PEN-Plus Assessments/Health Care Provider Assessment (2025)",
+      "link": "https://drive.google.com/file/d/1zRrpchxG_8Arb72-FTDSCafdOzF34RYn/view?usp=sharing",
+      "size": 173047,
+      "modifiedTime": "2026-10-28T14:40:06.528Z"
+    },
+    {
+      "id": "1bUFO9C4xyrApaMGn9uWCoutAasmq17Si",
+      "name": "4. MCQ Answer Key for Healthcare Provider Assessment_NCDIPN_2025.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/6_PEN-Plus Assessments/Health Care Provider Assessment (2025)",
+      "link": "https://drive.google.com/file/d/1bUFO9C4xyrApaMGn9uWCoutAasmq17Si/view?usp=sharing",
+      "size": 26767,
+      "modifiedTime": "2026-10-28T14:20:39.678Z"
+    },
+    {
+      "id": "1PwIBihO_nwDwxsW3Ii68ZQOnMo2syBxa",
+      "name": "Module 9_Combined Curriculum-Assessment-Flow_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1PwIBihO_nwDwxsW3Ii68ZQOnMo2syBxa/view?usp=sharing",
+      "size": 1759092,
+      "modifiedTime": "2026-10-27T12:50:17.843Z"
+    },
+    {
+      "id": "1uw9UIfxSJtUPCCZbeoPYz9xSYeH7__N4",
+      "name": "Module 8_Master Trainers Training_Assessment methodology_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1uw9UIfxSJtUPCCZbeoPYz9xSYeH7__N4/view?usp=sharing",
+      "size": 1916623,
+      "modifiedTime": "2026-10-27T12:50:08.767Z"
+    },
+    {
+      "id": "11xQdqi9Ixw6yCJDjW8QQ4bUZaxDn_XBt",
+      "name": "Module 7_Competency based curriculum_ Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/11xQdqi9Ixw6yCJDjW8QQ4bUZaxDn_XBt/view?usp=sharing",
+      "size": 1734274,
+      "modifiedTime": "2026-10-27T12:49:55.688Z"
+    },
+    {
+      "id": "1x1tVXk7L9zFbKjHxwgOHjAasuJcjCiCc",
+      "name": "Module  1_Master Trainers Training_Reflection on learning and barriers to learn_NCDIPN_2025 - 8 days.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1x1tVXk7L9zFbKjHxwgOHjAasuJcjCiCc/view?usp=sharing",
+      "size": 5931969,
+      "modifiedTime": "2026-10-27T12:49:19.783Z"
+    },
+    {
+      "id": "1m1Bph4fftxvwrX9LXSJ4oWe_ViECQl5g",
+      "name": "Module 5_Mentorship_Feed-back together_Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1m1Bph4fftxvwrX9LXSJ4oWe_ViECQl5g/view?usp=sharing",
+      "size": 8680947,
+      "modifiedTime": "2026-10-27T12:47:45.241Z"
+    },
+    {
+      "id": "1-K7JrtvoZplpmUF2-qTkTkJha4MHCAya",
+      "name": "Module 4_Master Trainers Training. Teaching delivery methods_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1-K7JrtvoZplpmUF2-qTkTkJha4MHCAya/view?usp=sharing",
+      "size": 3735784,
+      "modifiedTime": "2026-10-27T12:34:45.927Z"
+    },
+    {
+      "id": "1IonPaypxOqK_wCzAv88HELnJIvMI4Auv",
+      "name": "Module  3_Characteristics of an effective Master Trainer_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1IonPaypxOqK_wCzAv88HELnJIvMI4Auv/view?usp=sharing",
+      "size": 2878458,
+      "modifiedTime": "2026-10-27T12:34:39.132Z"
+    },
+    {
+      "id": "1Af-BI94gYw1GhuXT__vNdHq_-oyMy84g",
+      "name": "Module  2_Adult Learning _ Master Trainers Training_NCDIPN_2025.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Training",
+      "language": "English",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1Af-BI94gYw1GhuXT__vNdHq_-oyMy84g/view?usp=sharing",
+      "size": 5650848,
+      "modifiedTime": "2026-10-27T12:34:05.487Z"
+    },
+    {
       "id": "1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz",
       "name": "Full handbook for Master Trainers Training_NCDIPN_2026.docx",
       "type": "DOCX",
       "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training ",
+      "path": "3_Training/5_Master Trainers Training ",
       "link": "https://drive.google.com/file/d/1lRqW_xMwDg3pnAu6tpxRD0W5E-iMDxgz/view?usp=sharing",
       "size": 133199,
       "modifiedTime": "2026-10-23T12:51:15.306Z"
@@ -71,7 +227,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training ",
+      "path": "3_Training/5_Master Trainers Training ",
       "link": "https://drive.google.com/file/d/1MD9Lnfm0LszzRXCHgcil1cA0dZT8dMfK/view?usp=sharing",
       "size": 120259,
       "modifiedTime": "2026-10-23T12:51:06.702Z"
@@ -99,6 +255,54 @@
       "link": "https://drive.google.com/file/d/1k5YFaRwuWI_-FA9vEqyNsZ19uSkK1sXg/view?usp=sharing",
       "size": 119957,
       "modifiedTime": "2026-10-16T08:10:32.579Z"
+    },
+    {
+      "id": "1xwr2s6qLFRZr4FpLy637jaAHfm-nA8OK",
+      "name": "RHD_Cases Assessment_NCDIPN_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Assessment in cardiac diseases_2026",
+      "link": "https://drive.google.com/file/d/1xwr2s6qLFRZr4FpLy637jaAHfm-nA8OK/view?usp=sharing",
+      "size": 37470,
+      "modifiedTime": "2026-10-11T10:34:44.183Z"
+    },
+    {
+      "id": "1t_vTICmf5_K_S0HNmrAySNo516d3FNvS",
+      "name": "Cardiomyopathy OSCE_NCDIPN_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Assessment in cardiac diseases_2026",
+      "link": "https://drive.google.com/file/d/1t_vTICmf5_K_S0HNmrAySNo516d3FNvS/view?usp=sharing",
+      "size": 46337,
+      "modifiedTime": "2026-10-10T15:13:13.711Z"
+    },
+    {
+      "id": "1FR3WQffvlYnttztgcjJ5BOU3EIUiLl9J",
+      "name": "Heart Failure MCQ_NCDIPN_2026.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Assessment in cardiac diseases_2026",
+      "link": "https://drive.google.com/file/d/1FR3WQffvlYnttztgcjJ5BOU3EIUiLl9J/view?usp=sharing",
+      "size": 45547,
+      "modifiedTime": "2026-10-10T15:00:07.412Z"
+    },
+    {
+      "id": "1xFHACvyvPOxpKNF8Ih0uVafxIe4BFTg4",
+      "name": "SHORT QUESTIONS_corrected.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Assessment in cardiac diseases_2026",
+      "link": "https://drive.google.com/file/d/1xFHACvyvPOxpKNF8Ih0uVafxIe4BFTg4/view?usp=sharing",
+      "size": 35129,
+      "modifiedTime": "2026-10-10T15:00:00.736Z"
     },
     {
       "id": "1yab7BqnrBka-0U4cqqszDiK8rcqzblpI",
@@ -147,6 +351,18 @@
       "link": "https://drive.google.com/file/d/13Bs2rj3EsxuozBBoUXlnHq0a9h8Fk7z6/view?usp=sharing",
       "size": 20576128,
       "modifiedTime": "2026-10-05T14:42:54.613Z"
+    },
+    {
+      "id": "1uFArpRQI3yZYxCheLvuSGByFPPdv80Wf",
+      "name": "PEN_Plus_Cardiac_INTERACTIVE June 3. pptx.pptx",
+      "type": "PPTX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "category": "Cardiology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /New cardiac cases_2026",
+      "link": "https://drive.google.com/file/d/1uFArpRQI3yZYxCheLvuSGByFPPdv80Wf/view?usp=sharing",
+      "size": 70001961,
+      "modifiedTime": "2026-09-28T15:39:08.622Z"
     },
     {
       "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
@@ -351,54 +567,6 @@
       "link": "https://drive.google.com/file/d/1ckezyxCq1WgUoiiWKrCDezR28GkNkdhK/view?usp=sharing",
       "size": 655388,
       "modifiedTime": "2026-08-28T16:00:54.879Z"
-    },
-    {
-      "id": "1CbDr57JzYhDiD2nY7ewun76_qmFizdVu",
-      "name": "English_correction_ PEN-Plus OSCEs compiled_Answers for correction (1).docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
-      "link": "https://drive.google.com/file/d/1CbDr57JzYhDiD2nY7ewun76_qmFizdVu/view?usp=sharing",
-      "size": 54247,
-      "modifiedTime": "2026-08-24T17:17:31.000Z"
-    },
-    {
-      "id": "1bUFO9C4xyrApaMGn9uWCoutAasmq17Si",
-      "name": "Final_HCP assessment_MCQ answers.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
-      "link": "https://drive.google.com/file/d/1bUFO9C4xyrApaMGn9uWCoutAasmq17Si/view?usp=sharing",
-      "size": 26767,
-      "modifiedTime": "2026-08-24T17:17:28.000Z"
-    },
-    {
-      "id": "1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu",
-      "name": "English_OSCEs_No answers_HCP ass_Reviewed.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
-      "link": "https://drive.google.com/file/d/1gvaJEKnrFMLOfjHJ2QYwnkNRhfsIusXu/view?usp=sharing",
-      "size": 42819,
-      "modifiedTime": "2026-08-24T17:17:14.000Z"
-    },
-    {
-      "id": "1zRrpchxG_8Arb72-FTDSCafdOzF34RYn",
-      "name": "English_PEN-Plus MCQs compiled_Reviewed.docx",
-      "type": "DOCX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/ASSESSMENT IN PEN-Plus/HEALTH CARE PROVIDER ASSESSMENT_2025",
-      "link": "https://drive.google.com/file/d/1zRrpchxG_8Arb72-FTDSCafdOzF34RYn/view?usp=sharing",
-      "size": 69041,
-      "modifiedTime": "2026-08-24T17:17:11.000Z"
     },
     {
       "id": "12_7ZCPvCbngpYQO2CEX-IQFi5miL62HBX83u8m-f_qw",
@@ -1037,30 +1205,6 @@
       "modifiedTime": "2026-05-04T18:42:06.994Z"
     },
     {
-      "id": "1rMn6KSW6hvY2REOlzSB9etL0Iv8ZhWZb",
-      "name": "Lecture 5_Mentorship_Feed-back together_Master Trainers Training_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1rMn6KSW6hvY2REOlzSB9etL0Iv8ZhWZb/view?usp=sharing",
-      "size": 4362714,
-      "modifiedTime": "2026-05-04T15:51:45.000Z"
-    },
-    {
-      "id": "1-KxwJMnM3Aa99Zhxn32eUWiHcQOOZ15j",
-      "name": "Lecture 1_Master Trainers Training_Reflection on learning and barriers to learn_NCDIPN_2025 - 8 days.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1-KxwJMnM3Aa99Zhxn32eUWiHcQOOZ15j/view?usp=sharing",
-      "size": 2352758,
-      "modifiedTime": "2026-05-03T09:03:30.000Z"
-    },
-    {
       "id": "1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6",
       "name": "6b. UPDATED_Acute Complications of SCD_Part 2_NCDIPN_2025.pptx",
       "type": "PPTX",
@@ -1071,18 +1215,6 @@
       "link": "https://drive.google.com/file/d/1952szfFyiQ2kxUyXj-s6xkOBBxUyVZU6/view?usp=sharing",
       "size": 19449678,
       "modifiedTime": "2026-05-01T12:43:32.681Z"
-    },
-    {
-      "id": "1glN08IsC6bOBa-gUbSmSu8ZMdCs_TuL3",
-      "name": "Lecture 7. Competency based curriculum_ Master Trainers Training_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1glN08IsC6bOBa-gUbSmSu8ZMdCs_TuL3/view?usp=sharing",
-      "size": 1731523,
-      "modifiedTime": "2026-05-01T06:06:02.000Z"
     },
     {
       "id": "1U1-HPpJz1UjaOUbtzf_g70QaemCf4iI0",
@@ -1325,28 +1457,16 @@
       "modifiedTime": "2026-04-21T11:53:16.000Z"
     },
     {
-      "id": "1PiyVbNQ92ct-IC-5atSJsa7GuCiPjVF1",
-      "name": "Lecture 4_Master Trainers Training. Teaching delivery methods_NCDIPN_2025.pptx",
+      "id": "1faZev4NduaVjxxiG-47m7Vw_fYTlE-i_",
+      "name": "Module 6_ How to give feedback_Master Training_NCDIPN_2025.pptx",
       "type": "PPTX",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1PiyVbNQ92ct-IC-5atSJsa7GuCiPjVF1/view?usp=sharing",
-      "size": 3735804,
-      "modifiedTime": "2026-04-19T10:47:44.000Z"
-    },
-    {
-      "id": "1MjUvZhh4-XRTn2Qdxbg1r_wGfHdCyKDq",
-      "name": "Lecture 6_ How to give feedback_Master Training_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1MjUvZhh4-XRTn2Qdxbg1r_wGfHdCyKDq/view?usp=sharing",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 1 (8 day training program)",
+      "link": "https://drive.google.com/file/d/1faZev4NduaVjxxiG-47m7Vw_fYTlE-i_/view?usp=sharing",
       "size": 1770329,
-      "modifiedTime": "2026-04-19T10:47:19.000Z"
+      "modifiedTime": "2026-04-19T10:47:19.318Z"
     },
     {
       "id": "1Zcx_6pNdN3x_9v0bKrwAFEpmaxD1JhnP",
@@ -1431,18 +1551,6 @@
       "link": "https://drive.google.com/file/d/1UF1NvRGiIhE26zzViJKmrPDIC0gn1PW-/view?usp=sharing",
       "size": 202258239,
       "modifiedTime": "2026-04-07T14:30:28.000Z"
-    },
-    {
-      "id": "1gHO0TGATvXdzoIXqn5eSSiZhQ_nLTSaa",
-      "name": "Lecture 8. Master Trainers Training_Assessment methodology_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1gHO0TGATvXdzoIXqn5eSSiZhQ_nLTSaa/view?usp=sharing",
-      "size": 1916434,
-      "modifiedTime": "2026-04-06T16:29:03.000Z"
     },
     {
       "id": "1AhVvYLckzfkZCmZkRCqx3EL_BABceobm",
@@ -1937,18 +2045,6 @@
       "modifiedTime": "2026-02-02T08:59:13.000Z"
     },
     {
-      "id": "11sa8FZIk-hzBI5FdfrEuYb8zzN9iYhKD",
-      "name": "Lecture 9. Combined Curriculum-Assessment-Flow_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/11sa8FZIk-hzBI5FdfrEuYb8zzN9iYhKD/view?usp=sharing",
-      "size": 1747202,
-      "modifiedTime": "2026-02-01T06:40:23.000Z"
-    },
-    {
       "id": "1VDhOu-p6YqQ-85Wo-GP9Bu3zRV4BiBKB",
       "name": "Integrated Peer Educator Training Technical Session_NCDIPN_2026.pptx",
       "type": "PPTX",
@@ -2063,7 +2159,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1xMc9icN0mMfP-Y1EIsQMNId-GHJZ7XCD/view?usp=sharing",
       "size": 3234092,
       "modifiedTime": "2026-01-20T10:30:24.000Z"
@@ -2075,7 +2171,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1LBW_RWLGzXT3g3z-skEeup1g-JCuZoVk/view?usp=sharing",
       "size": 2307715,
       "modifiedTime": "2026-01-19T11:49:44.000Z"
@@ -2087,7 +2183,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1Z1_u11IWckhK8mrZwHBaFm-WK4FKF33C/view?usp=sharing",
       "size": 3109416,
       "modifiedTime": "2026-01-19T11:13:59.000Z"
@@ -2099,7 +2195,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1FTRqW6c8fX_cJ3SsGo6t-AipvEqPnKzj/view?usp=sharing",
       "size": 5649409,
       "modifiedTime": "2026-01-19T10:44:47.000Z"
@@ -2111,7 +2207,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1SpFwQisZA9BFFa3Zj4XT9MV7gSeeP1I5/view?usp=sharing",
       "size": 2097989,
       "modifiedTime": "2026-01-15T16:41:10.000Z"
@@ -2159,7 +2255,7 @@
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1h9cQz1X11B9BRx-_Xs5YU5EhRxBB5AIP/view?usp=sharing",
       "size": 1898047,
       "modifiedTime": "2025-12-11T00:07:15.000Z"
@@ -2189,40 +2285,16 @@
       "modifiedTime": "2025-11-27T16:43:46.211Z"
     },
     {
-      "id": "1baYzsddbT2-gisWzOIujalFtWT8wDMC6",
-      "name": "Lecture 3_Characteristics of an effective Master Trainer_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1baYzsddbT2-gisWzOIujalFtWT8wDMC6/view?usp=sharing",
-      "size": 2873725,
-      "modifiedTime": "2025-11-26T13:37:31.000Z"
-    },
-    {
       "id": "1jIlNuDIpu6h1CaPC_6-Iwuzaid46LpYj",
       "name": "Lecture 3_Characteristics of an effective Master Trainer_NCDIPN_2025.pptx",
       "type": "PPTX",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "category": "Training",
       "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 2 (6 Day Training Program)",
+      "path": "3_Training/5_Master Trainers Training /PACKAGE 2 (6 Day Training Program)",
       "link": "https://drive.google.com/file/d/1jIlNuDIpu6h1CaPC_6-Iwuzaid46LpYj/view?usp=sharing",
       "size": 2873725,
       "modifiedTime": "2025-11-26T13:37:31.000Z"
-    },
-    {
-      "id": "1-P0ujkNf-0sncUmpOfjUUJLXk8-Z4ks4",
-      "name": "Lecture 2_Adult Learning _ Master Trainers Training_NCDIPN_2025.pptx",
-      "type": "PPTX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "category": "Training",
-      "language": "English",
-      "path": "3_Training/5_Master Trainers´ training /PACKAGE 1 (8 day training program)",
-      "link": "https://drive.google.com/file/d/1-P0ujkNf-0sncUmpOfjUUJLXk8-Z4ks4/view?usp=sharing",
-      "size": 5651577,
-      "modifiedTime": "2025-11-23T13:19:26.000Z"
     },
     {
       "id": "1ifeSfGXD1XCGBklDk3vCEpZRHc4Nc5WB",
@@ -6299,7 +6371,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 26 prev 722",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 26 prev 722",
       "link": "https://drive.google.com/file/d/16EziUaEWRJKsk3CIJ7_W2Y2B3ZptHt6P/view?usp=sharing",
       "size": 1499136,
       "modifiedTime": "2023-02-14T17:36:42.059Z"
@@ -6311,7 +6383,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 26 prev 722",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 26 prev 722",
       "link": "https://drive.google.com/file/d/12EZtU1elA9JiT3RZK4Poy19vUw5regJJ/view?usp=sharing",
       "size": 620544,
       "modifiedTime": "2023-02-14T17:36:42.059Z"
@@ -6323,7 +6395,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 26 prev 722",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 26 prev 722",
       "link": "https://drive.google.com/file/d/1WT0hc8nzxswinPiCfvX5pRNgrSBPILNU/view?usp=sharing",
       "size": 602112,
       "modifiedTime": "2023-02-14T17:36:42.059Z"
@@ -6335,7 +6407,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 26 prev 722",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 26 prev 722",
       "link": "https://drive.google.com/file/d/1wmPG904Y9X5RGGNpJ_AASAvk_fG-7iez/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T17:36:42.059Z"
@@ -6347,7 +6419,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 26 prev 722",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 26 prev 722",
       "link": "https://drive.google.com/file/d/1pCZqgWSGcTt35wEjBLbpMn9Dd70nyQhI/view?usp=sharing",
       "size": 628736,
       "modifiedTime": "2023-02-14T17:36:42.059Z"
@@ -6359,7 +6431,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1t9oPHvdHJ2k6wk-QuKY01j1fzFrvywXM/view?usp=sharing",
       "size": 620544,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6371,7 +6443,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1rU0k8Atv9EAcJl5ik6ay-_viOvRBotns/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6383,7 +6455,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1sk5hbS3ICXD_px4Y8HnPNgVYedxLQoTw/view?usp=sharing",
       "size": 585728,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6395,7 +6467,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1dLXaacNjqZFPBTh2kQuGFC9pSJQLY1ti/view?usp=sharing",
       "size": 620544,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6407,7 +6479,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1uHymaPeSaSdwLAbLDIb02IOykCOi6Vcb/view?usp=sharing",
       "size": 569344,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6419,7 +6491,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 25 prev 724",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 25 prev 724",
       "link": "https://drive.google.com/file/d/1ZEegHw7Dxjz6DrWNST5Cej69dUL8uQjV/view?usp=sharing",
       "size": 595968,
       "modifiedTime": "2023-02-14T17:36:33.739Z"
@@ -6431,7 +6503,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 24 prev 702",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 24 prev 702",
       "link": "https://drive.google.com/file/d/1rFEcjd69rJ0T-H-O1Xn_xcwh1syTLQct/view?usp=sharing",
       "size": 610304,
       "modifiedTime": "2023-02-14T17:36:24.913Z"
@@ -6443,7 +6515,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 24 prev 702",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 24 prev 702",
       "link": "https://drive.google.com/file/d/1oRKHyrlKE6ioRStuRvl7yxRoRj5GAdUP/view?usp=sharing",
       "size": 604160,
       "modifiedTime": "2023-02-14T17:36:24.913Z"
@@ -6455,7 +6527,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 24 prev 702",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 24 prev 702",
       "link": "https://drive.google.com/file/d/12FPn3qpY1uMU8NnLARjbd5bawEClvy70/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T17:36:24.913Z"
@@ -6467,7 +6539,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 24 prev 702",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 24 prev 702",
       "link": "https://drive.google.com/file/d/1_OI4vts1rbdhDyXICoJw1FL1DScdzhUd/view?usp=sharing",
       "size": 579584,
       "modifiedTime": "2023-02-14T17:36:24.913Z"
@@ -6479,7 +6551,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 23 prev 705",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 23 prev 705",
       "link": "https://drive.google.com/file/d/1qq9Q5VMUxUgPQoeTpTV4bEGHYEfRGQ8x/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T17:33:34.783Z"
@@ -6491,7 +6563,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 23 prev 705",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 23 prev 705",
       "link": "https://drive.google.com/file/d/1oRwK2jw8PFxCYBIo7lK45nM94HoWcGHN/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T17:33:34.783Z"
@@ -6503,7 +6575,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 23 prev 705",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 23 prev 705",
       "link": "https://drive.google.com/file/d/1j_qf4nofRT6l4Kv8NijcGMKYwDGZSmnu/view?usp=sharing",
       "size": 610304,
       "modifiedTime": "2023-02-14T17:33:34.783Z"
@@ -6515,7 +6587,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 23 prev 705",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 23 prev 705",
       "link": "https://drive.google.com/file/d/1rM-0aL02PVWh7PBs3sWyVBr6IbVoPph0/view?usp=sharing",
       "size": 598016,
       "modifiedTime": "2023-02-14T17:33:34.783Z"
@@ -6527,7 +6599,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 23 prev 705",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 23 prev 705",
       "link": "https://drive.google.com/file/d/1oA7UOajl1JjJIlJ-qaPlWP3LphDPbCez/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T17:33:34.783Z"
@@ -6539,7 +6611,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 22 prev 701",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 22 prev 701",
       "link": "https://drive.google.com/file/d/1XnSjA-esMyC0Pc5CudE98396oCb8vdqN/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-14T17:33:27.566Z"
@@ -6551,7 +6623,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 22 prev 701",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 22 prev 701",
       "link": "https://drive.google.com/file/d/1ZhrJCDO0osQBADFa5hOC4-ps1YSvlWTp/view?usp=sharing",
       "size": 600064,
       "modifiedTime": "2023-02-14T17:33:27.566Z"
@@ -6563,7 +6635,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 22 prev 701",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 22 prev 701",
       "link": "https://drive.google.com/file/d/1kZs-oJ-xO-5KNTRSr3_KyW4P-4TZhDQK/view?usp=sharing",
       "size": 600064,
       "modifiedTime": "2023-02-14T17:33:27.566Z"
@@ -6575,7 +6647,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 21 prev 703",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 21 prev 703",
       "link": "https://drive.google.com/file/d/1xqEj8TuLu0vCFebtS4c2SHM3Y_fAicVe/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T17:33:21.811Z"
@@ -6587,7 +6659,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 21 prev 703",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 21 prev 703",
       "link": "https://drive.google.com/file/d/1sYDCfN54YRdKlbsTD2xzl6E_YJNFQtYI/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-14T17:33:21.811Z"
@@ -6599,7 +6671,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 21 prev 703",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 21 prev 703",
       "link": "https://drive.google.com/file/d/19tznlpGoX7aP1CvVYvJnk_4ilTXmxWgf/view?usp=sharing",
       "size": 595968,
       "modifiedTime": "2023-02-14T17:33:21.811Z"
@@ -6611,7 +6683,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 21 prev 703",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 21 prev 703",
       "link": "https://drive.google.com/file/d/1pZcpNdDtbZrMlGr-WzRWqZvC28v6n2_z/view?usp=sharing",
       "size": 593920,
       "modifiedTime": "2023-02-14T17:33:21.811Z"
@@ -6623,7 +6695,7 @@
       "mimeType": "video/quicktime",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 21 prev 703",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 21 prev 703",
       "link": "https://drive.google.com/file/d/1Ef0VT04f5oPR9aq6TZ_uIdGzNCzxnmtY/view?usp=sharing",
       "size": 162476,
       "modifiedTime": "2023-02-14T17:33:21.811Z"
@@ -6635,7 +6707,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 20 prev 709",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 20 prev 709",
       "link": "https://drive.google.com/file/d/1gAjS1SrOntFQUXu39fijxzGnum7Yeg_G/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T17:33:14.736Z"
@@ -6647,7 +6719,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 20 prev 709",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 20 prev 709",
       "link": "https://drive.google.com/file/d/1i-f9t2sE744QoraCgX67Cr-v0KtxC-h4/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T17:33:14.736Z"
@@ -6659,7 +6731,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 20 prev 709",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 20 prev 709",
       "link": "https://drive.google.com/file/d/1bze5Iq5IAKSxJR55OUBRmyJsICTfjEHf/view?usp=sharing",
       "size": 610304,
       "modifiedTime": "2023-02-14T17:33:14.736Z"
@@ -6671,7 +6743,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 20 prev 709",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 20 prev 709",
       "link": "https://drive.google.com/file/d/1UTEUqwnCqbt30El8U9U0bT5gczkHu83k/view?usp=sharing",
       "size": 602112,
       "modifiedTime": "2023-02-14T17:33:14.736Z"
@@ -6683,7 +6755,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 20 prev 709",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 20 prev 709",
       "link": "https://drive.google.com/file/d/1EmJICEADfOAg58n6gxcX4j0AHDZAh1DX/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T17:33:14.736Z"
@@ -6695,7 +6767,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 19 prev 725",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 19 prev 725",
       "link": "https://drive.google.com/file/d/1pfVhpKnm5jdSYQCtGlGHa0LYblFx97K6/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T17:33:07.598Z"
@@ -6707,7 +6779,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 19 prev 725",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 19 prev 725",
       "link": "https://drive.google.com/file/d/1O16f3xEAaE43gVaX9YmqCP3cPREkK5Wa/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T17:33:07.598Z"
@@ -6719,7 +6791,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 19 prev 725",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 19 prev 725",
       "link": "https://drive.google.com/file/d/1slzbqoRVzDEa97RjL7QE6Mlm-oEgttMr/view?usp=sharing",
       "size": 620544,
       "modifiedTime": "2023-02-14T17:33:07.598Z"
@@ -6731,7 +6803,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 19 prev 725",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 19 prev 725",
       "link": "https://drive.google.com/file/d/1GshVG80rMiGYVsxzbRSSEznhzeR8l0vU/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-14T17:33:07.598Z"
@@ -6743,7 +6815,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases/Case 19 prev 725",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Intermediate Cases_Echo Based/Case 19 prev 725",
       "link": "https://drive.google.com/file/d/1pZFqwj6y2ihZkGy3FnYbZtds4DMCuOsI/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-14T17:33:07.598Z"
@@ -6755,7 +6827,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 18 Prev 01",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 18 Prev 01",
       "link": "https://drive.google.com/file/d/1dYFeRSAYPGyAUk8N-x_dXMYSs1s0Qv9m/view?usp=sharing",
       "size": 2233815,
       "modifiedTime": "2023-02-14T16:45:09.713Z"
@@ -6767,7 +6839,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 18 Prev 01",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 18 Prev 01",
       "link": "https://drive.google.com/file/d/12onNJUXZEE8W9nOGdrOktJ5NhdBgGKA-/view?usp=sharing",
       "size": 2277083,
       "modifiedTime": "2023-02-14T16:45:09.713Z"
@@ -6779,7 +6851,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 18 Prev 01",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 18 Prev 01",
       "link": "https://drive.google.com/file/d/1ohxcRt8krcB-bATGvHouKD2uFGkvU73K/view?usp=sharing",
       "size": 2257902,
       "modifiedTime": "2023-02-14T16:45:09.713Z"
@@ -6791,7 +6863,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 18 Prev 01",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 18 Prev 01",
       "link": "https://drive.google.com/file/d/1wtLoKsn0buto8n3xtOV9luF7gn0x2A9N/view?usp=sharing",
       "size": 1788949,
       "modifiedTime": "2023-02-14T16:45:09.713Z"
@@ -6803,7 +6875,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 17 Prev 723",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 17 Prev 723",
       "link": "https://drive.google.com/file/d/10va2wlMIXmM-Ev5-7kFzxyAWIdchQhCq/view?usp=sharing",
       "size": 622592,
       "modifiedTime": "2023-02-14T16:45:00.275Z"
@@ -6815,7 +6887,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 17 Prev 723",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 17 Prev 723",
       "link": "https://drive.google.com/file/d/1iYTy7t-7wHe_o6Gsq7SWWM3I3QuHbr9b/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-14T16:45:00.275Z"
@@ -6827,7 +6899,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 17 Prev 723",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 17 Prev 723",
       "link": "https://drive.google.com/file/d/1xzZpR7kRm9EBthcT7jRDRWW0Wx1uAzts/view?usp=sharing",
       "size": 602112,
       "modifiedTime": "2023-02-14T16:45:00.275Z"
@@ -6839,7 +6911,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 17 Prev 723",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 17 Prev 723",
       "link": "https://drive.google.com/file/d/1Szwp82yvrZJFpMPn6A9YiltZh24Igkfe/view?usp=sharing",
       "size": 585728,
       "modifiedTime": "2023-02-14T16:45:00.275Z"
@@ -6851,7 +6923,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 17 Prev 723",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 17 Prev 723",
       "link": "https://drive.google.com/file/d/1XK2sIk9wtjXCaEOBi9rvnK2uc1idGZn1/view?usp=sharing",
       "size": 630784,
       "modifiedTime": "2023-02-14T16:45:00.275Z"
@@ -6863,7 +6935,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 16 prev 721",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 16 prev 721",
       "link": "https://drive.google.com/file/d/12MCW12Djg-xFaBs-Y9ijScIGxfVsZ9e4/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T16:44:51.666Z"
@@ -6875,7 +6947,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 16 prev 721",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 16 prev 721",
       "link": "https://drive.google.com/file/d/1GEuI7GhQHJi84jY_iURhdUXU9uI9FfeE/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T16:44:51.666Z"
@@ -6887,7 +6959,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 16 prev 721",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 16 prev 721",
       "link": "https://drive.google.com/file/d/1I2Pk0GugVxDGHOXvfLJ8st_RANVYBw-U/view?usp=sharing",
       "size": 620544,
       "modifiedTime": "2023-02-14T16:44:51.666Z"
@@ -6899,7 +6971,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 16 prev 721",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 16 prev 721",
       "link": "https://drive.google.com/file/d/1d8E26nkDLnmijrXxmgtxLMK53LEB7Y4X/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T16:44:51.666Z"
@@ -6911,7 +6983,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 16 prev 721",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 16 prev 721",
       "link": "https://drive.google.com/file/d/1cgwBUqYlp3-_4Ad7txKu2VJunQQsrEUH/view?usp=sharing",
       "size": 628736,
       "modifiedTime": "2023-02-14T16:44:51.666Z"
@@ -6923,7 +6995,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/1JxXjHzjeaUOR0l-F06cLNVfgqUYYdTtX/view?usp=sharing",
       "size": 600064,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6935,7 +7007,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/1Py0Z6a_xD5mSdUZ49dscwJHS32FgEK_5/view?usp=sharing",
       "size": 600064,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6947,7 +7019,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/15hM64cNYlfFb-JeQgxYAoPRIZGjbhd6Y/view?usp=sharing",
       "size": 595968,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6959,7 +7031,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/14FVY8Yq5yxkE4q4rK01Mota0M5p4vp2_/view?usp=sharing",
       "size": 614400,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6971,7 +7043,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/1GdaS7mp9mp10QPPzXyH42zreyghJj6Vg/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6983,7 +7055,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 15 Prev 720",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 15 Prev 720",
       "link": "https://drive.google.com/file/d/13UG_QBtgqtpLXYynkHQRArimCqRpsCmG/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T16:44:43.148Z"
@@ -6995,7 +7067,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 14 Prev 719",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 14 Prev 719",
       "link": "https://drive.google.com/file/d/1JolQXt8yUwLOq_-T3F_qV8vZp_cmi5xi/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-14T16:44:34.723Z"
@@ -7007,7 +7079,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 14 Prev 719",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 14 Prev 719",
       "link": "https://drive.google.com/file/d/1EV6Yt-BYwIRjKzmTe6H7eFlzyiQ9YbIa/view?usp=sharing",
       "size": 610304,
       "modifiedTime": "2023-02-14T16:44:34.723Z"
@@ -7019,7 +7091,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 14 Prev 719",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 14 Prev 719",
       "link": "https://drive.google.com/file/d/18rfRY41vJQ3GZVCa29L5_1NCf0K7JKgP/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-14T16:44:34.723Z"
@@ -7031,7 +7103,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 14 Prev 719",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 14 Prev 719",
       "link": "https://drive.google.com/file/d/1XaZpkFnRstIwvbNBx_l5GyKLoYQAD71u/view?usp=sharing",
       "size": 577536,
       "modifiedTime": "2023-02-14T16:44:34.723Z"
@@ -7043,7 +7115,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 14 Prev 719",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 14 Prev 719",
       "link": "https://drive.google.com/file/d/1teN4fr8BU7ebf3TebRtq_FqZTS_mQin6/view?usp=sharing",
       "size": 602112,
       "modifiedTime": "2023-02-14T16:44:34.723Z"
@@ -7055,7 +7127,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 13 prev 718",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 13 prev 718",
       "link": "https://drive.google.com/file/d/1i5ZWWOZLPfnfMDft-jvltWb0bBJom3rV/view?usp=sharing",
       "size": 612352,
       "modifiedTime": "2023-02-14T16:44:28.218Z"
@@ -7067,7 +7139,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 13 prev 718",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 13 prev 718",
       "link": "https://drive.google.com/file/d/1abR3wfWjHDz4zbC6zJ3Sj7ZwKK-ESZN5/view?usp=sharing",
       "size": 628736,
       "modifiedTime": "2023-02-14T16:44:28.218Z"
@@ -7079,7 +7151,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 13 prev 718",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 13 prev 718",
       "link": "https://drive.google.com/file/d/1WYDq9lKl6MbAwYiijEY8Gm2zuLHLDwwu/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T16:44:28.218Z"
@@ -7091,7 +7163,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 13 prev 718",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 13 prev 718",
       "link": "https://drive.google.com/file/d/1UbSbzgedlNUizjTExY0bY82bVXCOURcO/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-14T16:44:28.218Z"
@@ -7103,7 +7175,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 13 prev 718",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 13 prev 718",
       "link": "https://drive.google.com/file/d/19DtSptx3WxsOhujYQyQLFmzrbaKHbsl6/view?usp=sharing",
       "size": 624640,
       "modifiedTime": "2023-02-14T16:44:28.218Z"
@@ -7115,7 +7187,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 12 prev 716",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 12 prev 716",
       "link": "https://drive.google.com/file/d/1GmSSZBdkjXlUamCaDm7f-UNr5p45_RYU/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-14T16:44:20.764Z"
@@ -7127,7 +7199,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 12 prev 716",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 12 prev 716",
       "link": "https://drive.google.com/file/d/1QP8uajeXmdJ2Vzj1YVK5qnvzMD4HHrgV/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T16:44:20.764Z"
@@ -7139,7 +7211,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 12 prev 716",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 12 prev 716",
       "link": "https://drive.google.com/file/d/113niShpISoueueYbvo2gtvWQMgbrtQJ8/view?usp=sharing",
       "size": 589824,
       "modifiedTime": "2023-02-14T16:44:20.764Z"
@@ -7151,7 +7223,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 12 prev 716",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 12 prev 716",
       "link": "https://drive.google.com/file/d/143o6F80T4iVoF4yyK9K9TMQvWtGnMP9s/view?usp=sharing",
       "size": 622592,
       "modifiedTime": "2023-02-14T16:44:20.764Z"
@@ -7163,7 +7235,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 12 prev 716",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 12 prev 716",
       "link": "https://drive.google.com/file/d/1KVQ1ftVB1bUC1w7f9-2Oyb_Ura5CRTX-/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T16:44:20.764Z"
@@ -7175,7 +7247,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 11 prev 715",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 11 prev 715",
       "link": "https://drive.google.com/file/d/1IQ0U6AtTMaqL3Vk9hNgtAyCrDRNtrlck/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T16:44:06.154Z"
@@ -7187,7 +7259,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 11 prev 715",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 11 prev 715",
       "link": "https://drive.google.com/file/d/1hWHIS6M6OCCs3Zoy96-OSE1AQd4l66WL/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-14T16:44:06.154Z"
@@ -7199,7 +7271,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 11 prev 715",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 11 prev 715",
       "link": "https://drive.google.com/file/d/1MSRdI8aMvSD3c_lfpNlprUPImaiQVIpq/view?usp=sharing",
       "size": 614400,
       "modifiedTime": "2023-02-14T16:44:06.154Z"
@@ -7211,7 +7283,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 11 prev 715",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 11 prev 715",
       "link": "https://drive.google.com/file/d/1X9ieSXpZBD5zJNqyH-xlCw8yt9yDNACj/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-14T16:44:06.154Z"
@@ -7223,7 +7295,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 10 prev 714",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 10 prev 714",
       "link": "https://drive.google.com/file/d/1OD7aicSvArs5urQLfDoUM7VOMEFm_CtS/view?usp=sharing",
       "size": 583680,
       "modifiedTime": "2023-02-14T16:43:54.575Z"
@@ -7235,7 +7307,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 10 prev 714",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 10 prev 714",
       "link": "https://drive.google.com/file/d/1qH3xSzA_ijZ011c4vR5JWWApQy7hCXNO/view?usp=sharing",
       "size": 622592,
       "modifiedTime": "2023-02-14T16:43:54.575Z"
@@ -7247,7 +7319,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 10 prev 714",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 10 prev 714",
       "link": "https://drive.google.com/file/d/1qSda1NtYfGQlk2dBa-MeH4PedpF7Vav7/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-14T16:43:54.575Z"
@@ -7259,7 +7331,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 10 prev 714",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 10 prev 714",
       "link": "https://drive.google.com/file/d/12JGY3Gq6rP8RyKnIZNU-a7ZWgDzBkJFF/view?usp=sharing",
       "size": 602112,
       "modifiedTime": "2023-02-14T16:43:54.575Z"
@@ -7271,7 +7343,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 10 prev 714",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 10 prev 714",
       "link": "https://drive.google.com/file/d/1AI6triV5OKjVHMOJjf-UFXpmfYhKmU8I/view?usp=sharing",
       "size": 614400,
       "modifiedTime": "2023-02-14T16:43:54.575Z"
@@ -7283,7 +7355,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 9 Prev 07",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 9 Prev 07",
       "link": "https://drive.google.com/file/d/1yXE5HvmDUH3juFJibfnYUBEM3WwxiwWb/view?usp=sharing",
       "size": 1727773,
       "modifiedTime": "2023-02-14T16:35:35.444Z"
@@ -7295,7 +7367,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 9 Prev 07",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 9 Prev 07",
       "link": "https://drive.google.com/file/d/1NJfk3Znz1qAATsQJQA6lntVSutiv6wgs/view?usp=sharing",
       "size": 1703488,
       "modifiedTime": "2023-02-14T16:35:35.444Z"
@@ -7307,7 +7379,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 9 Prev 07",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 9 Prev 07",
       "link": "https://drive.google.com/file/d/15PjFrDgpp5qHjMjlUJuy5-sXT0ZfnDIR/view?usp=sharing",
       "size": 1909219,
       "modifiedTime": "2023-02-14T16:35:35.444Z"
@@ -7319,7 +7391,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 9 Prev 07",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 9 Prev 07",
       "link": "https://drive.google.com/file/d/1CVhuoG7fzA37iKnCit1k26vW60LrBu6E/view?usp=sharing",
       "size": 2021903,
       "modifiedTime": "2023-02-14T16:35:35.444Z"
@@ -7331,7 +7403,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 9 Prev 07",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 9 Prev 07",
       "link": "https://drive.google.com/file/d/1xnBpIhD6JKvig8bWhta9o2E7cMQKF5-c/view?usp=sharing",
       "size": 1663095,
       "modifiedTime": "2023-02-14T16:35:35.444Z"
@@ -7343,7 +7415,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 8 Prev 06",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 8 Prev 06",
       "link": "https://drive.google.com/file/d/1ws6cthQaLr2hDoAz4XA10i4kGRnEkcr2/view?usp=sharing",
       "size": 2448437,
       "modifiedTime": "2023-02-14T16:35:20.592Z"
@@ -7355,7 +7427,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 8 Prev 06",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 8 Prev 06",
       "link": "https://drive.google.com/file/d/1S_y5QoZEw50KXkjnzvrEeqH9JqdRMf1X/view?usp=sharing",
       "size": 2237642,
       "modifiedTime": "2023-02-14T16:35:20.592Z"
@@ -7367,7 +7439,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 8 Prev 06",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 8 Prev 06",
       "link": "https://drive.google.com/file/d/1PSg6CVD72bl6UQ1KH6ftTKfr-JJqIbsr/view?usp=sharing",
       "size": 2421525,
       "modifiedTime": "2023-02-14T16:35:20.592Z"
@@ -7379,7 +7451,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 8 Prev 06",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 8 Prev 06",
       "link": "https://drive.google.com/file/d/1unOQRpCvIrj71-hRg47rGqsyPBcIdib3/view?usp=sharing",
       "size": 2670992,
       "modifiedTime": "2023-02-14T16:35:20.592Z"
@@ -7391,7 +7463,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 8 Prev 06",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 8 Prev 06",
       "link": "https://drive.google.com/file/d/14SkGZclDXTY1FCNU0iLtvjwtVayQrXTI/view?usp=sharing",
       "size": 2517104,
       "modifiedTime": "2023-02-14T16:35:20.592Z"
@@ -7403,7 +7475,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 7 Prev 05",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 7 Prev 05",
       "link": "https://drive.google.com/file/d/1bc0Fx9eNyLTZSuo00ld9kJRAdPTHPgyu/view?usp=sharing",
       "size": 2744484,
       "modifiedTime": "2023-02-14T16:35:12.609Z"
@@ -7415,7 +7487,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 7 Prev 05",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 7 Prev 05",
       "link": "https://drive.google.com/file/d/160hgV-1WcQu4A0HgrGpWom0K-IjuaJki/view?usp=sharing",
       "size": 2697890,
       "modifiedTime": "2023-02-14T16:35:12.609Z"
@@ -7427,7 +7499,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 7 Prev 05",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 7 Prev 05",
       "link": "https://drive.google.com/file/d/1zaMl5xH6elgonffUUDvFlBNHBPIiQ5p_/view?usp=sharing",
       "size": 2338466,
       "modifiedTime": "2023-02-14T16:35:12.609Z"
@@ -7439,7 +7511,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 7 Prev 05",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 7 Prev 05",
       "link": "https://drive.google.com/file/d/1xBz839_yjzxdH1a9lynBMp5sHlXBnEKd/view?usp=sharing",
       "size": 2811061,
       "modifiedTime": "2023-02-14T16:35:12.609Z"
@@ -7451,7 +7523,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 6 Prev 04",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 6 Prev 04",
       "link": "https://drive.google.com/file/d/1NXgbUzKpRkuNeLaQB8uvilywnrceKyRh/view?usp=sharing",
       "size": 3128013,
       "modifiedTime": "2023-02-14T16:35:03.786Z"
@@ -7463,7 +7535,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 6 Prev 04",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 6 Prev 04",
       "link": "https://drive.google.com/file/d/17OjiIt-monLp0sPGTckEaOOjMqvPyGZZ/view?usp=sharing",
       "size": 2957696,
       "modifiedTime": "2023-02-14T16:35:03.786Z"
@@ -7475,7 +7547,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 6 Prev 04",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 6 Prev 04",
       "link": "https://drive.google.com/file/d/1kXOL3Eb7gHmwfT7xs6So3q1jC3EyFGZ_/view?usp=sharing",
       "size": 3116509,
       "modifiedTime": "2023-02-14T16:35:03.786Z"
@@ -7487,7 +7559,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 6 Prev 04",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 6 Prev 04",
       "link": "https://drive.google.com/file/d/1bV15d06Ht0aPwqfAowkD91Z3fHnRP4U4/view?usp=sharing",
       "size": 2922163,
       "modifiedTime": "2023-02-14T16:35:03.786Z"
@@ -7499,7 +7571,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 5 Prev 03 ",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 5 Prev 03 ",
       "link": "https://drive.google.com/file/d/1iOqtZfR-v4mF8gFgfeRuOcIl4kCW1KPV/view?usp=sharing",
       "size": 2626470,
       "modifiedTime": "2023-02-10T21:36:11.031Z"
@@ -7511,7 +7583,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 5 Prev 03 ",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 5 Prev 03 ",
       "link": "https://drive.google.com/file/d/16U6TcjQtOI9KvrkfwLKC9YuzYePEGnlm/view?usp=sharing",
       "size": 2457417,
       "modifiedTime": "2023-02-10T21:36:11.031Z"
@@ -7523,7 +7595,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 5 Prev 03 ",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 5 Prev 03 ",
       "link": "https://drive.google.com/file/d/1XQPsaCjZzZ7eWLAblKNSpw6i3RVKyRCX/view?usp=sharing",
       "size": 2504457,
       "modifiedTime": "2023-02-10T21:36:11.031Z"
@@ -7535,7 +7607,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 5 Prev 03 ",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 5 Prev 03 ",
       "link": "https://drive.google.com/file/d/1R6HcepSNdlVnSb7swzHKY4bGNCWMg3TO/view?usp=sharing",
       "size": 2714087,
       "modifiedTime": "2023-02-10T21:36:11.031Z"
@@ -7547,7 +7619,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 5 Prev 03 ",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 5 Prev 03 ",
       "link": "https://drive.google.com/file/d/1pfiCBz95sdjRFJkKncTojh64B0qQjxT5/view?usp=sharing",
       "size": 2278974,
       "modifiedTime": "2023-02-10T21:36:11.031Z"
@@ -7559,7 +7631,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 4 Prev 02",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 4 Prev 02",
       "link": "https://drive.google.com/file/d/1x8RlIEQVOOqF4GZa9Yw1cG1Oqr49YVpp/view?usp=sharing",
       "size": 2621093,
       "modifiedTime": "2023-02-10T21:25:48.730Z"
@@ -7571,7 +7643,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 4 Prev 02",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 4 Prev 02",
       "link": "https://drive.google.com/file/d/1t5hEJAksP9-cnj-3ttrkgU5Gf95hZNy5/view?usp=sharing",
       "size": 2611007,
       "modifiedTime": "2023-02-10T21:25:48.730Z"
@@ -7583,7 +7655,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 4 Prev 02",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 4 Prev 02",
       "link": "https://drive.google.com/file/d/1jvxgAG45TuMMpNK-yGCn66H5rGbF11kA/view?usp=sharing",
       "size": 2667043,
       "modifiedTime": "2023-02-10T21:25:48.730Z"
@@ -7595,7 +7667,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 4 Prev 02",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 4 Prev 02",
       "link": "https://drive.google.com/file/d/1I2BkL2AioNLXZCMc_NCekM70ctlAvc6p/view?usp=sharing",
       "size": 2727323,
       "modifiedTime": "2023-02-10T21:25:48.730Z"
@@ -7607,7 +7679,7 @@
       "mimeType": "video/mp4",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 4 Prev 02",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 4 Prev 02",
       "link": "https://drive.google.com/file/d/1omcQ8K4t1tOKAPDhZoV8hudeVHMJqmWT/view?usp=sharing",
       "size": 2569031,
       "modifiedTime": "2023-02-10T21:25:48.730Z"
@@ -7619,7 +7691,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 3 Prev 711",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 3 Prev 711",
       "link": "https://drive.google.com/file/d/11FON0yoLxXAniwaLsJW8_lo4Go1YXCrk/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-10T21:11:57.852Z"
@@ -7631,7 +7703,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 3 Prev 711",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 3 Prev 711",
       "link": "https://drive.google.com/file/d/1Jf2jR_bpnfkLKSmf49qMytJIkQd-y25g/view?usp=sharing",
       "size": 610304,
       "modifiedTime": "2023-02-10T21:11:57.852Z"
@@ -7643,7 +7715,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 3 Prev 711",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 3 Prev 711",
       "link": "https://drive.google.com/file/d/1xPYcE6W9a7zxPjM0NVYAAagwekwgLqzN/view?usp=sharing",
       "size": 595968,
       "modifiedTime": "2023-02-10T21:11:57.852Z"
@@ -7655,7 +7727,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 3 Prev 711",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 3 Prev 711",
       "link": "https://drive.google.com/file/d/1lZS699w9pCkLZzK1iQwvEZbVFpSErLOW/view?usp=sharing",
       "size": 1509376,
       "modifiedTime": "2023-02-10T21:11:57.852Z"
@@ -7667,7 +7739,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 3 Prev 711",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 3 Prev 711",
       "link": "https://drive.google.com/file/d/1Y749zVMW15Ao3DLRYpHc94fvijHH2Q1u/view?usp=sharing",
       "size": 595968,
       "modifiedTime": "2023-02-10T21:11:57.852Z"
@@ -7679,7 +7751,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/1Bj_iFpeXBj7vdebElmBSnRW4pxeE46OP/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7691,7 +7763,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/1JP-0aYYyxSLnk4FXZfh7b6Cf5V_mDEuh/view?usp=sharing",
       "size": 622592,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7703,7 +7775,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/1x08_oEwOIJ4J8RKdTnuKZVbn-JOF03qP/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7715,7 +7787,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/12EvEQx19nrMKlfvlNj0zn34x6P-yiClh/view?usp=sharing",
       "size": 600064,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7727,7 +7799,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/11_wkfaZuWmtuQrkAe261SMQudjc_2h3n/view?usp=sharing",
       "size": 608256,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7739,7 +7811,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/1YYORU431HA_aOVr0XACnuFJFj7hKkDQB/view?usp=sharing",
       "size": 573440,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7751,7 +7823,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 2 Prev 710",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 2 Prev 710",
       "link": "https://drive.google.com/file/d/1RYztAl8tA_D3kSpETLGcazQXEW-ZZrPc/view?usp=sharing",
       "size": 616448,
       "modifiedTime": "2023-02-10T21:11:00.743Z"
@@ -7763,7 +7835,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1soN1hW71dJMgW7nLRhrtkvW9h13Estot/view?usp=sharing",
       "size": 581632,
       "modifiedTime": "2023-02-10T21:10:01.251Z"
@@ -7775,7 +7847,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1BI7cKE6NwN2OvW7c6XQd3GetuOGSznEg/view?usp=sharing",
       "size": 569344,
       "modifiedTime": "2023-02-10T21:09:56.333Z"
@@ -7787,7 +7859,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1TtKjchE92by0ln15kC4lwoU92IbjOpGu/view?usp=sharing",
       "size": 587776,
       "modifiedTime": "2023-02-10T21:09:51.876Z"
@@ -7799,7 +7871,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1Zb66zGgfCevDh2CmAmajzmOfqAll5La5/view?usp=sharing",
       "size": 587776,
       "modifiedTime": "2023-02-10T21:09:49.018Z"
@@ -7811,7 +7883,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1dTuNknEOK2SY_qwSlie-uZrwiRMJICD5/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-10T21:09:45.029Z"
@@ -7823,7 +7895,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases/Case 1 Prev 707",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Basic Cases_Echo based/Case 1 Prev 707",
       "link": "https://drive.google.com/file/d/1tYbM8x9eu70p3XqvYqhmrvKqkaVYdRiU/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-10T21:09:42.044Z"
@@ -7835,7 +7907,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1K6xfDjSYaqknQd-qf3QHIx30mnlRlA2A/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7847,7 +7919,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1mP1k0bc7YMC1Ieunci_uxm5kNh8dqVGs/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7859,7 +7931,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1PAQ6XKFHomNUR1PGRO6-tkV7RxUkOyWo/view?usp=sharing",
       "size": 573440,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7871,7 +7943,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1L0jS1retKyXBVRo0VISYNWYCHbVsM-S9/view?usp=sharing",
       "size": 591872,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7883,7 +7955,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1Kaf3qDfnQMz_yoyL2L2eLQAmigrnKeWz/view?usp=sharing",
       "size": 587776,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7895,7 +7967,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1zJdYlkoi9C4h3-l40qeWW22Zt8ztbNnW/view?usp=sharing",
       "size": 618496,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
@@ -7907,7 +7979,7 @@
       "mimeType": "video/mpeg",
       "category": "Cardiology",
       "language": "English",
-      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases/Case 27 prev 706",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/1. Cardiovascular Didactic and Protocols/Case Bank /Advanced Cases_Echo based/Case 27 prev 706",
       "link": "https://drive.google.com/file/d/1kvHKtSc5EqagQbBNfmrZRjb26Mt2kY-3/view?usp=sharing",
       "size": 606208,
       "modifiedTime": "2023-02-07T16:54:44.507Z"
