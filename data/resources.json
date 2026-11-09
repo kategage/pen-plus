@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T14:25:16Z",
-  "totalResources": 672,
+  "generatedAt": "2026-11-09T14:51:29Z",
+  "totalResources": 676,
   "categories": [
     "10_DataSystems",
     "11_Evaluation: Facility Assessments and Chart Review Tools",
@@ -52,6 +52,30 @@
     "Swahili"
   ],
   "resources": [
+    {
+      "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
+      "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
+      "type": "XLSX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "category": "Research",
+      "language": "English",
+      "path": "11_Evaluation: Facility Assessments and Chart Review Tools",
+      "link": "https://drive.google.com/file/d/1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9/view?usp=sharing",
+      "size": 48236,
+      "modifiedTime": "2026-11-04T15:53:31.976Z"
+    },
+    {
+      "id": "1Okpas8xSs2dNRTtROURDVmnzZ_PWB7Txuw8IjYIQ-EY",
+      "name": "Introduction to assessment resources",
+      "type": "Google Doc",
+      "mimeType": "application/vnd.google-apps.document",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training assessment_SCD",
+      "link": "https://drive.google.com/file/d/1Okpas8xSs2dNRTtROURDVmnzZ_PWB7Txuw8IjYIQ-EY/view",
+      "size": 1024,
+      "modifiedTime": "2026-11-04T08:01:44.699Z"
+    },
     {
       "id": "1g8IwMZAo-iiJ7Trs0JnGg1kUvcogsWQA",
       "name": "Cardiac_Cases_Review Management_2026.pptx",
@@ -363,18 +387,6 @@
       "link": "https://drive.google.com/file/d/1uFArpRQI3yZYxCheLvuSGByFPPdv80Wf/view?usp=sharing",
       "size": 70001961,
       "modifiedTime": "2026-09-28T15:39:08.622Z"
-    },
-    {
-      "id": "1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9",
-      "name": "PEN-Plus Study Group & Research Papers_NCDIPN_2024.xlsx",
-      "type": "XLSX",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "category": "Research",
-      "language": "English",
-      "path": "11_Evaluation: Facility Assessments and Chart Review Tools",
-      "link": "https://drive.google.com/file/d/1JdhDoiG-K6Cue08To8TJlFeub-H8RPI9/view?usp=sharing",
-      "size": 48155,
-      "modifiedTime": "2026-09-23T18:35:34.486Z"
     },
     {
       "id": "1peglDqGPNcLmY9eFxzB88S4rJ1_6Fa6ykzXF9ADB6V0",
@@ -951,6 +963,42 @@
       "link": "https://drive.google.com/file/d/13gRim3-Zhc3L46KnOEmkWma6EfwPJN0f/view?usp=sharing",
       "size": 1111285,
       "modifiedTime": "2026-06-13T19:45:26.000Z"
+    },
+    {
+      "id": "1wA4J31fvj8qP7j0H4xgIGYFvhjoHW1hV",
+      "name": "Sickle Cell Disease Assessment Tool- Short answer and simulation.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training assessment_SCD",
+      "link": "https://drive.google.com/file/d/1wA4J31fvj8qP7j0H4xgIGYFvhjoHW1hV/view?usp=sharing",
+      "size": 19887,
+      "modifiedTime": "2026-06-11T08:40:50.004Z"
+    },
+    {
+      "id": "1y3WjP6T63zfHrVVp8QYjTR7eJKWAjG7N",
+      "name": "Sickle Cell Disease Assessment tool-MCQ.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training assessment_SCD",
+      "link": "https://drive.google.com/file/d/1y3WjP6T63zfHrVVp8QYjTR7eJKWAjG7N/view?usp=sharing",
+      "size": 21438,
+      "modifiedTime": "2026-06-11T08:40:47.906Z"
+    },
+    {
+      "id": "1wtrbsdLsqL1o3Y9n_YCy2nJm_gh2q7O5",
+      "name": "Sickle Cell Assessment Tool-OSCE.docx",
+      "type": "DOCX",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "category": "Hematology",
+      "language": "English",
+      "path": "3_Training/1_Training_Didactics_and_Protocols/8. Sickle Cell Didactic and Protocols/Training assessment_SCD",
+      "link": "https://drive.google.com/file/d/1wtrbsdLsqL1o3Y9n_YCy2nJm_gh2q7O5/view?usp=sharing",
+      "size": 20787,
+      "modifiedTime": "2026-06-11T08:40:45.986Z"
     },
     {
       "id": "10oY4o5ZMpOfHLU-QPMIUSIrXmJ8CUJUo",
